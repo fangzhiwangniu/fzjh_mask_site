@@ -100,6 +100,11 @@
       transition: opacity .25s ease;
     }
     .image-wrap canvas.ready { opacity: 1; }
+    .image-wrap.dynamic-active.image-backdrop {
+      background-image: var(--mask-bg);
+      background-size: cover;
+      background-position: center;
+    }
     .image-wrap.dynamic-active img { opacity: 0; }
     .image-wrap.dynamic-active.canvas-failed img { opacity: 1; }
     .selectors { display: flex; flex-direction: column; gap: 6px; margin: 0 0 10px; }
@@ -239,6 +244,13 @@
       const art = selectedArt(level, mask.maskId);
       const image = art?.image || mask.image;
       const isDynamic = Boolean(art?.anim && spineSupported);
+      const useImageBackdrop = isDynamic && Boolean(art?.useImageBackdrop);
+      const wrapClass = [
+        "image-wrap",
+        isDynamic && "dynamic-active",
+        useImageBackdrop && "image-backdrop"
+      ].filter(Boolean).join(" ");
+      const wrapStyle = useImageBackdrop && image ? ` style="--mask-bg:url('./${image}')"` : "";
       const imageHtml = image
         ? `<img src="./${image}" alt="${mask.name}" onerror="imageFallback(this)">`
         : `<div class="image-fallback">🎭</div>`;
@@ -264,7 +276,7 @@
       ].join("");
       return `
         <article class="mask-card">
-          <div class="image-wrap${isDynamic ? " dynamic-active" : ""}">
+          <div class="${wrapClass}"${wrapStyle}>
             ${imageHtml}
             ${dynamicCanvas}
           </div>
