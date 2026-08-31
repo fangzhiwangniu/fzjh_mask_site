@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyuan/by-beijng
+  rotate: true
+  xy: 174, 256
+  size: 256, 234
+  orig: 256, 234
+  offset: 0, 0
+  index: -1
+baiyuan/by-qf
+  rotate: false
+  xy: 751, 6
+  size: 169, 102
+  orig: 169, 102
+  offset: 0, 0
+  index: -1
+baiyuan/by-st
+  rotate: true
+  xy: 439, 9
+  size: 245, 107
+  orig: 245, 107
+  offset: 0, 0
+  index: -1
+baiyuan/by-taozi
+  rotate: true
+  xy: 889, 294
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+baiyuan/by-tou
+  rotate: false
+  xy: 262, 0
+  size: 175, 254
+  orig: 175, 254
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-bj
+  rotate: false
+  xy: 0, 2
+  size: 260, 234
+  orig: 260, 234
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-cg
+  rotate: true
+  xy: 889, 186
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-dmz
+  rotate: true
+  xy: 751, 230
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-mbg
+  rotate: true
+  xy: 889, 413
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-mz
+  rotate: true
+  xy: 586, 256
+  size: 256, 145
+  orig: 256, 145
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-mzg
+  rotate: true
+  xy: 410, 256
+  size: 256, 174
+  orig: 256, 174
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-qf
+  rotate: false
+  xy: 733, 285
+  size: 154, 227
+  orig: 154, 227
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-shou
+  rotate: false
+  xy: 798, 110
+  size: 85, 173
+  orig: 85, 173
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-slz
+  rotate: true
+  xy: 751, 166
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-st
+  rotate: true
+  xy: 548, 20
+  size: 234, 201
+  orig: 239, 201
+  offset: 5, 0
+  index: -1
+baiyuan/by-y-tou
+  rotate: false
+  xy: 0, 238
+  size: 172, 274
+  orig: 172, 274
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-yz1
+  rotate: true
+  xy: 751, 198
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-yz2
+  rotate: true
+  xy: 174, 243
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-yz3
+  rotate: false
+  xy: 733, 262
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+baiyuan/by-y-zb
+  rotate: false
+  xy: 922, 38
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1

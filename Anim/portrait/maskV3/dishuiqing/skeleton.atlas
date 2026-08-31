@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dishuiqing/dishuiqing_baosha
+  rotate: false
+  xy: 222, 38
+  size: 110, 218
+  orig: 110, 218
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_beijing
+  rotate: true
+  xy: 0, 19
+  size: 237, 220
+  orig: 256, 256
+  offset: 15, 26
+  index: -1
+dishuiqing/dishuiqing_dingfa
+  rotate: false
+  xy: 491, 6
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_erhuan
+  rotate: true
+  xy: 58, 11
+  size: 6, 23
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_guangban
+  rotate: false
+  xy: 648, 159
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_guangxiao1
+  rotate: true
+  xy: 812, 9
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_guangxiao2
+  rotate: true
+  xy: 894, 109
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_houfa
+  rotate: true
+  xy: 648, 199
+  size: 57, 135
+  orig: 57, 135
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_houlianzi
+  rotate: true
+  xy: 516, 62
+  size: 93, 146
+  orig: 99, 147
+  offset: 3, 1
+  index: -1
+dishuiqing/dishuiqing_lian
+  rotate: false
+  xy: 563, 162
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_lianzi
+  rotate: true
+  xy: 222, 10
+  size: 26, 168
+  orig: 26, 168
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_liuhai
+  rotate: true
+  xy: 847, 115
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_liuhai2
+  rotate: true
+  xy: 392, 3
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_maozi
+  rotate: false
+  xy: 334, 157
+  size: 227, 99
+  orig: 227, 99
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_shasha
+  rotate: true
+  xy: 906, 184
+  size: 72, 86
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_shenti
+  rotate: false
+  xy: 673, 69
+  size: 172, 128
+  orig: 172, 130
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_shoulijian
+  rotate: true
+  xy: 334, 40
+  size: 115, 180
+  orig: 115, 180
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_yanjing
+  rotate: false
+  xy: 0, 6
+  size: 56, 11
+  orig: 56, 11
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_youfa1
+  rotate: true
+  xy: 707, 3
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_youshou
+  rotate: true
+  xy: 785, 199
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_zuofa1
+  rotate: true
+  xy: 567, 0
+  size: 60, 138
+  orig: 60, 140
+  offset: 0, 0
+  index: -1

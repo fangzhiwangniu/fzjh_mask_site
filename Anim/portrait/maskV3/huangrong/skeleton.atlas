@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laobanhuangrong/huangrongerban_010
+  rotate: true
+  xy: 222, 4
+  size: 85, 145
+  orig: 85, 145
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_011
+  rotate: true
+  xy: 476, 4
+  size: 6, 33
+  orig: 6, 33
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_012
+  rotate: true
+  xy: 503, 18
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_013
+  rotate: true
+  xy: 511, 8
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_02
+  rotate: false
+  xy: 433, 12
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_03
+  rotate: true
+  xy: 369, 28
+  size: 27, 158
+  orig: 50, 160
+  offset: 23, 2
+  index: -1
+laobanhuangrong/huangrongerban_04
+  rotate: true
+  xy: 433, 2
+  size: 8, 41
+  orig: 8, 41
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_05
+  rotate: true
+  xy: 369, 57
+  size: 61, 165
+  orig: 61, 165
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_06
+  rotate: false
+  xy: 369, 120
+  size: 125, 136
+  orig: 126, 140
+  offset: 1, 2
+  index: -1
+laobanhuangrong/huangrongerban_07
+  rotate: false
+  xy: 222, 91
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_08
+  rotate: true
+  xy: 496, 160
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_09
+  rotate: false
+  xy: 369, 3
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+laobanhuangrong/huangrongerban_1
+  rotate: true
+  xy: 0, 0
+  size: 256, 220
+  orig: 256, 220
+  offset: 0, 0
+  index: -1
+taohuadaozhu/ta-huaban
+  rotate: false
+  xy: 529, 37
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongsunyi/gsy-bj
+  rotate: false
+  xy: 0, 215
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-houfa
+  rotate: true
+  xy: 185, 104
+  size: 109, 222
+  orig: 109, 222
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-qianfa
+  rotate: true
+  xy: 0, 0
+  size: 61, 183
+  orig: 61, 183
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-shenti
+  rotate: false
+  xy: 0, 63
+  size: 183, 150
+  orig: 183, 150
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-shou
+  rotate: true
+  xy: 185, 8
+  size: 94, 222
+  orig: 94, 225
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-szzs
+  rotate: true
+  xy: 257, 318
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-tou
+  rotate: false
+  xy: 257, 333
+  size: 134, 138
+  orig: 134, 138
+  offset: 0, 0
+  index: -1
+gongsunyi/gsy-yj
+  rotate: false
+  xy: 303, 321
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1

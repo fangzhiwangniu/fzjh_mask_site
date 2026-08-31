@@ -1,0 +1,613 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguanshu/jgm-1
+  rotate: true
+  xy: 440, 833
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-10
+  rotate: true
+  xy: 849, 739
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-11
+  rotate: false
+  xy: 457, 653
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-12
+  rotate: false
+  xy: 236, 542
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-2
+  rotate: true
+  xy: 337, 909
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-3
+  rotate: true
+  xy: 723, 906
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-4
+  rotate: false
+  xy: 0, 882
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-5
+  rotate: false
+  xy: 516, 832
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-6
+  rotate: true
+  xy: 216, 841
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-7
+  rotate: true
+  xy: 611, 644
+  size: 97, 166
+  orig: 98, 166
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-8
+  rotate: false
+  xy: 317, 755
+  size: 153, 76
+  orig: 153, 76
+  offset: 0, 0
+  index: -1
+jiguanshu/jgm-9
+  rotate: false
+  xy: 779, 626
+  size: 126, 111
+  orig: 126, 111
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-dp
+  rotate: false
+  xy: 0, 543
+  size: 234, 124
+  orig: 234, 124
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-jk
+  rotate: true
+  xy: 0, 681
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-m1
+  rotate: false
+  xy: 0, 968
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-m2
+  rotate: false
+  xy: 16, 964
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-pd1
+  rotate: true
+  xy: 60, 953
+  size: 21, 75
+  orig: 21, 75
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-qf
+  rotate: true
+  xy: 137, 953
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-tou
+  rotate: true
+  xy: 577, 749
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-ys
+  rotate: true
+  xy: 263, 914
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-zb
+  rotate: false
+  xy: 41, 958
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-zs
+  rotate: true
+  xy: 671, 829
+  size: 75, 322
+  orig: 75, 322
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-zsb
+  rotate: true
+  xy: 191, 921
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen1
+  rotate: false
+  xy: 124, 669
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen2
+  rotate: false
+  xy: 668, 743
+  size: 179, 84
+  orig: 179, 84
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen3
+  rotate: true
+  xy: 594, 832
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen4
+  rotate: false
+  xy: 233, 669
+  size: 222, 84
+  orig: 222, 84
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen5
+  rotate: false
+  xy: 472, 752
+  size: 103, 78
+  orig: 103, 78
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao1
+  rotate: false
+  xy: 794, 906
+  size: 73, 68
+  orig: 80, 79
+  offset: 3, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao10
+  rotate: false
+  xy: 71, 881
+  size: 70, 70
+  orig: 80, 79
+  offset: 7, 3
+  index: -1
+jiguanshuhujia/xiaofengtexiao11
+  rotate: true
+  xy: 946, 906
+  size: 68, 73
+  orig: 80, 79
+  offset: 8, 2
+  index: -1
+jiguanshuhujia/xiaofengtexiao12
+  rotate: true
+  xy: 484, 908
+  size: 66, 76
+  orig: 80, 79
+  offset: 7, 3
+  index: -1
+jiguanshuhujia/xiaofengtexiao13
+  rotate: true
+  xy: 644, 907
+  size: 67, 77
+  orig: 80, 79
+  offset: 8, 1
+  index: -1
+jiguanshuhujia/xiaofengtexiao14
+  rotate: true
+  xy: 143, 849
+  size: 70, 71
+  orig: 80, 79
+  offset: 6, 2
+  index: -1
+jiguanshuhujia/xiaofengtexiao15
+  rotate: false
+  xy: 290, 836
+  size: 72, 71
+  orig: 80, 79
+  offset: 4, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao2
+  rotate: false
+  xy: 364, 834
+  size: 74, 72
+  orig: 80, 79
+  offset: 1, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao3
+  rotate: false
+  xy: 0, 804
+  size: 75, 75
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao4
+  rotate: true
+  xy: 77, 771
+  size: 76, 78
+  orig: 80, 79
+  offset: 1, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao5
+  rotate: true
+  xy: 157, 763
+  size: 76, 77
+  orig: 80, 79
+  offset: 4, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao6
+  rotate: true
+  xy: 236, 757
+  size: 77, 79
+  orig: 80, 79
+  offset: 3, 0
+  index: -1
+jiguanshuhujia/xiaofengtexiao7
+  rotate: false
+  xy: 562, 907
+  size: 80, 67
+  orig: 80, 79
+  offset: 0, 1
+  index: -1
+jiguanshuhujia/xiaofengtexiao8
+  rotate: false
+  xy: 409, 908
+  size: 73, 66
+  orig: 80, 79
+  offset: 4, 2
+  index: -1
+jiguanshuhujia/xiaofengtexiao9
+  rotate: false
+  xy: 869, 906
+  size: 75, 68
+  orig: 80, 79
+  offset: 4, 2
+  index: -1
+jiguanshuhujia/xueshanguanghuan102
+  rotate: true
+  xy: 369, 476
+  size: 175, 235
+  orig: 300, 300
+  offset: 71, 48
+  index: -1
+jiguanshuhujia/xueshanguanghuan103
+  rotate: true
+  xy: 0, 183
+  size: 179, 239
+  orig: 300, 300
+  offset: 67, 44
+  index: -1
+jiguanshuhujia/xueshanguanghuan106
+  rotate: true
+  xy: 251, 297
+  size: 177, 247
+  orig: 300, 300
+  offset: 68, 34
+  index: -1
+jiguanshuhujia/xueshanguanghuan107
+  rotate: true
+  xy: 743, 269
+  size: 178, 249
+  orig: 300, 300
+  offset: 65, 34
+  index: -1
+jiguanshuhujia/xueshanguanghuan108
+  rotate: true
+  xy: 0, 364
+  size: 176, 249
+  orig: 300, 300
+  offset: 61, 35
+  index: -1
+jiguanshuhujia/xueshanguanghuan109
+  rotate: true
+  xy: 606, 449
+  size: 175, 249
+  orig: 300, 300
+  offset: 58, 35
+  index: -1
+jiguanshuhujia/xueshanguanghuan110
+  rotate: true
+  xy: 241, 116
+  size: 179, 246
+  orig: 300, 300
+  offset: 59, 35
+  index: -1
+jiguanshuhujia/xueshanguanghuan111
+  rotate: true
+  xy: 489, 89
+  size: 179, 243
+  orig: 300, 300
+  offset: 60, 37
+  index: -1
+jiguanshuhujia/xueshanguanghuan112
+  rotate: true
+  xy: 734, 86
+  size: 181, 227
+  orig: 300, 300
+  offset: 59, 47
+  index: -1
+jiguanshuhujia/xueshanguanghuan114
+  rotate: true
+  xy: 0, 0
+  size: 181, 229
+  orig: 300, 300
+  offset: 60, 50
+  index: -1
+jiguanshuhujia/xueshanguanghuan115
+  rotate: true
+  xy: 500, 270
+  size: 177, 241
+  orig: 300, 300
+  offset: 62, 41
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguanshuhujia/hj-bj
+  rotate: false
+  xy: 0, 762
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/hj-st
+  rotate: false
+  xy: 226, 556
+  size: 249, 204
+  orig: 249, 204
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/jiguanhujiafuwen
+  rotate: true
+  xy: 0, 538
+  size: 222, 224
+  orig: 256, 251
+  offset: 17, 13
+  index: -1
+jiguanshuhujia/linfengtexiao1_1
+  rotate: false
+  xy: 259, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_10
+  rotate: false
+  xy: 676, 415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_11
+  rotate: false
+  xy: 679, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_2
+  rotate: false
+  xy: 461, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_3
+  rotate: false
+  xy: 226, 354
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_4
+  rotate: false
+  xy: 0, 336
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_5
+  rotate: false
+  xy: 663, 819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_6
+  rotate: false
+  xy: 477, 617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_7
+  rotate: false
+  xy: 428, 168
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_8
+  rotate: false
+  xy: 202, 152
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_9
+  rotate: false
+  xy: 0, 134
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/xueshanguanghuan104
+  rotate: true
+  xy: 630, 186
+  size: 182, 245
+  orig: 300, 300
+  offset: 63, 38
+  index: -1
+jiguanshuhujia/xueshanguanghuan105
+  rotate: true
+  xy: 428, 370
+  size: 184, 246
+  orig: 300, 300
+  offset: 61, 35
+  index: -1
+jiguanshuhujia/xueshanguanghuan113
+  rotate: true
+  xy: 630, 0
+  size: 184, 218
+  orig: 300, 300
+  offset: 59, 60
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguanshuhujia/linfengtexiao1_12
+  rotate: false
+  xy: 472, 404
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_13
+  rotate: false
+  xy: 674, 404
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_14
+  rotate: false
+  xy: 0, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_15
+  rotate: false
+  xy: 202, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_16
+  rotate: false
+  xy: 404, 202
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_17
+  rotate: false
+  xy: 606, 202
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_18
+  rotate: false
+  xy: 808, 202
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_19
+  rotate: false
+  xy: 0, 18
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_20
+  rotate: false
+  xy: 202, 18
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_21
+  rotate: false
+  xy: 404, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_22
+  rotate: false
+  xy: 606, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/linfengtexiao1_23
+  rotate: false
+  xy: 808, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jiguanshuhujia/xueshanguanghuan101
+  rotate: true
+  xy: 0, 422
+  size: 182, 229
+  orig: 300, 300
+  offset: 62, 54
+  index: -1
+jiguanshuhujia/xueshanguanghuan116
+  rotate: true
+  xy: 231, 422
+  size: 182, 239
+  orig: 300, 300
+  offset: 62, 45
+  index: -1

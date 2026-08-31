@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youshenshi/hr_beijing
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+youshenshi/hr_chuifa
+  rotate: true
+  xy: 213, 17
+  size: 47, 109
+  orig: 66, 134
+  offset: 19, 0
+  index: -1
+youshenshi/hr_duizui
+  rotate: false
+  xy: 516, 261
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+youshenshi/hr_houfa
+  rotate: true
+  xy: 213, 66
+  size: 188, 174
+  orig: 188, 174
+  offset: 0, 0
+  index: -1
+youshenshi/hr_huaban
+  rotate: false
+  xy: 258, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+youshenshi/hr_huaduo
+  rotate: true
+  xy: 759, 0
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+youshenshi/hr_hudie1
+  rotate: true
+  xy: 710, 327
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+youshenshi/hr_hudie2
+  rotate: true
+  xy: 767, 191
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+youshenshi/hr_hudie3
+  rotate: false
+  xy: 810, 196
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+youshenshi/hr_hudie4
+  rotate: true
+  xy: 859, 113
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+youshenshi/hr_hudie5
+  rotate: false
+  xy: 759, 473
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+youshenshi/hr_kongqitoushi
+  rotate: true
+  xy: 389, 75
+  size: 179, 132
+  orig: 179, 132
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianfa
+  rotate: true
+  xy: 516, 371
+  size: 141, 135
+  orig: 142, 138
+  offset: 1, 3
+  index: -1
+youshenshi/hr_qianhudie1
+  rotate: true
+  xy: 710, 281
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianhudie2
+  rotate: false
+  xy: 760, 283
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianhudie3
+  rotate: false
+  xy: 767, 238
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianhudie4
+  rotate: true
+  xy: 842, 154
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianhudie5
+  rotate: false
+  xy: 523, 76
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+youshenshi/hr_qianhudie6
+  rotate: true
+  xy: 754, 330
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+youshenshi/hr_shou
+  rotate: true
+  xy: 523, 111
+  size: 148, 81
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+youshenshi/hr_shou2
+  rotate: false
+  xy: 324, 5
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+youshenshi/hr_shouzhi
+  rotate: false
+  xy: 567, 85
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+youshenshi/hr_texiao
+  rotate: false
+  xy: 406, 8
+  size: 214, 65
+  orig: 214, 65
+  offset: 0, 0
+  index: -1
+youshenshi/hr_texiao2
+  rotate: true
+  xy: 516, 280
+  size: 89, 192
+  orig: 89, 192
+  offset: 0, 0
+  index: -1
+youshenshi/hr_tousha
+  rotate: true
+  xy: 622, 11
+  size: 66, 135
+  orig: 68, 142
+  offset: 0, 7
+  index: -1
+youshenshi/hr_tousha2
+  rotate: true
+  xy: 680, 180
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+youshenshi/hr_tousha3
+  rotate: false
+  xy: 843, 34
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+youshenshi/hr_tousha4
+  rotate: true
+  xy: 653, 381
+  size: 131, 104
+  orig: 155, 116
+  offset: 24, 12
+  index: -1
+youshenshi/hr_yanjing
+  rotate: false
+  xy: 616, 79
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+youshenshi/hr_yanjing1
+  rotate: false
+  xy: 680, 135
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+youshenshi/hr_yanjing2
+  rotate: false
+  xy: 697, 91
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+youshenshi/hr_yanjing3
+  rotate: false
+  xy: 761, 136
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+youshenshi/hr_yanjing4
+  rotate: false
+  xy: 778, 92
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zhuti
+  rotate: true
+  xy: 0, 5
+  size: 249, 211
+  orig: 249, 211
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuiba
+  rotate: true
+  xy: 843, 0
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuiba1
+  rotate: false
+  xy: 545, 261
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuiba2
+  rotate: false
+  xy: 574, 261
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuiba3
+  rotate: false
+  xy: 603, 261
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuibaguodu
+  rotate: false
+  xy: 213, 0
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+youshenshi/hr_zuochuifa
+  rotate: false
+  xy: 606, 124
+  size: 72, 135
+  orig: 72, 135
+  offset: 0, 0
+  index: -1

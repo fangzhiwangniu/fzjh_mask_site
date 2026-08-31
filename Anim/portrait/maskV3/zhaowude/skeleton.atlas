@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaowude/zhaowude_1
+  rotate: true
+  xy: 166, 69
+  size: 87, 136
+  orig: 256, 256
+  offset: 146, 120
+  index: -1
+zhaowude/zhaowude_10
+  rotate: true
+  xy: 166, 158
+  size: 96, 250
+  orig: 96, 250
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_11
+  rotate: true
+  xy: 205, 8
+  size: 59, 170
+  orig: 59, 181
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_2
+  rotate: true
+  xy: 377, 33
+  size: 51, 130
+  orig: 51, 130
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_3
+  rotate: false
+  xy: 509, 0
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_4
+  rotate: true
+  xy: 0, 49
+  size: 205, 164
+  orig: 205, 166
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_5
+  rotate: true
+  xy: 418, 205
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_6
+  rotate: true
+  xy: 482, 137
+  size: 117, 145
+  orig: 117, 145
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_7
+  rotate: true
+  xy: 304, 114
+  size: 42, 176
+  orig: 42, 176
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_8
+  rotate: true
+  xy: 0, 2
+  size: 45, 203
+  orig: 45, 203
+  offset: 0, 0
+  index: -1
+zhaowude/zhaowude_9
+  rotate: true
+  xy: 304, 86
+  size: 26, 198
+  orig: 26, 198
+  offset: 0, 0
+  index: -1

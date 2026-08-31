@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishenye/caishen_lian
+  rotate: false
+  xy: 878, 48
+  size: 61, 79
+  orig: 61, 79
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa1
+  rotate: true
+  xy: 400, 10
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa2
+  rotate: false
+  xy: 0, 2
+  size: 82, 125
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa3
+  rotate: true
+  xy: 909, 0
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa4
+  rotate: false
+  xy: 978, 69
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa5
+  rotate: true
+  xy: 861, 9
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+caishenye/caishen_maofa6
+  rotate: false
+  xy: 828, 35
+  size: 48, 92
+  orig: 50, 92
+  offset: 2, 0
+  index: -1
+caishenye/caishen_maofa7
+  rotate: false
+  xy: 736, 16
+  size: 90, 111
+  orig: 138, 111
+  offset: 48, 0
+  index: -1
+caishenye/caishen_maozi
+  rotate: false
+  xy: 84, 5
+  size: 241, 122
+  orig: 241, 132
+  offset: 0, 10
+  index: -1
+caishenye/caishen_shenti
+  rotate: false
+  xy: 567, 11
+  size: 167, 116
+  orig: 167, 116
+  offset: 0, 0
+  index: -1
+caishenye/caishen_shou
+  rotate: false
+  xy: 327, 8
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+caishenye/caishen_yanjing
+  rotate: false
+  xy: 941, 50
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+caishenye/caishen_yuanbao
+  rotate: true
+  xy: 828, 1
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

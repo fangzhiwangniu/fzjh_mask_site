@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miaofeng/fg-beijing
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+miaofeng/mf-beiguang
+  rotate: false
+  xy: 258, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+miaofeng/mf-dingcengguang
+  rotate: true
+  xy: 0, 29
+  size: 225, 205
+  orig: 225, 205
+  offset: 0, 0
+  index: -1
+miaofeng/mf-gaoguang
+  rotate: false
+  xy: 440, 105
+  size: 107, 149
+  orig: 107, 150
+  offset: 0, 1
+  index: -1
+miaofeng/mf-renwuguang
+  rotate: false
+  xy: 333, 0
+  size: 70, 74
+  orig: 70, 75
+  offset: 0, 1
+  index: -1
+miaofeng/mf-shenti
+  rotate: true
+  xy: 516, 256
+  size: 256, 142
+  orig: 256, 142
+  offset: 0, 0
+  index: -1
+miaofeng/mf-shentiguang
+  rotate: true
+  xy: 207, 38
+  size: 216, 124
+  orig: 216, 124
+  offset: 0, 0
+  index: -1
+miaofeng/mf-tou
+  rotate: false
+  xy: 333, 76
+  size: 105, 178
+  orig: 105, 178
+  offset: 0, 0
+  index: -1
+miaofeng/mf-yanjing
+  rotate: false
+  xy: 0, 15
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1

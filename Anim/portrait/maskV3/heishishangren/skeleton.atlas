@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heishishangren/heishishangrenbeijingshu
+  rotate: false
+  xy: 516, 246
+  size: 238, 256
+  orig: 238, 256
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrenbeijingshuye
+  rotate: true
+  xy: 0, 0
+  size: 244, 256
+  orig: 244, 256
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrendouliguashi
+  rotate: true
+  xy: 258, 21
+  size: 29, 235
+  orig: 29, 235
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrendoulihou
+  rotate: false
+  xy: 733, 102
+  size: 272, 90
+  orig: 278, 90
+  offset: 6, 0
+  index: -1
+heishishangren/heishishangrendoulilianzihou
+  rotate: false
+  xy: 756, 324
+  size: 256, 178
+  orig: 256, 178
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrendoulilianziqian
+  rotate: false
+  xy: 258, 52
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrendouliqian
+  rotate: false
+  xy: 756, 194
+  size: 267, 128
+  orig: 284, 128
+  offset: 17, 0
+  index: -1
+heishishangren/heishishangrentou
+  rotate: false
+  xy: 0, 246
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrentoufa
+  rotate: true
+  xy: 516, 53
+  size: 191, 215
+  orig: 191, 215
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrenyanjing
+  rotate: false
+  xy: 805, 35
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrenyanjingyankuang
+  rotate: false
+  xy: 733, 35
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+heishishangren/heishishangrenyifu
+  rotate: false
+  xy: 258, 246
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

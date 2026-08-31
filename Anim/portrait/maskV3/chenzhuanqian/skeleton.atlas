@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenzhuanqian/chenzhuanqian-beijing
+  rotate: false
+  xy: 257, 255
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-houfa
+  rotate: false
+  xy: 0, 211
+  size: 255, 300
+  orig: 310, 300
+  offset: 11, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-lian-1
+  rotate: false
+  xy: 402, 103
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-lian-2
+  rotate: true
+  xy: 482, 1
+  size: 100, 107
+  orig: 115, 150
+  offset: 1, 43
+  index: -1
+chenzhuanqian/chenzhuanqian-lian-3
+  rotate: true
+  xy: 515, 259
+  size: 100, 107
+  orig: 115, 150
+  offset: 1, 43
+  index: -1
+chenzhuanqian/chenzhuanqian-lian-4
+  rotate: true
+  xy: 624, 259
+  size: 100, 107
+  orig: 115, 150
+  offset: 1, 43
+  index: -1
+chenzhuanqian/chenzhuanqian-lian-5
+  rotate: false
+  xy: 515, 361
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-shenti
+  rotate: false
+  xy: 100, 46
+  size: 300, 163
+  orig: 300, 169
+  offset: 0, 3
+  index: -1
+chenzhuanqian/chenzhuanqian-youqianbi
+  rotate: true
+  xy: 568, 139
+  size: 118, 64
+  orig: 125, 71
+  offset: 4, 4
+  index: -1
+chenzhuanqian/chenzhuanqian-youqianfa
+  rotate: false
+  xy: 519, 133
+  size: 47, 124
+  orig: 48, 124
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-youshou
+  rotate: true
+  xy: 402, 0
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-zhongfa
+  rotate: false
+  xy: 591, 25
+  size: 111, 112
+  orig: 115, 116
+  offset: 3, 1
+  index: -1
+chenzhuanqian/chenzhuanqian-zuoqianfa
+  rotate: true
+  xy: 100, 6
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-zuoshou
+  rotate: true
+  xy: 0, 19
+  size: 190, 98
+  orig: 197, 101
+  offset: 3, 0
+  index: -1
+chenzhuanqian/chenzhuanqian-zuoshoubi
+  rotate: false
+  xy: 222, 6
+  size: 84, 38
+  orig: 88, 40
+  offset: 0, 2
+  index: -1
+chenzhuanqian/hr_xingman7
+  rotate: false
+  xy: 308, 8
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+chenzhuanqian/hr_xingmang7
+  rotate: false
+  xy: 634, 179
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1

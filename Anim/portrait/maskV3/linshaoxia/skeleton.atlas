@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linshaoxia/hr_beijing
+  rotate: false
+  xy: 208, 256
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_houfa
+  rotate: true
+  xy: 850, 4
+  size: 94, 123
+  orig: 94, 125
+  offset: 0, 2
+  index: -1
+linshaoxia/hr_jian
+  rotate: false
+  xy: 0, 236
+  size: 102, 276
+  orig: 102, 276
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_jian2
+  rotate: false
+  xy: 104, 239
+  size: 102, 273
+  orig: 102, 280
+  offset: 0, 7
+  index: -1
+linshaoxia/hr_mao
+  rotate: true
+  xy: 222, 14
+  size: 228, 123
+  orig: 228, 123
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_mao2
+  rotate: true
+  xy: 83, 5
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_piaofa
+  rotate: true
+  xy: 373, 30
+  size: 50, 171
+  orig: 50, 171
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_qianfa1
+  rotate: false
+  xy: 0, 1
+  size: 81, 233
+  orig: 81, 233
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_qianfa2
+  rotate: true
+  xy: 595, 3
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_shenti
+  rotate: true
+  xy: 465, 256
+  size: 256, 140
+  orig: 256, 140
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_shou
+  rotate: true
+  xy: 654, 100
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_shou2
+  rotate: true
+  xy: 654, 202
+  size: 143, 140
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_tou
+  rotate: false
+  xy: 506, 88
+  size: 146, 166
+  orig: 165, 186
+  offset: 5, 20
+  index: -1
+linshaoxia/hr_tou2
+  rotate: false
+  xy: 347, 82
+  size: 157, 172
+  orig: 198, 178
+  offset: 0, 6
+  index: -1
+linshaoxia/hr_xingman5
+  rotate: true
+  xy: 373, 0
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_yanbeijing
+  rotate: true
+  xy: 347, 13
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_yanbu
+  rotate: false
+  xy: 794, 100
+  size: 137, 100
+  orig: 138, 118
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_yanbu2
+  rotate: true
+  xy: 546, 1
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+linshaoxia/hr_zuotoufa
+  rotate: false
+  xy: 607, 347
+  size: 81, 165
+  orig: 81, 167
+  offset: 0, 2
+  index: -1
+linshaoxia/hr_zuotoufa2
+  rotate: true
+  xy: 719, 1
+  size: 97, 129
+  orig: 101, 129
+  offset: 4, 0
+  index: -1
+linshaoxia/yanzhu1
+  rotate: true
+  xy: 221, 244
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+linshaoxia/yanzhu2
+  rotate: true
+  xy: 208, 238
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1

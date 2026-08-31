@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinsusu/susuerduan
+  rotate: false
+  xy: 494, 31
+  size: 57, 13
+  orig: 256, 256
+  offset: 112, 123
+  index: -1
+yinsusu/susufadai
+  rotate: true
+  xy: 616, 0
+  size: 76, 86
+  orig: 256, 256
+  offset: 45, 64
+  index: -1
+yinsusu/susufengjing
+  rotate: false
+  xy: 0, 0
+  size: 246, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+yinsusu/susuhoutoufa
+  rotate: true
+  xy: 704, 24
+  size: 52, 87
+  orig: 256, 256
+  offset: 77, 60
+  index: -1
+yinsusu/susulvjing
+  rotate: false
+  xy: 248, 0
+  size: 244, 256
+  orig: 256, 256
+  offset: 10, 0
+  index: -1
+yinsusu/susuqiantoufa
+  rotate: false
+  xy: 761, 139
+  size: 82, 117
+  orig: 256, 256
+  offset: 114, 7
+  index: -1
+yinsusu/sususanduan
+  rotate: false
+  xy: 553, 36
+  size: 56, 8
+  orig: 256, 256
+  offset: 112, 120
+  index: -1
+yinsusu/susushenti
+  rotate: true
+  xy: 494, 46
+  size: 210, 120
+  orig: 256, 256
+  offset: 31, 0
+  index: -1
+yinsusu/sususiduan
+  rotate: false
+  xy: 494, 11
+  size: 55, 8
+  orig: 256, 256
+  offset: 113, 113
+  index: -1
+yinsusu/susutou
+  rotate: false
+  xy: 616, 78
+  size: 143, 178
+  orig: 256, 256
+  offset: 75, 66
+  index: -1
+yinsusu/susuwuduan
+  rotate: false
+  xy: 494, 2
+  size: 54, 7
+  orig: 256, 256
+  offset: 114, 106
+  index: -1
+yinsusu/susuyiduan
+  rotate: false
+  xy: 494, 21
+  size: 61, 8
+  orig: 256, 256
+  offset: 108, 134
+  index: -1

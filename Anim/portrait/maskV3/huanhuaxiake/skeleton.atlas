@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huanhuaxiake/hr_beijing
+  rotate: false
+  xy: 298, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_beijing2
+  rotate: false
+  xy: 392, 4
+  size: 165, 197
+  orig: 165, 197
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_benti
+  rotate: false
+  xy: 73, 246
+  size: 223, 266
+  orig: 239, 266
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_dao
+  rotate: true
+  xy: 218, 50
+  size: 107, 172
+  orig: 107, 172
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_houfa
+  rotate: true
+  xy: 373, 203
+  size: 51, 103
+  orig: 59, 110
+  offset: 0, 7
+  index: -1
+huanhuaxiake/hr_piaodai
+  rotate: true
+  xy: 0, 143
+  size: 369, 71
+  orig: 369, 71
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_piaoluohuaban
+  rotate: false
+  xy: 314, 166
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_piaoluohuaban1
+  rotate: true
+  xy: 73, 153
+  size: 91, 79
+  orig: 97, 81
+  offset: 6, 2
+  index: -1
+huanhuaxiake/hr_piaoluohuaban2
+  rotate: false
+  xy: 340, 6
+  size: 50, 42
+  orig: 53, 52
+  offset: 3, 6
+  index: -1
+huanhuaxiake/hr_piaoluohuaban3
+  rotate: false
+  xy: 218, 0
+  size: 56, 48
+  orig: 58, 48
+  offset: 2, 0
+  index: -1
+huanhuaxiake/hr_piaoluohuaban4
+  rotate: false
+  xy: 478, 204
+  size: 49, 50
+  orig: 57, 50
+  offset: 3, 0
+  index: -1
+huanhuaxiake/hr_piaoluohuaban5
+  rotate: true
+  xy: 276, 6
+  size: 42, 62
+  orig: 48, 66
+  offset: 2, 4
+  index: -1
+huanhuaxiake/hr_qianfa
+  rotate: false
+  xy: 143, 14
+  size: 73, 137
+  orig: 73, 137
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_shou
+  rotate: false
+  xy: 0, 0
+  size: 141, 141
+  orig: 141, 143
+  offset: 0, 2
+  index: -1
+huanhuaxiake/hr_xianglian
+  rotate: false
+  xy: 154, 159
+  size: 158, 85
+  orig: 158, 85
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_yanjing1
+  rotate: false
+  xy: 346, 174
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_yanjing2
+  rotate: true
+  xy: 529, 223
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_yanjing3
+  rotate: false
+  xy: 529, 207
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_yanjing4
+  rotate: true
+  xy: 545, 223
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+huanhuaxiake/hr_zhuishi
+  rotate: false
+  xy: 314, 190
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1

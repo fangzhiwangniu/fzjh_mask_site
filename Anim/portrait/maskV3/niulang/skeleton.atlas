@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaaaasddsdsd
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+aaaaasddsdsds
+  rotate: false
+  xy: 258, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+niulang/hr-niulangyanjing1
+  rotate: true
+  xy: 89, 11
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+niulang/hr-niulangyanjing2
+  rotate: true
+  xy: 103, 11
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+niulang/hr-niulangyanjing3
+  rotate: true
+  xy: 117, 11
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+niulang/hr-niulangyanjing4
+  rotate: true
+  xy: 355, 74
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+niulang/hr_beijing1
+  rotate: true
+  xy: 285, 97
+  size: 157, 256
+  orig: 157, 256
+  offset: 0, 0
+  index: -1
+niulang/hr_biankuang1
+  rotate: false
+  xy: 516, 256
+  size: 111, 256
+  orig: 111, 256
+  offset: 0, 0
+  index: -1
+niulang/hr_niulangshenti
+  rotate: false
+  xy: 375, 7
+  size: 147, 88
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+niulang/hr_niulangshou
+  rotate: true
+  xy: 598, 3
+  size: 122, 108
+  orig: 122, 115
+  offset: 0, 0
+  index: -1
+niulang/hr_niulangtou
+  rotate: false
+  xy: 129, 56
+  size: 154, 198
+  orig: 160, 202
+  offset: 4, 0
+  index: -1
+niulang/hr_niulangxiaoren
+  rotate: false
+  xy: 285, 59
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+niulang/hr_niulangxique
+  rotate: true
+  xy: 543, 127
+  size: 127, 63
+  orig: 127, 63
+  offset: 0, 0
+  index: -1
+niulang/hr_toujie1
+  rotate: false
+  xy: 294, 1
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+niulang/hr_toujie2
+  rotate: false
+  xy: 131, 0
+  size: 118, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+niulang/hr_xingxing
+  rotate: false
+  xy: 0, 34
+  size: 127, 220
+  orig: 127, 220
+  offset: 0, 0
+  index: -1
+niulang/hr_xique4
+  rotate: false
+  xy: 304, 60
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+niulang/hr_xique5
+  rotate: false
+  xy: 251, 0
+  size: 41, 54
+  orig: 52, 55
+  offset: 11, 1
+  index: -1
+niulang/hr_xique6
+  rotate: false
+  xy: 45, 2
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+niulang/hr_xique7
+  rotate: false
+  xy: 0, 2
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+niulang/hr_yueliang
+  rotate: false
+  xy: 524, 23
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1

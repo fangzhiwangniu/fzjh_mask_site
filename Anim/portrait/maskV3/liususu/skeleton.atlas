@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liususu/liususu_beijing
+  rotate: true
+  xy: 0, 0
+  size: 256, 180
+  orig: 256, 180
+  offset: 0, 0
+  index: -1
+liususu/liususu_huaban
+  rotate: true
+  xy: 821, 16
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+liususu/liususu_lian
+  rotate: false
+  xy: 641, 91
+  size: 97, 165
+  orig: 97, 165
+  offset: 0, 0
+  index: -1
+liususu/liususu_piaodai
+  rotate: true
+  xy: 497, 31
+  size: 225, 106
+  orig: 225, 106
+  offset: 0, 0
+  index: -1
+liususu/liususu_shou
+  rotate: true
+  xy: 605, 74
+  size: 182, 34
+  orig: 182, 34
+  offset: 0, 0
+  index: -1
+liususu/liususu_toufahou
+  rotate: false
+  xy: 300, 28
+  size: 195, 228
+  orig: 195, 229
+  offset: 0, 0
+  index: -1
+liususu/liususu_toufaqian
+  rotate: true
+  xy: 797, 110
+  size: 146, 110
+  orig: 146, 110
+  offset: 0, 0
+  index: -1
+liususu/liususu_toufayou
+  rotate: true
+  xy: 639, 17
+  size: 55, 180
+  orig: 55, 180
+  offset: 0, 0
+  index: -1
+liususu/liususu_toufazuo
+  rotate: false
+  xy: 740, 96
+  size: 55, 160
+  orig: 55, 160
+  offset: 0, 0
+  index: -1
+liususu/liususu_yan
+  rotate: true
+  xy: 605, 12
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+liususu/liususu_yifu
+  rotate: true
+  xy: 182, 0
+  size: 256, 116
+  orig: 256, 116
+  offset: 0, 0
+  index: -1

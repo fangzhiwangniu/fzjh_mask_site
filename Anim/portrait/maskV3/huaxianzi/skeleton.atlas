@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaxianzi/hxz-beijing
+  rotate: true
+  xy: 0, 171
+  size: 339, 246
+  orig: 339, 246
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-bianzi
+  rotate: false
+  xy: 777, 38
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-changfa
+  rotate: false
+  xy: 632, 21
+  size: 143, 231
+  orig: 143, 231
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-chouduan
+  rotate: false
+  xy: 0, 0
+  size: 195, 169
+  orig: 195, 169
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-dachuanglian
+  rotate: true
+  xy: 197, 4
+  size: 165, 297
+  orig: 165, 297
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-qingtai
+  rotate: false
+  xy: 753, 365
+  size: 256, 145
+  orig: 256, 145
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-qugan
+  rotate: false
+  xy: 777, 101
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-shizhi
+  rotate: true
+  xy: 521, 233
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-xiaobi
+  rotate: false
+  xy: 916, 250
+  size: 74, 113
+  orig: 74, 113
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-xiaochuanglian
+  rotate: true
+  xy: 753, 289
+  size: 74, 161
+  orig: 74, 161
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-xiaochuanglian you
+  rotate: true
+  xy: 248, 175
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-xmz
+  rotate: true
+  xy: 536, 233
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-yun 1
+  rotate: true
+  xy: 901, 50
+  size: 198, 115
+  orig: 198, 115
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-yun 2
+  rotate: true
+  xy: 248, 229
+  size: 281, 271
+  orig: 281, 271
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-yun 3
+  rotate: false
+  xy: 496, 0
+  size: 134, 227
+  orig: 134, 231
+  offset: 0, 4
+  index: -1
+huaxianzi/hxz-yunhai
+  rotate: true
+  xy: 521, 254
+  size: 256, 230
+  orig: 256, 230
+  offset: 0, 0
+  index: -1
+huaxianzi/hxz-zhongzhi
+  rotate: false
+  xy: 547, 238
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1

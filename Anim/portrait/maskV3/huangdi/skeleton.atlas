@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangdi/beijing
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huangdi/maozi1
+  rotate: false
+  xy: 548, 11
+  size: 122, 52
+  orig: 122, 52
+  offset: 0, 0
+  index: -1
+huangdi/maozi2
+  rotate: true
+  xy: 666, 160
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+huangdi/maozi3
+  rotate: false
+  xy: 482, 5
+  size: 18, 35
+  orig: 26, 35
+  offset: 5, 0
+  index: -1
+huangdi/shen
+  rotate: true
+  xy: 258, 0
+  size: 256, 146
+  orig: 256, 146
+  offset: 0, 0
+  index: -1
+huangdi/shou
+  rotate: true
+  xy: 406, 42
+  size: 214, 140
+  orig: 214, 140
+  offset: 0, 0
+  index: -1
+huangdi/tou
+  rotate: false
+  xy: 548, 65
+  size: 116, 191
+  orig: 116, 191
+  offset: 0, 0
+  index: -1
+huangdi/yan
+  rotate: false
+  xy: 406, 8
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choumuzhong/cmz-beijing
+  rotate: true
+  xy: 282, 207
+  size: 305, 267
+  orig: 305, 267
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-houfa
+  rotate: true
+  xy: 476, 3
+  size: 202, 200
+  orig: 202, 200
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-meimao
+  rotate: false
+  xy: 125, 7
+  size: 98, 15
+  orig: 98, 15
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-mianju
+  rotate: false
+  xy: 0, 6
+  size: 123, 180
+  orig: 123, 180
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-qianfa
+  rotate: false
+  xy: 950, 317
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-shenti
+  rotate: true
+  xy: 679, 208
+  size: 304, 128
+  orig: 304, 128
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-shou
+  rotate: false
+  xy: 831, 13
+  size: 117, 200
+  orig: 117, 200
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-tou
+  rotate: false
+  xy: 323, 0
+  size: 151, 205
+  orig: 151, 205
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-wq-you
+  rotate: true
+  xy: 0, 188
+  size: 324, 139
+  orig: 324, 139
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-wq-zuo
+  rotate: true
+  xy: 141, 188
+  size: 324, 139
+  orig: 324, 139
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-yanzhu
+  rotate: false
+  xy: 892, 225
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-youbianzi
+  rotate: false
+  xy: 809, 215
+  size: 56, 223
+  orig: 56, 223
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz-zuobianzi
+  rotate: true
+  xy: 831, 440
+  size: 72, 190
+  orig: 72, 190
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-houfa
+  rotate: false
+  xy: 125, 24
+  size: 188, 162
+  orig: 188, 162
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-meimao
+  rotate: false
+  xy: 225, 9
+  size: 96, 13
+  orig: 96, 13
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-qianfa
+  rotate: true
+  xy: 892, 251
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-shenti
+  rotate: true
+  xy: 551, 207
+  size: 305, 126
+  orig: 305, 126
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-tou
+  rotate: false
+  xy: 678, 4
+  size: 151, 201
+  orig: 151, 201
+  offset: 0, 0
+  index: -1
+choumuzhong/cmz1-yanzhu
+  rotate: true
+  xy: 867, 220
+  size: 95, 23
+  orig: 95, 23
+  offset: 0, 0
+  index: -1

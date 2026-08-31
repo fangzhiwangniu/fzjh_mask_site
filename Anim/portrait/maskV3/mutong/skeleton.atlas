@@ -1,0 +1,187 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mutong/mt-beijing
+  rotate: false
+  xy: 516, 382
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mt-maozi
+  rotate: false
+  xy: 384, 897
+  size: 156, 75
+  orig: 156, 75
+  offset: 0, 0
+  index: -1
+mutong/mt-niutou
+  rotate: false
+  xy: 0, 798
+  size: 168, 133
+  orig: 168, 133
+  offset: 0, 0
+  index: -1
+mutong/mt-qianjing
+  rotate: true
+  xy: 542, 894
+  size: 78, 256
+  orig: 78, 256
+  offset: 0, 0
+  index: -1
+mutong/mt-shenzi
+  rotate: false
+  xy: 382, 713
+  size: 228, 179
+  orig: 228, 179
+  offset: 0, 0
+  index: -1
+mutong/mt-shou
+  rotate: true
+  xy: 896, 867
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+mutong/mt-tou
+  rotate: false
+  xy: 800, 889
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+mutong/mt-xingren1
+  rotate: true
+  xy: 170, 765
+  size: 136, 210
+  orig: 136, 210
+  offset: 0, 0
+  index: -1
+mutong/mt-xingren2
+  rotate: true
+  xy: 201, 903
+  size: 69, 181
+  orig: 69, 181
+  offset: 0, 0
+  index: -1
+mutong/mt-xingren3
+  rotate: true
+  xy: 0, 933
+  size: 39, 199
+  orig: 44, 203
+  offset: 5, 0
+  index: -1
+mutong/mutongyu1
+  rotate: false
+  xy: 0, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu10
+  rotate: false
+  xy: 0, 516
+  size: 256, 247
+  orig: 256, 256
+  offset: 0, 9
+  index: -1
+mutong/mutongyu2
+  rotate: false
+  xy: 258, 199
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu3
+  rotate: false
+  xy: 516, 124
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu4
+  rotate: false
+  xy: 612, 640
+  size: 256, 247
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu5
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu9
+  rotate: true
+  xy: 258, 457
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mutong/mutongyu11
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu12
+  rotate: false
+  xy: 258, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu13
+  rotate: false
+  xy: 516, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu14
+  rotate: false
+  xy: 258, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu15
+  rotate: false
+  xy: 516, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu6
+  rotate: false
+  xy: 0, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu7
+  rotate: false
+  xy: 0, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mutong/mutongyu8
+  rotate: false
+  xy: 258, 516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,278 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhensan/zs-fuzhu
+  rotate: false
+  xy: 176, 888
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+zhensan/zs-sc
+  rotate: false
+  xy: 0, 929
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+zhensan/zs-shenti
+  rotate: true
+  xy: 547, 810
+  size: 164, 182
+  orig: 164, 182
+  offset: 0, 0
+  index: -1
+zhensan/zs-shou
+  rotate: false
+  xy: 281, 856
+  size: 264, 118
+  orig: 264, 118
+  offset: 0, 0
+  index: -1
+zhensan/zs-tou
+  rotate: true
+  xy: 72, 895
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+zhensan/zs-yifu
+  rotate: false
+  xy: 731, 805
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+zhensan/zsg1
+  rotate: true
+  xy: 621, 404
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg10
+  rotate: true
+  xy: 414, 6
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg11
+  rotate: true
+  xy: 414, 611
+  size: 197, 205
+  orig: 197, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg12
+  rotate: true
+  xy: 621, 0
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg16
+  rotate: true
+  xy: 0, 690
+  size: 196, 205
+  orig: 196, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg19
+  rotate: true
+  xy: 207, 456
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg2
+  rotate: true
+  xy: 0, 287
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg21
+  rotate: true
+  xy: 621, 606
+  size: 197, 205
+  orig: 197, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg28
+  rotate: true
+  xy: 414, 410
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg3
+  rotate: true
+  xy: 207, 254
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg4
+  rotate: true
+  xy: 0, 489
+  size: 199, 205
+  orig: 199, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg5
+  rotate: true
+  xy: 414, 208
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg6
+  rotate: true
+  xy: 621, 202
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg7
+  rotate: true
+  xy: 0, 85
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg8
+  rotate: true
+  xy: 207, 52
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg9
+  rotate: true
+  xy: 207, 657
+  size: 197, 205
+  orig: 197, 205
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhensan/zs-bj
+  rotate: false
+  xy: 443, 5
+  size: 256, 248
+  orig: 256, 248
+  offset: 0, 0
+  index: -1
+zhensan/zs-g
+  rotate: false
+  xy: 701, 0
+  size: 269, 253
+  orig: 269, 253
+  offset: 0, 0
+  index: -1
+zhensan/zs-gq
+  rotate: false
+  xy: 207, 19
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+zhensan/zsg13
+  rotate: true
+  xy: 0, 659
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg14
+  rotate: true
+  xy: 207, 659
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg15
+  rotate: true
+  xy: 414, 659
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg17
+  rotate: true
+  xy: 621, 659
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg18
+  rotate: true
+  xy: 0, 457
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg20
+  rotate: true
+  xy: 207, 457
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg22
+  rotate: true
+  xy: 414, 457
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg23
+  rotate: true
+  xy: 621, 457
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg24
+  rotate: true
+  xy: 0, 255
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg25
+  rotate: true
+  xy: 207, 255
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg26
+  rotate: true
+  xy: 414, 255
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg27
+  rotate: true
+  xy: 621, 255
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1
+zhensan/zsg29
+  rotate: true
+  xy: 0, 53
+  size: 200, 205
+  orig: 200, 205
+  offset: 0, 0
+  index: -1

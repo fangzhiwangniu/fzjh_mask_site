@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duoqinglangke/lklz-beijing
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-lian
+  rotate: false
+  xy: 596, 0
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-liuhai
+  rotate: true
+  xy: 657, 130
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-shenti
+  rotate: false
+  xy: 258, 111
+  size: 270, 145
+  orig: 270, 145
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-shou
+  rotate: true
+  xy: 258, 3
+  size: 106, 178
+  orig: 106, 178
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-touding
+  rotate: true
+  xy: 530, 123
+  size: 133, 125
+  orig: 133, 125
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-toufa2
+  rotate: true
+  xy: 721, 87
+  size: 41, 131
+  orig: 41, 131
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-toufa3
+  rotate: true
+  xy: 438, 8
+  size: 101, 156
+  orig: 101, 157
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-toufa4
+  rotate: true
+  xy: 721, 34
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+duoqinglangke/lklz-yanjing
+  rotate: false
+  xy: 721, 0
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gouyunying/gyy_beijing
+  rotate: true
+  xy: 0, 0
+  size: 256, 254
+  orig: 256, 254
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_cefa
+  rotate: true
+  xy: 404, 7
+  size: 72, 124
+  orig: 72, 124
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_houfa
+  rotate: false
+  xy: 555, 98
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_lian
+  rotate: false
+  xy: 719, 18
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_qianfa
+  rotate: true
+  xy: 703, 145
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_shenti
+  rotate: true
+  xy: 256, 0
+  size: 256, 146
+  orig: 256, 146
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_yanzhu
+  rotate: false
+  xy: 703, 114
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_youshou
+  rotate: true
+  xy: 585, 10
+  size: 86, 132
+  orig: 86, 132
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_youshoushouzhi
+  rotate: true
+  xy: 765, 120
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_yuxiao
+  rotate: true
+  xy: 404, 81
+  size: 175, 149
+  orig: 175, 149
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_zuoshou
+  rotate: true
+  xy: 530, 1
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+gouyunying/gyy_zuoshoubi
+  rotate: true
+  xy: 797, 189
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1

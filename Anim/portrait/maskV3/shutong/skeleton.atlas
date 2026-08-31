@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shutong/hr_qietu
+  rotate: true
+  xy: 258, 2
+  size: 36, 138
+  orig: 37, 138
+  offset: 0, 0
+  index: -1
+shutong/hr_qietu1
+  rotate: false
+  xy: 258, 40
+  size: 173, 216
+  orig: 174, 216
+  offset: 1, 0
+  index: -1
+shutong/hr_shenti
+  rotate: true
+  xy: 433, 51
+  size: 205, 128
+  orig: 205, 130
+  offset: 0, 2
+  index: -1
+shutong/hr_shubeijing
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shutong/hr_tou
+  rotate: false
+  xy: 563, 87
+  size: 154, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+shutong/hr_yandi
+  rotate: false
+  xy: 563, 59
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+shutong/hr_youpiaofa
+  rotate: true
+  xy: 398, 15
+  size: 23, 110
+  orig: 23, 110
+  offset: 0, 0
+  index: -1
+shutong/hr_youyanzhu
+  rotate: false
+  xy: 398, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shutong/hr_zuopiaofa
+  rotate: true
+  xy: 510, 8
+  size: 41, 133
+  orig: 41, 133
+  offset: 0, 0
+  index: -1
+shutong/hr_zuoyanzhu
+  rotate: false
+  xy: 625, 70
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yutu/yt-bj
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yutu/yt-fb1
+  rotate: true
+  xy: 597, 14
+  size: 33, 140
+  orig: 33, 140
+  offset: 0, 0
+  index: -1
+yutu/yt-fb2
+  rotate: true
+  xy: 739, 15
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+yutu/yt-hf
+  rotate: true
+  xy: 657, 99
+  size: 157, 112
+  orig: 157, 112
+  offset: 0, 0
+  index: -1
+yutu/yt-pd
+  rotate: true
+  xy: 531, 49
+  size: 207, 124
+  orig: 207, 124
+  offset: 0, 0
+  index: -1
+yutu/yt-pd1
+  rotate: true
+  xy: 657, 49
+  size: 48, 129
+  orig: 48, 129
+  offset: 0, 0
+  index: -1
+yutu/yt-pd2
+  rotate: false
+  xy: 771, 121
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+yutu/yt-qf
+  rotate: true
+  xy: 881, 129
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+yutu/yt-sp
+  rotate: true
+  xy: 364, 13
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+yutu/yt-st
+  rotate: true
+  xy: 258, 16
+  size: 240, 104
+  orig: 240, 104
+  offset: 0, 0
+  index: -1
+yutu/yt-t
+  rotate: true
+  xy: 364, 32
+  size: 224, 165
+  orig: 224, 165
+  offset: 0, 0
+  index: -1
+yutu/yu-t
+  rotate: true
+  xy: 788, 51
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+yutu/yu-yj
+  rotate: false
+  xy: 531, 13
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1

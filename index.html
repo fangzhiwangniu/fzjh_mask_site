@@ -49,7 +49,7 @@
     input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
     .stats {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 12px;
       margin-bottom: 30px;
     }
@@ -90,6 +90,36 @@
       max-width: 100%;
       max-height: 100%;
       object-fit: cover;
+    }
+    .image-wrap canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      transition: opacity .25s ease;
+    }
+    .image-wrap canvas.ready { opacity: 1; }
+    .image-wrap.dynamic-active img { opacity: 0; }
+    .image-wrap.dynamic-active.canvas-failed img { opacity: 1; }
+    .selectors { display: flex; flex-direction: column; gap: 6px; margin: 0 0 10px; }
+    .chip-row { display: flex; gap: 5px; flex-wrap: wrap; }
+    .chip {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 3px 9px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .chip:hover { color: var(--text); border-color: var(--accent); }
+    .chip.active {
+      color: #10141c;
+      background: var(--accent);
+      border-color: var(--accent);
+      font-weight: 700;
     }
     .image-fallback {
       font-size: 48px;
@@ -151,12 +181,13 @@
     <div id="stats" class="stats"></div>
   </header>
   <main id="grid" class="grid"></main>
+  <script src="./vendor/spine-webgl.js"></script>
   <script>
     window.imageFallback = element => {
       element.closest(".image-wrap").classList.add("missing");
       element.outerHTML = '<div class="image-fallback">🎭</div>';
     };
-    const state = { masks: [], query: "", type: "", sort: "id" };
+    const state = { masks: [], query: "", type: "", sort: "id", selections: {} };
     const grid = document.getElementById("grid");
     const statsEl = document.getElementById("stats");
 
@@ -174,10 +205,56 @@
       return direct + (combo ? `<br><small>组合成就：${combo}</small>` : "");
     }
 
+    function selectedLevel(mask) {
+      if (!mask.levels?.length) return null;
+      const wanted = state.selections[mask.maskId]?.level;
+      if (wanted) {
+        const selected = mask.levels.find(item => item.level === wanted);
+        if (selected) return selected;
+      }
+      return [...mask.levels].reverse().find(item => item.arts.some(art => art.anim))
+        || mask.levels[mask.levels.length - 1];
+    }
+
+    function selectedArt(level, maskId) {
+      if (!level?.arts?.length) return null;
+      const wanted = state.selections[maskId]?.art;
+      return level.arts.find(item => item.id === wanted)
+        || level.arts.find(item => item.anim)
+        || level.arts[0];
+    }
+
+    function chipRow(items, activeValue, kind, maskId) {
+      if (items.length < 2) return "";
+      const chips = items.map(item => `
+        <button class="chip${item.value === activeValue ? " active" : ""}"
+                data-kind="${kind}" data-mask-id="${maskId}" data-value="${item.value}">
+          ${item.label}
+        </button>`).join("");
+      return `<div class="chip-row">${chips}</div>`;
+    }
+
     function maskCard(mask) {
-      const imageHtml = mask.image
-        ? `<img src="./${mask.image}" alt="${mask.name}" onerror="imageFallback(this)">`
+      const level = selectedLevel(mask);
+      const art = selectedArt(level, mask.maskId);
+      const image = art?.image || mask.image;
+      const isDynamic = Boolean(art?.anim && spineSupported);
+      const imageHtml = image
+        ? `<img src="./${image}" alt="${mask.name}" onerror="imageFallback(this)">`
         : `<div class="image-fallback">🎭</div>`;
+      const levelChips = chipRow(
+        mask.levels.map(item => ({ value: item.level, label: `Lv.${item.level}` })),
+        level?.level, "level", mask.maskId
+      );
+      const artChips = chipRow(
+        (level?.arts || []).map(item => ({ value: item.id, label: `形态 ${item.id}` })),
+        art?.id, "art", mask.maskId
+      );
+      const dynamicCanvas = art?.anim ? `
+        <canvas class="spine-canvas" width="256" height="256"
+                data-folder="${art.animFolder}" data-anim="${art.anim}"></canvas>` : "";
+      const selectors = levelChips || artChips
+        ? `<div class="selectors">${levelChips}${artChips}</div>` : "";
       const dealText = mask.canDeal ? `分解 ${mask.cailiao} 材料` : "不可分解";
       const tags = [
         tag(mask.maskType === "1" ? "戏曲面具" : "时间/百花焕颜"),
@@ -187,14 +264,16 @@
       ].join("");
       return `
         <article class="mask-card">
-          <div class="image-wrap">
+          <div class="image-wrap${isDynamic ? " dynamic-active" : ""}">
             ${imageHtml}
+            ${dynamicCanvas}
           </div>
           <div class="card-body">
             <h2 class="mask-name">${mask.name}</h2>
             <div class="mask-id">${mask.maskId}</div>
             <div class="point">成就点数 ${pointOf(mask)}</div>
             <div class="achievement-name">${achievementList(mask)}</div>
+            ${selectors}
             <div class="tags">${tags}</div>
             <details><summary>描述</summary>${mask.desc || "暂无描述"}</details>
           </div>
@@ -216,9 +295,10 @@
       if (state.sort === "cailiao") masks = masks.sort((a, b) => Number(b.cailiao || 0) - Number(a.cailiao || 0) || Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
       if (state.sort === "id") masks = masks.sort((a, b) => Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
       grid.innerHTML = masks.map(maskCard).join("") || `<div class="empty">没有匹配的面具</div>`;
+      observeSpineCanvases();
     }
 
-    fetch("./mask_data.json")
+    fetch("./mask_data.json", { cache: "no-store" })
       .then(response => response.json())
       .then(data => {
         state.masks = data.masks;
@@ -226,7 +306,8 @@
         statsEl.innerHTML = `
           <div class="stat"><b>${stats.masks}</b><span>面具数</span></div>
           <div class="stat"><b>${stats.achievements}</b><span>面具成就</span></div>
-          <div class="stat"><b>${state.masks.filter(mask => mask.canDeal).length}</b><span>可分解</span></div>`;
+          <div class="stat"><b>${state.masks.filter(mask => mask.canDeal).length}</b><span>可分解</span></div>
+          <div class="stat"><b>${stats.dynamic || 0}</b><span>动态面具</span></div>`;
         render();
       });
 
@@ -242,6 +323,169 @@
       state.sort = event.target.value;
       render();
     });
+
+    grid.addEventListener("click", event => {
+      const chip = event.target.closest(".chip");
+      if (!chip) return;
+      const maskId = chip.dataset.maskId;
+      state.selections[maskId] ??= {};
+      if (chip.dataset.kind === "level") {
+        state.selections[maskId].level = Number(chip.dataset.value);
+        delete state.selections[maskId].art;
+      } else {
+        state.selections[maskId].art = chip.dataset.value;
+      }
+      render();
+    });
+
+    const spineCache = new Map();
+    const activeSpineCanvases = new Set();
+    const sharedCanvas = document.createElement("canvas");
+    sharedCanvas.width = 256;
+    sharedCanvas.height = 256;
+    let sharedRenderer = null;
+    let spineSupported = typeof spine !== "undefined";
+    function observeSpineCanvases() {
+      if (!spineSupported) return;
+      refreshActiveSpineCanvases();
+    }
+
+    function refreshActiveSpineCanvases() {
+      if (!spineSupported) return;
+      const margin = 120;
+      const viewportHeight = window.innerHeight;
+      for (const canvas of grid.querySelectorAll(".spine-canvas")) {
+        const rect = canvas.getBoundingClientRect();
+        const visible = rect.bottom > -margin && rect.top < viewportHeight + margin;
+        if (visible) activeSpineCanvases.add(canvas);
+        else activeSpineCanvases.delete(canvas);
+      }
+    }
+
+    let spineRefreshQueued = false;
+    function queueSpineRefresh() {
+      if (spineRefreshQueued) return;
+      spineRefreshQueued = true;
+      requestAnimationFrame(() => {
+        spineRefreshQueued = false;
+        refreshActiveSpineCanvases();
+      });
+    }
+
+    function waitForAssets(assetManager) {
+      return new Promise((resolve, reject) => {
+        const timer = setInterval(() => {
+          if (assetManager.toLoad > 0) return;
+          clearInterval(timer);
+          const errors = Object.values(assetManager.errors);
+          if (errors.length) reject(new Error(errors.join("; ")));
+          else resolve();
+        }, 40);
+      });
+    }
+
+    async function loadSpineData(folder) {
+      if (spineCache.has(folder)) return spineCache.get(folder);
+      const promise = (async () => {
+        if (!sharedRenderer) sharedRenderer = new spine.webgl.SceneRenderer(sharedCanvas, sharedCanvas);
+        const pathPrefix = `./Anim/portrait/maskV3/${folder}/`;
+        const assetManager = new spine.webgl.AssetManager(sharedRenderer.context, pathPrefix);
+        assetManager.loadTextureAtlas("skeleton.atlas");
+        await waitForAssets(assetManager);
+        const atlas = assetManager.get("skeleton.atlas");
+        const attachmentLoader = new spine.AtlasAttachmentLoader(atlas);
+        let data;
+        let lastError = new Error("未找到骨骼数据");
+        for (const name of ["skeleton.skel", "skeleton.json"]) {
+          const response = await fetch(pathPrefix + name);
+          if (!response.ok) {
+            lastError = new Error(`${name} 请求失败：${response.status}`);
+            continue;
+          }
+          try {
+            const buffer = await response.arrayBuffer();
+            const isJsonSkeleton = buffer.byteLength && new Uint8Array(buffer, 0, 1)[0] === 0x7b;
+            data = isJsonSkeleton
+              ? new spine.SkeletonJson(attachmentLoader).readSkeletonData(new TextDecoder().decode(buffer))
+              : new spine.SkeletonBinary(attachmentLoader).readSkeletonData(new Uint8Array(buffer));
+            break;
+          } catch (error) {
+            data = null;
+            lastError = error;
+          }
+        }
+        if (!data) throw lastError;
+        return data;
+      })();
+      spineCache.set(folder, promise);
+      promise.catch(() => spineCache.delete(folder));
+      return promise;
+    }
+
+    function prepareCanvas(canvas) {
+      const folder = canvas.dataset.folder;
+      const animationName = canvas.dataset.anim;
+      return loadSpineData(folder).then(data => {
+        if (!canvas.isConnected) return;
+        const skeleton = new spine.Skeleton(data);
+        const state = new spine.AnimationState(new spine.AnimationStateData(data));
+        state.setAnimation(0, animationName, true);
+        canvas._spine = { skeleton, state };
+        canvas.classList.add("ready");
+      }).catch(error => {
+        canvas.dataset.failed = "1";
+        canvas.classList.add("failed");
+        canvas.closest(".image-wrap")?.classList.add("canvas-failed");
+        console.warn("动态面具加载失败：", error);
+      });
+    }
+
+    function renderSpine(delta) {
+      if (!spineSupported) return;
+      if (!sharedRenderer) sharedRenderer = new spine.webgl.SceneRenderer(sharedCanvas, sharedCanvas);
+      const gl = sharedRenderer.context.gl;
+      for (const canvas of [...activeSpineCanvases]) {
+        if (!canvas.isConnected) {
+          activeSpineCanvases.delete(canvas);
+          continue;
+        }
+        if (!canvas._spine) {
+          if (!canvas.dataset.failed && !canvas._spineLoading) {
+            canvas._spineLoading = true;
+            prepareCanvas(canvas);
+          }
+          continue;
+        }
+        const view = canvas._spine;
+        view.state.update(delta);
+        view.state.apply(view.skeleton);
+        view.skeleton.updateWorldTransform();
+        gl.clearColor(0, 0, 0, 0);
+        gl.clear(gl.COLOR_BUFFER_BIT);
+        sharedRenderer.begin();
+        sharedRenderer.drawSkeleton(view.skeleton, false);
+        sharedRenderer.end();
+        const context = canvas.getContext("2d");
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        context.drawImage(sharedCanvas, 0, 0);
+      }
+    }
+
+    let previousTime = performance.now();
+    function animationLoop(now) {
+      const delta = Math.min((now - previousTime) / 1000, 1 / 15);
+      previousTime = now;
+      renderSpine(delta);
+      requestAnimationFrame(animationLoop);
+    }
+
+    if (spineSupported) {
+      requestAnimationFrame(animationLoop);
+    } else {
+      console.warn("Spine runtime 未加载，动态面具将显示静态图。");
+    }
+    window.addEventListener("scroll", queueSpineRefresh, { passive: true });
+    window.addEventListener("resize", queueSpineRefresh, { passive: true });
   </script>
 </body>
 </html>

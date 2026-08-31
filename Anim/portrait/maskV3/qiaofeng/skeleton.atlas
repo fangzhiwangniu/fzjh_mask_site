@@ -1,0 +1,195 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiaodaxia/xiaofeng1
+  rotate: false
+  xy: 420, 104
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng10
+  rotate: false
+  xy: 395, 16
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng11
+  rotate: false
+  xy: 282, 0
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng12
+  rotate: true
+  xy: 0, 5
+  size: 247, 144
+  orig: 256, 213
+  offset: 4, 64
+  index: -1
+qiaodaxia/xiaofeng2
+  rotate: false
+  xy: 146, 0
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng3
+  rotate: true
+  xy: 282, 94
+  size: 158, 82
+  orig: 158, 82
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng4
+  rotate: true
+  xy: 366, 101
+  size: 151, 52
+  orig: 151, 52
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng5
+  rotate: true
+  xy: 146, 11
+  size: 241, 134
+  orig: 241, 134
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng6
+  rotate: false
+  xy: 538, 33
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofeng7
+  rotate: false
+  xy: 349, 5
+  size: 44, 87
+  orig: 45, 87
+  offset: 1, 0
+  index: -1
+qiaodaxia/xiaofeng8
+  rotate: false
+  xy: 534, 142
+  size: 49, 110
+  orig: 64, 112
+  offset: 15, 0
+  index: -1
+qiaodaxia/xiaofeng9
+  rotate: true
+  xy: 470, 21
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofengtexiao1
+  rotate: true
+  xy: 764, 25
+  size: 73, 68
+  orig: 80, 79
+  offset: 3, 0
+  index: -1
+qiaodaxia/xiaofengtexiao10
+  rotate: false
+  xy: 906, 39
+  size: 70, 70
+  orig: 80, 79
+  offset: 7, 3
+  index: -1
+qiaodaxia/xiaofengtexiao11
+  rotate: true
+  xy: 883, 184
+  size: 68, 73
+  orig: 80, 79
+  offset: 8, 2
+  index: -1
+qiaodaxia/xiaofengtexiao12
+  rotate: false
+  xy: 696, 96
+  size: 66, 76
+  orig: 80, 79
+  offset: 7, 3
+  index: -1
+qiaodaxia/xiaofengtexiao13
+  rotate: false
+  xy: 695, 12
+  size: 67, 77
+  orig: 80, 79
+  offset: 8, 1
+  index: -1
+qiaodaxia/xiaofengtexiao14
+  rotate: false
+  xy: 834, 38
+  size: 70, 71
+  orig: 80, 79
+  offset: 6, 2
+  index: -1
+qiaodaxia/xiaofengtexiao15
+  rotate: false
+  xy: 883, 111
+  size: 72, 71
+  orig: 80, 79
+  offset: 4, 0
+  index: -1
+qiaodaxia/xiaofengtexiao2
+  rotate: true
+  xy: 809, 178
+  size: 74, 72
+  orig: 80, 79
+  offset: 1, 0
+  index: -1
+qiaodaxia/xiaofengtexiao3
+  rotate: false
+  xy: 732, 177
+  size: 75, 75
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+qiaodaxia/xiaofengtexiao4
+  rotate: false
+  xy: 654, 174
+  size: 76, 78
+  orig: 80, 79
+  offset: 1, 0
+  index: -1
+qiaodaxia/xiaofengtexiao5
+  rotate: false
+  xy: 617, 12
+  size: 76, 77
+  orig: 80, 79
+  offset: 4, 0
+  index: -1
+qiaodaxia/xiaofengtexiao6
+  rotate: false
+  xy: 617, 91
+  size: 77, 79
+  orig: 80, 79
+  offset: 3, 0
+  index: -1
+qiaodaxia/xiaofengtexiao7
+  rotate: true
+  xy: 585, 172
+  size: 80, 67
+  orig: 80, 79
+  offset: 0, 1
+  index: -1
+qiaodaxia/xiaofengtexiao8
+  rotate: true
+  xy: 958, 179
+  size: 73, 66
+  orig: 80, 79
+  offset: 4, 2
+  index: -1
+qiaodaxia/xiaofengtexiao9
+  rotate: true
+  xy: 764, 100
+  size: 75, 68
+  orig: 80, 79
+  offset: 4, 2
+  index: -1

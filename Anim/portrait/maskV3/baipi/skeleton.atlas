@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baipi/bp_beijing
+  rotate: false
+  xy: 176, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baipi/bp_jianjia
+  rotate: false
+  xy: 257, 114
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+baipi/bp_luoye
+  rotate: true
+  xy: 0, 57
+  size: 163, 160
+  orig: 163, 160
+  offset: 0, 0
+  index: -1
+baipi/bp_luoye1
+  rotate: true
+  xy: 153, 0
+  size: 14, 18
+  orig: 22, 19
+  offset: 3, 0
+  index: -1
+baipi/bp_luoye2
+  rotate: false
+  xy: 162, 57
+  size: 15, 17
+  orig: 18, 19
+  offset: 3, 0
+  index: -1
+baipi/bp_luoye3
+  rotate: false
+  xy: 153, 16
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+baipi/bp_luoye4
+  rotate: true
+  xy: 90, 7
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+baipi/bp_shenti
+  rotate: true
+  xy: 0, 222
+  size: 290, 174
+  orig: 290, 174
+  offset: 0, 0
+  index: -1
+baipi/bp_shou1
+  rotate: false
+  xy: 434, 377
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1
+baipi/bp_shou2
+  rotate: true
+  xy: 162, 76
+  size: 144, 93
+  orig: 144, 93
+  offset: 0, 0
+  index: -1
+baipi/bp_tou1
+  rotate: true
+  xy: 346, 11
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+baipi/bp_tou11
+  rotate: true
+  xy: 434, 292
+  size: 83, 56
+  orig: 101, 76
+  offset: 7, 16
+  index: -1
+baipi/bp_tou2
+  rotate: true
+  xy: 424, 22
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+baipi/bp_tou3
+  rotate: false
+  xy: 0, 1
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+baipi/bp_toukui
+  rotate: true
+  xy: 375, 116
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+baipi/bp_toukuimao
+  rotate: false
+  xy: 505, 252
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+baipi/bp_yan1
+  rotate: true
+  xy: 82, 2
+  size: 53, 6
+  orig: 56, 11
+  offset: 3, 3
+  index: -1
+baipi/bp_yan2
+  rotate: false
+  xy: 176, 236
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+baipi/bp_zuzi1
+  rotate: true
+  xy: 253, 6
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+baipi/bp_zuzi2
+  rotate: true
+  xy: 183, 1
+  size: 73, 68
+  orig: 84, 75
+  offset: 0, 0
+  index: -1

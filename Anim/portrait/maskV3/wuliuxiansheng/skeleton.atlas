@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuliuxiansheng/beijing
+  rotate: true
+  xy: 0, 0
+  size: 256, 241
+  orig: 256, 256
+  offset: 0, 15
+  index: -1
+wuliuxiansheng/liuhai
+  rotate: true
+  xy: 636, 54
+  size: 72, 143
+  orig: 72, 143
+  offset: 0, 0
+  index: -1
+wuliuxiansheng/shen
+  rotate: true
+  xy: 636, 128
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+wuliuxiansheng/shou
+  rotate: false
+  xy: 243, 0
+  size: 211, 256
+  orig: 211, 256
+  offset: 0, 0
+  index: -1
+wuliuxiansheng/tou
+  rotate: false
+  xy: 456, 41
+  size: 178, 215
+  orig: 178, 217
+  offset: 0, 0
+  index: -1

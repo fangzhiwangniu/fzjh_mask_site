@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinsanniang/beijing
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jinsanniang/fazhan
+  rotate: false
+  xy: 418, 0
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+jinsanniang/houfa
+  rotate: false
+  xy: 685, 95
+  size: 138, 161
+  orig: 138, 161
+  offset: 0, 0
+  index: -1
+jinsanniang/lianhong
+  rotate: true
+  xy: 825, 38
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+jinsanniang/shen
+  rotate: true
+  xy: 258, 24
+  size: 232, 158
+  orig: 232, 158
+  offset: 0, 0
+  index: -1
+jinsanniang/shou
+  rotate: false
+  xy: 418, 38
+  size: 216, 218
+  orig: 216, 246
+  offset: 0, 0
+  index: -1
+jinsanniang/tou
+  rotate: true
+  xy: 825, 153
+  size: 103, 122
+  orig: 103, 122
+  offset: 0, 0
+  index: -1
+jinsanniang/touding
+  rotate: false
+  xy: 685, 10
+  size: 99, 83
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+jinsanniang/yanzhuzi
+  rotate: false
+  xy: 564, 12
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+jinsanniang/youfa1
+  rotate: true
+  xy: 258, 1
+  size: 21, 101
+  orig: 21, 101
+  offset: 0, 0
+  index: -1
+jinsanniang/youfa2
+  rotate: true
+  xy: 451, 9
+  size: 27, 111
+  orig: 27, 111
+  offset: 0, 0
+  index: -1
+jinsanniang/zuofa
+  rotate: false
+  xy: 636, 58
+  size: 47, 198
+  orig: 47, 198
+  offset: 0, 0
+  index: -1

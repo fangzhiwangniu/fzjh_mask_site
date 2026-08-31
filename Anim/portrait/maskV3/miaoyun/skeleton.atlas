@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miaoyun/miaoyun-bianzi1
+  rotate: true
+  xy: 692, 25
+  size: 26, 101
+  orig: 26, 101
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-chuang
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-houfa
+  rotate: false
+  xy: 516, 22
+  size: 82, 234
+  orig: 82, 234
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-shou
+  rotate: false
+  xy: 867, 15
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-st
+  rotate: false
+  xy: 867, 132
+  size: 132, 124
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-tou
+  rotate: false
+  xy: 600, 53
+  size: 142, 203
+  orig: 256, 256
+  offset: 97, 53
+  index: -1
+miaoyun/miaoyun-yanqiu
+  rotate: true
+  xy: 540, 3
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yese
+  rotate: false
+  xy: 258, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yhc1
+  rotate: true
+  xy: 516, 2
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yhc2
+  rotate: true
+  xy: 631, 23
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yhc3
+  rotate: false
+  xy: 600, 19
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yhc4
+  rotate: false
+  xy: 569, 10
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yhc5
+  rotate: true
+  xy: 555, 7
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+miaoyun/miaoyun-yueliang
+  rotate: true
+  xy: 744, 105
+  size: 151, 121
+  orig: 151, 121
+  offset: 0, 0
+  index: -1

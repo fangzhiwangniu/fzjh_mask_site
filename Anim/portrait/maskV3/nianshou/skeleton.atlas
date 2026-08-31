@@ -1,0 +1,1319 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_koushui
+  rotate: false
+  xy: 0, 906
+  size: 110, 68
+  orig: 144, 68
+  offset: 19, 0
+  index: -1
+niangshou/niangshou_koushui_1
+  rotate: false
+  xy: 112, 906
+  size: 144, 68
+  orig: 144, 68
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_koushui_2
+  rotate: false
+  xy: 258, 904
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_koushui_3
+  rotate: false
+  xy: 396, 904
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_koushui_4
+  rotate: false
+  xy: 534, 904
+  size: 136, 70
+  orig: 136, 70
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_koushui_5
+  rotate: false
+  xy: 672, 903
+  size: 136, 71
+  orig: 136, 71
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_koushui_6
+  rotate: false
+  xy: 810, 903
+  size: 136, 71
+  orig: 136, 71
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_tou1
+  rotate: true
+  xy: 704, 769
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_yan
+  rotate: false
+  xy: 95, 789
+  size: 236, 113
+  orig: 236, 113
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_yan1
+  rotate: false
+  xy: 0, 821
+  size: 93, 83
+  orig: 95, 83
+  offset: 2, 0
+  index: -1
+niangshou/niangshou_zhongguo1
+  rotate: false
+  xy: 333, 782
+  size: 369, 119
+  orig: 371, 129
+  offset: 2, 7
+  index: -1
+niangshou/nianshoudihuo2_1
+  rotate: true
+  xy: 805, 302
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_10
+  rotate: true
+  xy: 306, 30
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_11
+  rotate: true
+  xy: 459, 30
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_12
+  rotate: true
+  xy: 612, 17
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_13
+  rotate: true
+  xy: 765, 0
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_2
+  rotate: true
+  xy: 0, 188
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_3
+  rotate: true
+  xy: 153, 188
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_4
+  rotate: true
+  xy: 306, 181
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_5
+  rotate: true
+  xy: 459, 181
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_6
+  rotate: true
+  xy: 612, 168
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_7
+  rotate: true
+  xy: 765, 151
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_8
+  rotate: true
+  xy: 0, 37
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_9
+  rotate: true
+  xy: 153, 37
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_1
+  rotate: true
+  xy: 842, 753
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_10
+  rotate: true
+  xy: 322, 482
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_11
+  rotate: true
+  xy: 483, 482
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_12
+  rotate: true
+  xy: 644, 469
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_13
+  rotate: true
+  xy: 805, 453
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_14
+  rotate: true
+  xy: 0, 339
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_15
+  rotate: true
+  xy: 161, 339
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_16
+  rotate: true
+  xy: 322, 332
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_17
+  rotate: true
+  xy: 483, 332
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_18
+  rotate: true
+  xy: 644, 319
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_2
+  rotate: true
+  xy: 0, 639
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_3
+  rotate: true
+  xy: 161, 639
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_4
+  rotate: true
+  xy: 322, 632
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_5
+  rotate: true
+  xy: 483, 632
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_6
+  rotate: true
+  xy: 644, 619
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_7
+  rotate: true
+  xy: 805, 603
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_8
+  rotate: true
+  xy: 0, 489
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+niangshou/nianshoushuaitouyan_9
+  rotate: true
+  xy: 161, 489
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_zuojianjia
+  rotate: true
+  xy: 306, 5
+  size: 155, 427
+  orig: 159, 427
+  offset: 4, 0
+  index: -1
+niangshou/nianshoudihuo2_14
+  rotate: true
+  xy: 0, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_15
+  rotate: true
+  xy: 153, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_16
+  rotate: true
+  xy: 306, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_17
+  rotate: true
+  xy: 459, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_18
+  rotate: true
+  xy: 612, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_19
+  rotate: true
+  xy: 765, 766
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_20
+  rotate: true
+  xy: 0, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_21
+  rotate: true
+  xy: 153, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_22
+  rotate: true
+  xy: 306, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_23
+  rotate: true
+  xy: 459, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_24
+  rotate: true
+  xy: 612, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_25
+  rotate: true
+  xy: 765, 615
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_26
+  rotate: true
+  xy: 0, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_27
+  rotate: true
+  xy: 153, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_28
+  rotate: true
+  xy: 306, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_29
+  rotate: true
+  xy: 459, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_30
+  rotate: true
+  xy: 612, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_31
+  rotate: true
+  xy: 765, 464
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_32
+  rotate: true
+  xy: 0, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_33
+  rotate: true
+  xy: 153, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_34
+  rotate: true
+  xy: 306, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_35
+  rotate: true
+  xy: 459, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_36
+  rotate: true
+  xy: 612, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_37
+  rotate: true
+  xy: 765, 313
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_38
+  rotate: true
+  xy: 0, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_39
+  rotate: true
+  xy: 153, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_40
+  rotate: true
+  xy: 306, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_41
+  rotate: true
+  xy: 459, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_42
+  rotate: true
+  xy: 612, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_43
+  rotate: true
+  xy: 765, 162
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_44
+  rotate: true
+  xy: 0, 11
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo2_45
+  rotate: true
+  xy: 153, 11
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_1
+  rotate: false
+  xy: 735, 0
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/penghuo_1
+  rotate: false
+  xy: 0, 498
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_10
+  rotate: false
+  xy: 566, 166
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_11
+  rotate: true
+  xy: 849, 98
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_12
+  rotate: false
+  xy: 0, 0
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_13
+  rotate: false
+  xy: 283, 0
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_14
+  rotate: false
+  xy: 566, 0
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_2
+  rotate: false
+  xy: 283, 498
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_3
+  rotate: false
+  xy: 566, 498
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_4
+  rotate: true
+  xy: 849, 381
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_5
+  rotate: false
+  xy: 0, 332
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_6
+  rotate: false
+  xy: 283, 332
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_7
+  rotate: false
+  xy: 566, 332
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_8
+  rotate: false
+  xy: 0, 166
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_9
+  rotate: false
+  xy: 283, 166
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_2
+  rotate: false
+  xy: 0, 826
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_3
+  rotate: false
+  xy: 221, 826
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_4
+  rotate: false
+  xy: 442, 826
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_5
+  rotate: false
+  xy: 663, 826
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_6
+  rotate: false
+  xy: 0, 664
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_7
+  rotate: false
+  xy: 221, 664
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_8
+  rotate: false
+  xy: 442, 664
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+niangshou/yanwu_9
+  rotate: false
+  xy: 663, 664
+  size: 219, 160
+  orig: 219, 160
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/nianshoudihuo_1
+  rotate: false
+  xy: 283, 728
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_10
+  rotate: false
+  xy: 204, 364
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_11
+  rotate: false
+  xy: 408, 364
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_12
+  rotate: false
+  xy: 612, 364
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_13
+  rotate: false
+  xy: 816, 364
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_14
+  rotate: false
+  xy: 0, 198
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_15
+  rotate: false
+  xy: 204, 182
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_16
+  rotate: false
+  xy: 408, 182
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_17
+  rotate: false
+  xy: 612, 182
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_18
+  rotate: false
+  xy: 816, 182
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_19
+  rotate: false
+  xy: 0, 16
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_2
+  rotate: false
+  xy: 487, 728
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_20
+  rotate: false
+  xy: 204, 0
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_21
+  rotate: false
+  xy: 408, 0
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_22
+  rotate: false
+  xy: 612, 0
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_23
+  rotate: false
+  xy: 816, 0
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_3
+  rotate: false
+  xy: 691, 728
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_4
+  rotate: false
+  xy: 0, 562
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_5
+  rotate: false
+  xy: 204, 546
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_6
+  rotate: false
+  xy: 408, 546
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_7
+  rotate: false
+  xy: 612, 546
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_8
+  rotate: false
+  xy: 816, 546
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_9
+  rotate: false
+  xy: 0, 380
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/penghuo_15
+  rotate: false
+  xy: 0, 744
+  size: 281, 164
+  orig: 281, 164
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_1
+  rotate: true
+  xy: 560, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_2
+  rotate: true
+  xy: 0, 37
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_3
+  rotate: true
+  xy: 402, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_houzuohuo
+  rotate: false
+  xy: 711, 751
+  size: 239, 225
+  orig: 241, 225
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_huzi
+  rotate: false
+  xy: 0, 585
+  size: 623, 193
+  orig: 623, 193
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_wanzhengdefangzi
+  rotate: true
+  xy: 258, 295
+  size: 288, 300
+  orig: 288, 300
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_xiaba
+  rotate: false
+  xy: 408, 780
+  size: 301, 196
+  orig: 305, 196
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_zhonghuo2
+  rotate: false
+  xy: 625, 516
+  size: 333, 233
+  orig: 346, 233
+  offset: 0, 0
+  index: -1
+niangshou/nianshou_shenjingyanjing
+  rotate: false
+  xy: 0, 329
+  size: 256, 254
+  orig: 256, 254
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_24
+  rotate: false
+  xy: 0, 796
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+niangshou/nianshoudihuo_25
+  rotate: false
+  xy: 204, 796
+  size: 202, 180
+  orig: 202, 180
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_beijing
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_jingshen
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/nianshouzhuanchangguodu6
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_qianjing
+  rotate: false
+  xy: 0, 0
+  size: 1000, 915
+  orig: 1000, 915
+  offset: 0, 0
+  index: -1
+
+skeleton10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_4
+  rotate: true
+  xy: 0, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_5
+  rotate: true
+  xy: 402, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_fangding1
+  rotate: false
+  xy: 0, 258
+  size: 1000, 243
+  orig: 1000, 243
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_fangding2
+  rotate: false
+  xy: 0, 503
+  size: 1000, 487
+  orig: 1000, 487
+  offset: 0, 0
+  index: -1
+
+skeleton11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_10
+  rotate: true
+  xy: 0, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_11
+  rotate: true
+  xy: 402, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_6
+  rotate: true
+  xy: 0, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_7
+  rotate: true
+  xy: 402, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_8
+  rotate: true
+  xy: 0, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_9
+  rotate: true
+  xy: 402, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+
+skeleton12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_12
+  rotate: true
+  xy: 0, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_13
+  rotate: true
+  xy: 402, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_14
+  rotate: true
+  xy: 0, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_15
+  rotate: true
+  xy: 402, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_16
+  rotate: true
+  xy: 0, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_17
+  rotate: true
+  xy: 402, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+
+skeleton13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_18
+  rotate: true
+  xy: 0, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_19
+  rotate: true
+  xy: 402, 516
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_20
+  rotate: true
+  xy: 0, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_21
+  rotate: true
+  xy: 402, 258
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_22
+  rotate: true
+  xy: 0, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_23
+  rotate: true
+  xy: 402, 0
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+
+skeleton14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/huoyan_24
+  rotate: true
+  xy: 0, 617
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/huoyan_25
+  rotate: true
+  xy: 402, 617
+  size: 256, 400
+  orig: 256, 400
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_poshuidefangzi
+  rotate: false
+  xy: 518, 319
+  size: 307, 296
+  orig: 315, 296
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_poshuidefangzihuoguang
+  rotate: false
+  xy: 0, 24
+  size: 315, 296
+  orig: 315, 296
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_youhouhuo
+  rotate: false
+  xy: 317, 0
+  size: 661, 317
+  orig: 661, 317
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_zuoshou
+  rotate: true
+  xy: 0, 322
+  size: 293, 516
+  orig: 293, 516
+  offset: 0, 0
+  index: -1
+
+skeleton15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_shenti
+  rotate: false
+  xy: 0, 328
+  size: 712, 667
+  orig: 714, 674
+  offset: 2, 7
+  index: -1
+niangshou/niangshou_youjianjia
+  rotate: false
+  xy: 0, 0
+  size: 415, 326
+  orig: 436, 326
+  offset: 21, 0
+  index: -1
+
+skeleton16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_zuohuo
+  rotate: true
+  xy: 0, 417
+  size: 415, 633
+  orig: 415, 633
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_zuohuoHOUZUOHUO
+  rotate: true
+  xy: 0, 0
+  size: 415, 633
+  orig: 415, 633
+  offset: 0, 0
+  index: -1
+
+skeleton17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_youhuo
+  rotate: true
+  xy: 0, 485
+  size: 445, 494
+  orig: 445, 494
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_youhuoHOUBANBUFEN
+  rotate: true
+  xy: 496, 485
+  size: 445, 494
+  orig: 445, 494
+  offset: 0, 0
+  index: -1
+niangshou/niangshou_youshou
+  rotate: true
+  xy: 0, 0
+  size: 483, 679
+  orig: 483, 679
+  offset: 0, 0
+  index: -1
+
+skeleton18.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niangshou/niangshou_tou
+  rotate: false
+  xy: 0, 0
+  size: 506, 546
+  orig: 506, 546
+  offset: 0, 0
+  index: -1

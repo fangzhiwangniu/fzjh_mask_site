@@ -9,7 +9,8 @@
     "withImage": 283,
     "withoutImage": 0,
     "withoutDirectAchievement": 18,
-    "upgradable": 48
+    "upgradable": 48,
+    "dynamic": 102
   },
   "masks": [
     {
@@ -23,6 +24,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1",
+              "image": "Image/UI/AttrUI/nv/change.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "广寒上仙",
@@ -78,6 +94,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2",
+              "image": "Image/UI/AttrUI/nan/wugang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "月宫伐桂",
@@ -113,6 +144,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "3",
+              "image": "Image/UI/AttrUI/nv/tonglao.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天山宫主",
@@ -148,6 +194,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4",
+              "image": "Image/UI/AttrUI/nan/wangwei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "摩诘居士",
@@ -172,6 +233,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "5",
+              "image": "Image/UI/AttrUI/mianju/guojing.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "金刀驸马",
@@ -217,6 +293,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "6",
+              "image": "Image/UI/AttrUI/mianju/yangkang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "金国世子",
@@ -262,6 +353,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "7",
+              "image": "Image/UI/AttrUI/mianju/munianci.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "江湖女侠",
@@ -297,6 +403,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "8",
+              "image": "Image/UI/AttrUI/mianju/chenglingsu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "药王弟子",
@@ -321,6 +442,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "9",
+              "image": "Image/UI/AttrUI/mianju/guoxiang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "郭家小姐",
@@ -356,6 +492,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "10",
+              "image": "Image/UI/AttrUI/mianju/miaoruolan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "名门闺秀",
@@ -380,6 +531,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "11",
+              "image": "Image/UI/AttrUI/mianju/linghucong(Y).png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "华山首徒",
@@ -425,6 +591,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "12",
+              "image": "Image/UI/AttrUI/mianju/yuelingsan2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "掌门独女",
@@ -470,6 +651,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "30",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "13",
+              "image": "Image/UI/AttrUI/mianju/yangguo.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "独臂大侠",
@@ -525,6 +721,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "35",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "14",
+              "image": "Image/UI/AttrUI/mianju/xiaolongnv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "古陵掌门",
@@ -560,6 +771,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "30",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "15",
+              "image": "Image/UI/AttrUI/mianju/liqiushui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "西夏王妃",
@@ -595,6 +821,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "30",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "16",
+              "image": "Image/UI/AttrUI/mianju/xiangwentian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天王老子",
@@ -619,6 +860,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "35",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "17",
+              "image": "Image/UI/AttrUI/mianju/muwanqin.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "婉兮清扬",
@@ -654,6 +910,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "18",
+              "image": "Image/UI/AttrUI/mianju/duanyu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "大理皇帝",
@@ -699,6 +970,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "19",
+              "image": "Image/UI/AttrUI/mianju/murongfu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "燕朝后裔",
@@ -723,6 +1009,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "65",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1001",
+              "image": "Image/UI/AttrUI/mianju/dingchunqiu.png",
+              "anim": "dingchunqiu",
+              "animFolder": "dingchunqiu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "名宿毒仙",
@@ -747,6 +1048,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "55",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "20",
+              "image": "Image/UI/AttrUI/mianju/yuebuqun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": "10001"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "华山掌门",
@@ -792,6 +1108,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "21",
+              "image": "Image/UI/AttrUI/mianju/heiwuchang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "黑无常",
@@ -827,6 +1158,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "22",
+              "image": "Image/UI/AttrUI/mianju/baiwuchang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "白无常",
@@ -862,6 +1208,45 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "70",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2001",
+              "image": "Image/UI/AttrUI/mianju/meiniansheng4.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2002",
+              "image": "Image/UI/AttrUI/mianju/meiniansheng3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2003",
+              "image": "Image/UI/AttrUI/mianju/meiniansheng2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2004",
+              "image": "Image/UI/AttrUI/mianju/meiniansheng1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "铁骨雪萼",
@@ -886,6 +1271,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "30",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "23",
+              "image": "Image/UI/AttrUI/mianju/dadiao.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "傲云孤客",
@@ -921,6 +1321,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "24",
+              "image": "Image/UI/AttrUI/mianju/nanhaieshen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "深海墨鳄",
@@ -956,6 +1371,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "37",
+              "image": "Image/UI/AttrUI/mianju/quyuan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "忠贞之士",
@@ -991,6 +1421,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "38",
+              "image": "Image/UI/AttrUI/mianju/xiangfuren.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "湘水神女",
@@ -1036,6 +1481,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "55",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "39",
+              "image": "Image/UI/AttrUI/mianju/huangrong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "古灵精怪",
@@ -1071,6 +1531,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "40",
+              "image": "Image/UI/AttrUI/mianju/renyingying.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "日月圣女",
@@ -1095,6 +1570,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "35",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "41",
+              "image": "Image/UI/AttrUI/mianju/zhongling.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "钟灵毓秀",
@@ -1119,6 +1609,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "42",
+              "image": "Image/UI/AttrUI/mianju/qingxiaowan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "纯真少女",
@@ -1143,6 +1648,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "43",
+              "image": "Image/UI/AttrUI/mianju/liuxuanfeng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "命运多舛",
@@ -1167,6 +1687,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "44",
+              "image": "Image/UI/AttrUI/mianju/luohuanjun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "落月弟子",
@@ -1191,6 +1726,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "45",
+              "image": "Image/UI/AttrUI/mianju/niulang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "迢迢牵牛星",
@@ -1226,6 +1776,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "46",
+              "image": "Image/UI/AttrUI/mianju/zhinv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "皎皎河汉女",
@@ -1261,6 +1826,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "47",
+              "image": "Image/UI/AttrUI/mianju/yansigui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "落水女鬼",
@@ -1298,6 +1878,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "48",
+              "image": "Image/UI/AttrUI/mianju/wumiangui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "无面恶灵",
@@ -1335,6 +1930,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "49",
+              "image": "Image/UI/AttrUI/mianju/changfagui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "长发幽魂",
@@ -1372,6 +1982,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "50",
+              "image": "Image/UI/AttrUI/mianju/datougui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "大头小鬼",
@@ -1409,6 +2034,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "51",
+              "image": "Image/UI/AttrUI/mianju/guiwang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "纹面鬼王",
@@ -1433,6 +2073,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "52",
+              "image": "Image/UI/AttrUI/mianju/houyi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "射日之雄",
@@ -1468,6 +2123,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2011",
+              "image": "Image/UI/AttrUI/mianju/yuetubai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2012",
+              "image": "Image/UI/AttrUI/mianju/yuetuhei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "捣药玉兔",
@@ -1503,6 +2181,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "53",
+              "image": "Image/UI/AttrUI/mianju/wangchongyang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "全真祖师",
@@ -1538,6 +2231,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "54",
+              "image": "Image/UI/AttrUI/mianju/linchaoying.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "古陵祖师",
@@ -1573,6 +2281,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "55",
+              "image": "Image/UI/AttrUI/mianju/chuliuxiang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "偷心盗帅",
@@ -1597,6 +2320,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "65",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "56",
+              "image": "Image/UI/AttrUI/mianju/dasheng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "齐天大圣",
@@ -1621,6 +2359,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "57",
+              "image": "Image/UI/AttrUI/mianju/linghuzhangmen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "令狐掌门",
@@ -1645,6 +2398,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "58",
+              "image": "Image/UI/AttrUI/mianju/kongming.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "借东风",
@@ -1669,6 +2437,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "59",
+              "image": "Image/UI/AttrUI/mianju/yangguifei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "贵妃醉酒",
@@ -1693,6 +2476,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "60",
+              "image": "Image/UI/AttrUI/mianju/nianqinglongnv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "古陵传人",
@@ -1728,6 +2526,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "61",
+              "image": "Image/UI/AttrUI/mianju/nianqingyangguo.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "杨氏后人",
@@ -1763,6 +2576,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "65",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "62",
+              "image": "Image/UI/AttrUI/mianju/shenseng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "无名神僧",
@@ -1787,6 +2615,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "65",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "63",
+              "image": "Image/UI/AttrUI/mianju/dongfangbubai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "神教教主",
@@ -1811,6 +2654,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "64",
+              "image": "Image/UI/AttrUI/mianju/lihuazhongxin.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "茶韵悠悠",
@@ -1835,6 +2693,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "65",
+              "image": "Image/UI/AttrUI/mianju/luolan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "仿如重光",
@@ -1859,6 +2732,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "66",
+              "image": "Image/UI/AttrUI/mianju/pingyaogongzhu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "平遥公主",
@@ -1883,6 +2771,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "67",
+              "image": "Image/UI/AttrUI/mianju/xiangjun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "湘水神君",
@@ -1918,6 +2821,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "68",
+              "image": "Image/UI/AttrUI/mianju/hongqigong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "丐帮帮主",
@@ -1942,6 +2860,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "69",
+              "image": "Image/UI/AttrUI/mianju/songqingqiu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "重光右神使",
@@ -1977,6 +2910,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "70",
+              "image": "Image/UI/AttrUI/mianju/laolunsi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "重光左神使",
@@ -2012,6 +2960,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "71",
+              "image": "Image/UI/AttrUI/mianju/guoshi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "吐蕃国师",
@@ -2036,6 +2999,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "72",
+              "image": "Image/UI/AttrUI/mianju/wangjiacainv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "王家才女",
@@ -2060,6 +3038,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2021",
+              "image": "Image/UI/AttrUI/mianju/yekai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2022",
+              "image": "Image/UI/AttrUI/mianju/fuhongxue.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天涯浪客",
@@ -2084,6 +3085,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "73",
+              "image": "Image/UI/AttrUI/mianju/hanyifeng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "嵩山首徒",
@@ -2108,6 +3124,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2031",
+              "image": "Image/UI/AttrUI/mianju/heishangbaitian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2032",
+              "image": "Image/UI/AttrUI/mianju/heishangyewan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2134,6 +3173,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "74",
+              "image": "Image/UI/AttrUI/mianju/dinghongdie.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2160,6 +3214,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "75",
+              "image": "Image/UI/AttrUI/mianju/zhangzuozhi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2186,6 +3255,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2041",
+              "image": "Image/UI/AttrUI/mianju/taohuaxian1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2042",
+              "image": "Image/UI/AttrUI/mianju/taohuaxian2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "七夕情缘",
@@ -2210,6 +3302,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "76",
+              "image": "Image/UI/AttrUI/mianju/niutou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2235,6 +3342,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "77",
+              "image": "Image/UI/AttrUI/mianju/mamian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2260,6 +3382,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "78",
+              "image": "Image/UI/AttrUI/mianju/luqianhou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "陆大统领",
@@ -2284,6 +3421,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1002",
+              "image": "Image/UI/AttrUI/mianju/huangdaozhu.png",
+              "anim": "taohuadaozhu",
+              "animFolder": "taohuadaozhu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "名流邪师",
@@ -2308,6 +3460,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1003",
+              "image": "Image/UI/AttrUI/mianju/yuelingwei.png",
+              "anim": "yuelingwei",
+              "animFolder": "yuelingwei",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "西施医仙",
@@ -2332,6 +3499,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "79",
+              "image": "Image/UI/AttrUI/mianju/shenyuanlong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "书生掌柜",
@@ -2356,6 +3538,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1004",
+              "image": "Image/UI/AttrUI/mianju/guofuren.png",
+              "anim": "huangrong",
+              "animFolder": "huangrong",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "贤内助",
@@ -2380,6 +3577,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "80",
+              "image": "Image/UI/AttrUI/mianju/zaowang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "灶王爷",
@@ -2404,6 +3616,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "81",
+              "image": "Image/UI/AttrUI/mianju/caishen.png",
+              "anim": "caishenye",
+              "animFolder": "caishenye",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "财运到",
@@ -2428,6 +3655,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1005",
+              "image": "Image/UI/AttrUI/mianju/dishuiqing.png",
+              "anim": "dishuiqing",
+              "animFolder": "dishuiqing",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "峨眉逆徒",
@@ -2452,6 +3694,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1006",
+              "image": "Image/UI/AttrUI/mianju/dingdian.png",
+              "anim": "dingdian",
+              "animFolder": "dingdian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "狱中人",
@@ -2476,6 +3733,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "82",
+              "image": "Image/UI/AttrUI/mianju/miejue.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "峨眉执剑",
@@ -2500,6 +3772,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "83",
+              "image": "Image/UI/AttrUI/mianju/chefu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "无所不至",
@@ -2524,6 +3811,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "84",
+              "image": "Image/UI/AttrUI/mianju/nuo.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "上古遗风",
@@ -2548,6 +3850,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1007",
+              "image": "Image/UI/AttrUI/mianju/zhaowude.png",
+              "anim": "zhaowude",
+              "animFolder": "zhaowude",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "剑底亡魂",
@@ -2572,6 +3889,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "35",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "85",
+              "image": "Image/UI/AttrUI/mianju/yewangsheng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "三途来客",
@@ -2596,6 +3928,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1008",
+              "image": "Image/UI/AttrUI/mianju/yufuren.png",
+              "anim": "yufuren",
+              "animFolder": "yufuren",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "永夜夫人",
@@ -2620,6 +3967,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "86",
+              "image": "Image/UI/AttrUI/mianju/wuguanlaoguanjia.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "少侠你好",
@@ -2644,6 +4006,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2051",
+              "image": "Image/UI/AttrUI/mianju/yuzhixiao1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2052",
+              "image": "Image/UI/AttrUI/mianju/yuzhixiao2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "一世之雄",
@@ -2668,6 +4053,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "87",
+              "image": "Image/UI/AttrUI/mianju/shouyeren.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "守夜人",
@@ -2692,6 +4092,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "88",
+              "image": "Image/UI/AttrUI/mianju/jiading1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "风流家丁",
@@ -2716,6 +4131,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "20",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "89",
+              "image": "Image/UI/AttrUI/mianju/jiading2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": []
     },
@@ -2730,6 +4160,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "20",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "90",
+              "image": "Image/UI/AttrUI/mianju/rentiannan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "独掌江南",
@@ -2754,6 +4199,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1009",
+              "image": "Image/UI/AttrUI/mianju/rongzhuanggongzhu.png",
+              "anim": "rongzhuanggongzhu",
+              "animFolder": "rongzhuanggongzhu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "戎装公主",
@@ -2778,6 +4238,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2061",
+              "image": "Image/UI/AttrUI/mianju/kamierbaitian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2062",
+              "image": "Image/UI/AttrUI/mianju/kamieryewan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2804,6 +4287,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "91",
+              "image": "Image/UI/AttrUI/mianju/mulingyan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2830,6 +4328,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "92",
+              "image": "Image/UI/AttrUI/mianju/linyun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -2856,6 +4369,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "93",
+              "image": "Image/UI/AttrUI/mianju/mingjiaoshengnv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "水龙吟",
@@ -2880,6 +4408,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "94",
+              "image": "Image/UI/AttrUI/mianju/xiaoxiadao.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "狼心独怆",
@@ -2904,6 +4447,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "95",
+              "image": "Image/UI/AttrUI/mianju/yangzongguan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天人化生",
@@ -2928,6 +4486,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2071",
+              "image": "Image/UI/AttrUI/mianju/youmingjiaozhu1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2072",
+              "image": "Image/UI/AttrUI/mianju/youmingjiaozhu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "十殿阎罗",
@@ -2952,6 +4533,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "96",
+              "image": "Image/UI/AttrUI/mianju/zhangjiaozhu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "似是而非",
@@ -2976,6 +4572,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "97",
+              "image": "Image/UI/AttrUI/mianju/yanshenglaozu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "器括寰宇",
@@ -3000,6 +4611,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "35",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "98",
+              "image": "Image/UI/AttrUI/mianju/sheshen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "海晏河清",
@@ -3024,6 +4650,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "99",
+              "image": "Image/UI/AttrUI/mianju/yu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "执羽舞器",
@@ -3048,6 +4689,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "100",
+              "image": "Image/UI/AttrUI/mianju/zhongkui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "伏魔卫道",
@@ -3072,6 +4728,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "101",
+              "image": "Image/UI/AttrUI/mianju/tangbuping.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "飒沓流星",
@@ -3096,6 +4767,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "102",
+              "image": "Image/UI/AttrUI/mianju/hongyi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "酥手夺魄",
@@ -3120,6 +4806,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "103",
+              "image": "Image/UI/AttrUI/mianju/laotou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "承蒙指教",
@@ -3144,6 +4845,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "104",
+              "image": "Image/UI/AttrUI/mianju/daoshi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "诡梦初端",
@@ -3168,6 +4884,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "105",
+              "image": "Image/UI/AttrUI/mianju/shangui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "岁宴华予",
@@ -3192,6 +4923,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1010",
+              "image": "Image/UI/AttrUI/mianju/menggujunzhu.png",
+              "anim": "zhaomin",
+              "animFolder": "zhaomin",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "绚若红玫",
@@ -3216,6 +4962,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2081",
+              "image": "Image/UI/AttrUI/mianju/tianjingmenzhu1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2082",
+              "image": "Image/UI/AttrUI/mianju/tianjingmenzhu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "粉黛英姿",
@@ -3240,6 +5009,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "106",
+              "image": "Image/UI/AttrUI/mianju/situchi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "指骨为笛",
@@ -3264,6 +5048,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "107",
+              "image": "Image/UI/AttrUI/mianju/ouyezi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "剑池遗风",
@@ -3288,6 +5087,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "108",
+              "image": "Image/UI/AttrUI/mianju/hongniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "如花美眷",
@@ -3312,6 +5126,34 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "109",
+              "image": "Image/UI/AttrUI/mianju/diaochan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4035",
+              "image": "Image/UI/AttrUI/mianju/diaochan.png",
+              "anim": "diaochan",
+              "animFolder": "diaochan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "月见羞",
@@ -3336,6 +5178,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "110",
+              "image": "Image/UI/AttrUI/mianju/huagongzi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "花落无缺",
@@ -3360,6 +5217,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "111",
+              "image": "Image/UI/AttrUI/mianju/duanwangzi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "王孙风华",
@@ -3384,6 +5256,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2091",
+              "image": "Image/UI/AttrUI/mianju/dingxiang1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2092",
+              "image": "Image/UI/AttrUI/mianju/dingxiang2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -3410,6 +5305,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "112",
+              "image": "Image/UI/AttrUI/mianju/jinghongyan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -3436,6 +5346,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "113",
+              "image": "Image/UI/AttrUI/mianju/duanxiao.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -3462,6 +5387,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "50",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "114",
+              "image": "Image/UI/AttrUI/mianju/zhangtianshi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "道宗天师",
@@ -3486,6 +5426,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "115",
+              "image": "Image/UI/AttrUI/mianju/yangzuoshi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "光明左使",
@@ -3510,6 +5465,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "116",
+              "image": "Image/UI/AttrUI/mianju/zhouzhangmen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "汉水之缘",
@@ -3534,6 +5504,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1011",
+              "image": "Image/UI/AttrUI/mianju/shishaoxia.png",
+              "anim": "shipotian",
+              "animFolder": "shipotian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "石上行诗",
@@ -3558,6 +5543,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1012",
+              "image": "Image/UI/AttrUI/mianju/qiaofeng.png",
+              "anim": "qiaofeng",
+              "animFolder": "qiaofeng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "契丹真龙",
@@ -3582,6 +5582,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "117",
+              "image": "Image/UI/AttrUI/mianju/azhu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "朱颜碧玉",
@@ -3606,6 +5621,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1013",
+              "image": "Image/UI/AttrUI/mianju/hufei.png",
+              "anim": "hushaoxia",
+              "animFolder": "hushaoxia",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "雪山侠行",
@@ -3630,6 +5660,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "118",
+              "image": "Image/UI/AttrUI/mianju/chenglingsu1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "七心海棠",
@@ -3654,6 +5699,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "119",
+              "image": "Image/UI/AttrUI/mianju/ziguniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "恶紫夺朱",
@@ -3678,6 +5738,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "120",
+              "image": "Image/UI/AttrUI/mianju/huangshifu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "醒狮飞鸿",
@@ -3702,6 +5777,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "121",
+              "image": "Image/UI/AttrUI/mianju/weijueye.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "小白龙",
@@ -3726,6 +5816,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1014",
+              "image": "Image/UI/AttrUI/mianju/yuenv.png",
+              "anim": "yuenv",
+              "animFolder": "yuenv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "越女剑",
@@ -3750,6 +5855,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "45",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "122",
+              "image": "Image/UI/AttrUI/mianju/limochou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "赤练女魔",
@@ -3774,6 +5894,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1015",
+              "image": "Image/UI/AttrUI/mianju/susu.png",
+              "anim": "yinsusu",
+              "animFolder": "yinsusu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "至情至性",
@@ -3798,6 +5933,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1016",
+              "image": "Image/UI/AttrUI/mianju/zhangzhenren.png",
+              "anim": "zhangsanfeng",
+              "animFolder": "zhangsanfeng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "太极玄功",
@@ -3822,6 +5972,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1017",
+              "image": "Image/UI/AttrUI/mianju/jianshen.png",
+              "anim": "xmcx",
+              "animFolder": "xmcx",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "落花吹雪",
@@ -3846,6 +6011,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1018",
+              "image": "Image/UI/AttrUI/mianju/chaoyingnvxia.png",
+              "anim": "linchaoying",
+              "animFolder": "linchaoying",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "古陵深情",
@@ -3870,6 +6050,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1019",
+              "image": "Image/UI/AttrUI/mianju/buhuimeimei.png",
+              "anim": "yangbuhui",
+              "animFolder": "yangbuhui",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "此情无悔",
@@ -3894,6 +6089,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "123",
+              "image": "Image/UI/AttrUI/mianju/heiyixianv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "侠骨香",
@@ -3918,6 +6128,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "124",
+              "image": "Image/UI/AttrUI/mianju/heiyixiashi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "不留行",
@@ -3942,6 +6167,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4001",
+              "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4002",
+              "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "anim": "shengjidonghuanv2",
+              "animFolder": "shengjidonghuanv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4003",
+              "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "anim": "shengjidonghuanv2",
+              "animFolder": "shengjidonghuanv",
+              "effect": "shengjimianjutongyongbeijing1",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4004",
+              "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "anim": "shengjidonghuanv3",
+              "animFolder": "shengjidonghuanv",
+              "effect": "shengjimianjutongyongbeijing1",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "刀马旦",
@@ -3966,6 +6245,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "15",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4005",
+              "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4006",
+              "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "anim": "shengjidonghuanan2",
+              "animFolder": "shengjidonghuanan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4007",
+              "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "anim": "shengjidonghuanan2",
+              "animFolder": "shengjidonghuanan",
+              "effect": "shengjimianjutongyongbeijing1",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4008",
+              "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "anim": "shengjidonghuanan3",
+              "animFolder": "shengjidonghuanan",
+              "effect": "shengjimianjutongyongbeijing1",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "俏武生",
@@ -3990,6 +6323,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1020",
+              "image": "Image/UI/AttrUI/mianju/renjiaozhu.png",
+              "anim": "renwoxing",
+              "animFolder": "renwoxing",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天下任行",
@@ -4014,6 +6362,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1021",
+              "image": "Image/UI/AttrUI/mianju/huanhuajianke.png",
+              "anim": "huanhuaxiake",
+              "animFolder": "huanhuaxiake",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "花影随行",
@@ -4038,6 +6401,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1022",
+              "image": "Image/UI/AttrUI/mianju/fengbaoqishilaien.png",
+              "anim": "fengbaoqishi",
+              "animFolder": "fengbaoqishi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "风暴神使",
@@ -4062,6 +6440,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1023",
+              "image": "Image/UI/AttrUI/mianju/shengshiqingqiu.png",
+              "anim": "youshenshi",
+              "animFolder": "youshenshi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "重光之女",
@@ -4086,6 +6479,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1024",
+              "image": "Image/UI/AttrUI/mianju/zuoshenshi.png",
+              "anim": "zuoshenshi",
+              "animFolder": "zuoshenshi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "重光左使",
@@ -4110,6 +6518,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "125",
+              "image": "Image/UI/AttrUI/mianju/yudishaonian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "御敌少年",
@@ -4134,6 +6557,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4009",
+              "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4010",
+              "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "anim": "niulang1",
+              "animFolder": "niulang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4011",
+              "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "anim": "niulang2",
+              "animFolder": "niulang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4012",
+              "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "anim": "niulang3",
+              "animFolder": "niulang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "牵牛星",
@@ -4158,6 +6635,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4013",
+              "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4014",
+              "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "anim": "zhinv1",
+              "animFolder": "zhinv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4015",
+              "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "anim": "zhinv2",
+              "animFolder": "zhinv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4016",
+              "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "anim": "zhinv3",
+              "animFolder": "zhinv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "织女星",
@@ -4182,6 +6713,86 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4017",
+              "image": "Image/UI/AttrUI/mianju/yecha1lv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4018",
+              "image": "Image/UI/AttrUI/mianju/yecha1lv.png",
+              "anim": "yecha1lv",
+              "animFolder": "yecha",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4019",
+              "image": "Image/UI/AttrUI/mianju/yecha2hong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4020",
+              "image": "Image/UI/AttrUI/mianju/yecha2hong.png",
+              "anim": "yecha2hong",
+              "animFolder": "yecha",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4021",
+              "image": "Image/UI/AttrUI/mianju/yecha3fen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "arts": [
+            {
+              "id": "4022",
+              "image": "Image/UI/AttrUI/mianju/yecha3fen.png",
+              "anim": "yecha3fen",
+              "animFolder": "yecha",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "夜叉降临",
@@ -4206,6 +6817,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1025",
+              "image": "Image/UI/AttrUI/mianju/shutong.png",
+              "anim": "shutong",
+              "animFolder": "shutong",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "夜半书生",
@@ -4230,6 +6856,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1026",
+              "image": "Image/UI/AttrUI/mianju/limotou.png",
+              "anim": "limotou",
+              "animFolder": "limotou",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "赤练魔女",
@@ -4254,6 +6895,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2093",
+              "image": "Image/UI/AttrUI/mianju/linshaoxia1.png",
+              "anim": "linshaoxia",
+              "animFolder": "linshaoxia",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2094",
+              "image": "Image/UI/AttrUI/mianju/linshaoxia2.png",
+              "anim": "linshaoxia2",
+              "animFolder": "linshaoxia",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "夜里悲狂",
@@ -4278,6 +6942,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1027",
+              "image": "Image/UI/AttrUI/mianju/quanba.png",
+              "anim": "quanshi",
+              "animFolder": "quanshi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "拳霸天下",
@@ -4302,6 +6981,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2095",
+              "image": "Image/UI/AttrUI/mianju/linu1.png",
+              "anim": "linurumengmao",
+              "animFolder": "linurumeng",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2096",
+              "image": "Image/UI/AttrUI/mianju/linu2.png",
+              "anim": "linurumengren",
+              "animFolder": "linurumeng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "狸奴入梦",
@@ -4326,6 +7028,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1028",
+              "image": "Image/UI/AttrUI/mianju/kuilier.png",
+              "anim": "kuilier",
+              "animFolder": "kuilier",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "大秦少女",
@@ -4350,6 +7067,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4023",
+              "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4024",
+              "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4025",
+              "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "anim": "dianxiaoer",
+              "animFolder": "dianxiaoer",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "人气小二",
@@ -4374,6 +7132,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4026",
+              "image": "Image/UI/AttrUI/mianju/chenzhuanqian1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4027",
+              "image": "Image/UI/AttrUI/mianju/chenzhuanqian2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4028",
+              "image": "Image/UI/AttrUI/mianju/chenzhuanqian2.png",
+              "anim": "chenzhuanqian",
+              "animFolder": "chenzhuanqian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "生财有方",
@@ -4398,6 +7197,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1029",
+              "image": "Image/UI/AttrUI/mianju/danqingmiaoshou.png",
+              "anim": "danqingmiaoshou",
+              "animFolder": "danqingmiaoshou",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "妙手丹青",
@@ -4422,6 +7236,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1030",
+              "image": "Image/UI/AttrUI/mianju/shenyexing.png",
+              "anim": "shenyexing",
+              "animFolder": "shenyexing",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "手不释卷",
@@ -4446,6 +7275,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1031",
+              "image": "Image/UI/AttrUI/mianju/zhangshengdai.png",
+              "anim": "zhangshengdai",
+              "animFolder": "zhangshengdai",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "金戈铁马",
@@ -4470,6 +7314,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1032",
+              "image": "Image/UI/AttrUI/mianju/murongmi.png",
+              "anim": "murongmi",
+              "animFolder": "murongmi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "掌上明珠",
@@ -4494,6 +7353,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4029",
+              "image": "Image/UI/AttrUI/mianju/jinsanniang1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4030",
+              "image": "Image/UI/AttrUI/mianju/jinsanniang2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4031",
+              "image": "Image/UI/AttrUI/mianju/jinsanniang2.png",
+              "anim": "jinsanniang",
+              "animFolder": "jinsanniang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "雪青玉铃",
@@ -4518,6 +7418,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4032",
+              "image": "Image/UI/AttrUI/mianju/dingling.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4033",
+              "image": "Image/UI/AttrUI/mianju/dingling2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4034",
+              "image": "Image/UI/AttrUI/mianju/dingling2.png",
+              "anim": "dingling",
+              "animFolder": "dingling",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "虚缈入海",
@@ -4542,6 +7483,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1033",
+              "image": "Image/UI/AttrUI/mianju/lengjing.png",
+              "anim": "lengshuang",
+              "animFolder": "lengshuang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "月夜寒芒",
@@ -4566,6 +7522,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4036",
+              "image": "Image/UI/AttrUI/mianju/kalina.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4037",
+              "image": "Image/UI/AttrUI/mianju/kalina2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4038",
+              "image": "Image/UI/AttrUI/mianju/kalina2.png",
+              "anim": "xiyunvzi",
+              "animFolder": "xiyunvzi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "青蝶曼舞",
@@ -4590,6 +7587,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4039",
+              "image": "Image/UI/AttrUI/mianju/caishenniang.png",
+              "anim": "caishenniang",
+              "animFolder": "caishenniang",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4040",
+              "image": "Image/UI/AttrUI/mianju/caishenniang2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4041",
+              "image": "Image/UI/AttrUI/mianju/caishenniang3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4042",
+              "image": "Image/UI/AttrUI/mianju/caishenniang4.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "财神到",
@@ -4614,6 +7665,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1034",
+              "image": "Image/UI/AttrUI/mianju/nianshou.png",
+              "anim": "nianshou",
+              "animFolder": "nianshou",
+              "effect": "",
+              "border": "10009"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "爆竹熄祟",
@@ -4638,6 +7704,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "126",
+              "image": "Image/UI/AttrUI/mianju/huhushengwei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "山君图",
@@ -4662,6 +7743,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "127",
+              "image": "Image/UI/AttrUI/mianju/gui.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "初心未改",
@@ -4686,6 +7782,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1035",
+              "image": "Image/UI/AttrUI/mianju/heishishangren.png",
+              "anim": "heishishangren",
+              "animFolder": "heishishangren",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -4712,6 +7823,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1036",
+              "image": "Image/UI/AttrUI/mianju/baijianfeng.png",
+              "anim": "baijianfeng",
+              "animFolder": "baijianfeng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -4738,6 +7864,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2097",
+              "image": "Image/UI/AttrUI/mianju/qiuyuebai.png",
+              "anim": "qiuyuebai",
+              "animFolder": "qiuyue",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2098",
+              "image": "Image/UI/AttrUI/mianju/qiuyuewan.png",
+              "anim": "qiuyuewan",
+              "animFolder": "qiuyue",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -4764,6 +7913,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4043",
+              "image": "Image/UI/AttrUI/mianju/gouyunying.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4044",
+              "image": "Image/UI/AttrUI/mianju/gouyunying2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4045",
+              "image": "Image/UI/AttrUI/mianju/gouyunying2.png",
+              "anim": "gouyunying",
+              "animFolder": "gouyunying",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "朝令夕改",
@@ -4788,6 +7978,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4046",
+              "image": "Image/UI/AttrUI/mianju/baipi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4047",
+              "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4048",
+              "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "anim": "baipi",
+              "animFolder": "baipi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4049",
+              "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "anim": "baipi",
+              "animFolder": "baipi",
+              "effect": "",
+              "border": "10011"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "思不出位",
@@ -4812,6 +8056,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1037",
+              "image": "Image/UI/AttrUI/mianju/mutong.png",
+              "anim": "mutong",
+              "animFolder": "mutong",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "牧笛青雨",
@@ -4836,6 +8095,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4050",
+              "image": "Image/UI/AttrUI/mianju/chenziyu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4051",
+              "image": "Image/UI/AttrUI/mianju/chenziyu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4052",
+              "image": "Image/UI/AttrUI/mianju/chenziyu2.png",
+              "anim": "chenziyu",
+              "animFolder": "chenziyu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "气慑山河",
@@ -4860,6 +8160,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1038",
+              "image": "Image/UI/AttrUI/mianju/liuqianqian.png",
+              "anim": "liuqianqian",
+              "animFolder": "liuqianqian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "似水柔情",
@@ -4884,6 +8199,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1039",
+              "image": "Image/UI/AttrUI/mianju/zuixian.png",
+              "anim": "zuixian",
+              "animFolder": "zuixian",
+              "effect": "",
+              "border": "10012"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "醉玉颓山",
@@ -4908,6 +8238,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4053",
+              "image": "Image/UI/AttrUI/mianju/liuruyan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4054",
+              "image": "Image/UI/AttrUI/mianju/liuruyan2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4055",
+              "image": "Image/UI/AttrUI/mianju/liuruyan2.png",
+              "anim": "liuruyan",
+              "animFolder": "liuruyan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "柳娇花媚",
@@ -4932,6 +8303,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1040",
+              "image": "Image/UI/AttrUI/mianju/qulingjun.png",
+              "anim": "qulingjun",
+              "animFolder": "qulingjun",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "骚人墨客",
@@ -4956,6 +8342,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1041",
+              "image": "Image/UI/AttrUI/mianju/liumuyan.png",
+              "anim": "liumuyanchongzhi",
+              "animFolder": "liumuyan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "巧笑倩兮",
@@ -4980,6 +8381,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4056",
+              "image": "Image/UI/AttrUI/mianju/liususu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4057",
+              "image": "Image/UI/AttrUI/mianju/liususu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4058",
+              "image": "Image/UI/AttrUI/mianju/liususu2.png",
+              "anim": "liususu",
+              "animFolder": "liususu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "傲霜凌雪",
@@ -5004,6 +8446,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "128",
+              "image": "Image/UI/AttrUI/mianju/lanxi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "心如止水",
@@ -5028,6 +8485,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "129",
+              "image": "Image/UI/AttrUI/mianju/liuqianwen.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "娴静烟萝",
@@ -5052,6 +8524,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1042",
+              "image": "Image/UI/AttrUI/mianju/yunyimeng.png",
+              "anim": "qianqiudaoren",
+              "animFolder": "qianqiudaoren",
+              "effect": "",
+              "border": "10013"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "千秋道人",
@@ -5076,6 +8563,29 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "2099",
+              "image": "Image/UI/AttrUI/mianju/zhenrongbai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "2100",
+              "image": "Image/UI/AttrUI/mianju/zhenrongwan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "就虚避实",
@@ -5100,6 +8610,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4059",
+              "image": "Image/UI/AttrUI/mianju/xiunv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4060",
+              "image": "Image/UI/AttrUI/mianju/xiunv2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4061",
+              "image": "Image/UI/AttrUI/mianju/xiunv2.png",
+              "anim": "xiunv",
+              "animFolder": "xiunv",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "芊芊擢素手",
@@ -5124,6 +8675,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1043",
+              "image": "Image/UI/AttrUI/mianju/jianghulangke.png",
+              "anim": "jianghulangke",
+              "animFolder": "jianghulangke",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "寒影于硎",
@@ -5148,6 +8714,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "130",
+              "image": "Image/UI/AttrUI/mianju/chutong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "童稚十足",
@@ -5172,6 +8753,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1044",
+              "image": "Image/UI/AttrUI/mianju/nieqianqian.png",
+              "anim": "nieqianqian",
+              "animFolder": "nieqianqian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "柳啼花怨",
@@ -5196,6 +8792,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1045",
+              "image": "Image/UI/AttrUI/mianju/duoqinglangke.png",
+              "anim": "duoqinglangke",
+              "animFolder": "duoqinglangke",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "例无虚发",
@@ -5220,6 +8831,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1046",
+              "image": "Image/UI/AttrUI/mianju/tianjilaoren.png",
+              "anim": "tianjilaoren",
+              "animFolder": "tianjilaoren",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -5246,6 +8872,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4062",
+              "image": "Image/UI/AttrUI/mianju/huangdi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4063",
+              "image": "Image/UI/AttrUI/mianju/huangdi2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4064",
+              "image": "Image/UI/AttrUI/mianju/huangdi2.png",
+              "anim": "huangdi",
+              "animFolder": "huangdi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -5272,6 +8939,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "131",
+              "image": "Image/UI/AttrUI/mianju/wumingjianke.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [],
       "combinedAchievements": [
         {
@@ -5298,6 +8980,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1047",
+              "image": "Image/UI/AttrUI/mianju/wuliuxiansheng.png",
+              "anim": "wuliuxiansheng",
+              "animFolder": "wuliuxiansheng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "悠悠节华",
@@ -5322,6 +9019,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1048",
+              "image": "Image/UI/AttrUI/mianju/huaxianzi.png",
+              "anim": "huaxianzi",
+              "animFolder": "huaxianzi",
+              "effect": "",
+              "border": "10015"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "白玉悠韵",
@@ -5346,6 +9058,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1049",
+              "image": "Image/UI/AttrUI/mianju/miaoshi.png",
+              "anim": "miaoshi",
+              "animFolder": "miaoshi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "力可拔山",
@@ -5370,6 +9097,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1050",
+              "image": "Image/UI/AttrUI/mianju/zhangyue.png",
+              "anim": "zhangyue",
+              "animFolder": "zhangyue",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "幽谷芝兰",
@@ -5394,6 +9136,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "1051",
+              "image": "Image/UI/AttrUI/mianju/qinliu.png",
+              "anim": "qinliu",
+              "animFolder": "qinliu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "苍山孤鹰",
@@ -5418,6 +9175,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4065",
+              "image": "Image/UI/AttrUI/mianju/miaofeng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4066",
+              "image": "Image/UI/AttrUI/mianju/miaofeng2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4067",
+              "image": "Image/UI/AttrUI/mianju/miaofeng2.png",
+              "anim": "miaofeng",
+              "animFolder": "miaofeng",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "穿山烈风",
@@ -5442,6 +9240,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4068",
+              "image": "Image/UI/AttrUI/mianju/miaoyun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4069",
+              "image": "Image/UI/AttrUI/mianju/miaoyun2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4070",
+              "image": "Image/UI/AttrUI/mianju/miaoyun2.png",
+              "anim": "miaoyun",
+              "animFolder": "miaoyun",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "云心月性",
@@ -5466,6 +9305,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4071",
+              "image": "Image/UI/AttrUI/mianju/gongsunyi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4072",
+              "image": "Image/UI/AttrUI/mianju/gongsunyi2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4073",
+              "image": "Image/UI/AttrUI/mianju/gongsunyi2.png",
+              "anim": "gongsunyi",
+              "animFolder": "gongsunyi",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "自树一帜",
@@ -5490,6 +9370,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "132",
+              "image": "Image/UI/AttrUI/mianju/tuerye.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "祥云富贵",
@@ -5514,6 +9409,73 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4074",
+              "image": "Image/UI/AttrUI/mianju/lizhannanami.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4075",
+              "image": "Image/UI/AttrUI/mianju/lizhannanami2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4076",
+              "image": "Image/UI/AttrUI/mianju/lizhannanami3.png",
+              "anim": "lizhannanami3",
+              "animFolder": "lizhannanami",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4077",
+              "image": "Image/UI/AttrUI/mianju/lizhannanami4.png",
+              "anim": "lizhannanami4",
+              "animFolder": "lizhannanami",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4078",
+              "image": "Image/UI/AttrUI/mianju/lizhannanami4.png",
+              "anim": "lizhannanami4",
+              "animFolder": "lizhannanami",
+              "effect": "",
+              "border": "10016"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "背水一战",
@@ -5538,6 +9500,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "133",
+              "image": "Image/UI/AttrUI/mianju/yuanxiaoguniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "华灯映月",
@@ -5562,6 +9539,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "134",
+              "image": "Image/UI/AttrUI/mianju/nvyi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "百花神女",
@@ -5586,6 +9578,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "135",
+              "image": "Image/UI/AttrUI/mianju/rongjin.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "灵秀巧燕",
@@ -5610,6 +9617,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "136",
+              "image": "Image/UI/AttrUI/mianju/xuemuling.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "晴云秋月",
@@ -5634,6 +9656,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "137",
+              "image": "Image/UI/AttrUI/mianju/bieluoyuan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "目断飞鸿",
@@ -5658,6 +9695,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "138",
+              "image": "Image/UI/AttrUI/mianju/xiezihuai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "东风浩荡",
@@ -5682,6 +9734,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "139",
+              "image": "Image/UI/AttrUI/mianju/anyunxiao.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "金石之坚",
@@ -5706,6 +9773,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "140",
+              "image": "Image/UI/AttrUI/mianju/sanshaoye.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "身不随己",
@@ -5730,6 +9812,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "141",
+              "image": "Image/UI/AttrUI/mianju/linguniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "柔心韧骨",
@@ -5754,6 +9851,60 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4079",
+              "image": "Image/UI/AttrUI/mianju/choumuzhong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4080",
+              "image": "Image/UI/AttrUI/mianju/choumuzhong2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4081",
+              "image": "Image/UI/AttrUI/mianju/choumuzhong3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4082",
+              "image": "Image/UI/AttrUI/mianju/choumuzhong3.png",
+              "anim": "choumuzhong",
+              "animFolder": "choumuzhong",
+              "effect": "",
+              "border": "10019"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "命世之雄",
@@ -5778,6 +9929,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "142",
+              "image": "Image/UI/AttrUI/mianju/chuniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "厨艺超群",
@@ -5802,6 +9968,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "143",
+              "image": "Image/UI/AttrUI/mianju/busuanzi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "至人不相",
@@ -5826,6 +10007,76 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4083",
+              "image": "Image/UI/AttrUI/mianju/shemubai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4084",
+              "image": "Image/UI/AttrUI/mianju/shemuye.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4085",
+              "image": "Image/UI/AttrUI/mianju/shemubai2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "4086",
+              "image": "Image/UI/AttrUI/mianju/shemuye2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4087",
+              "image": "Image/UI/AttrUI/mianju/shemubai2.png",
+              "anim": "shemu1",
+              "animFolder": "shemu",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "4088",
+              "image": "Image/UI/AttrUI/mianju/shemuye2.png",
+              "anim": "shemu2",
+              "animFolder": "shemu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "蛇影幢幢",
@@ -5850,6 +10101,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "144",
+              "image": "Image/UI/AttrUI/mianju/huanghou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "槛花笼鹤",
@@ -5874,6 +10140,34 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4089",
+              "image": "Image/UI/AttrUI/mianju/yuezhongxian1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4090",
+              "image": "Image/UI/AttrUI/mianju/yuezhongxian2.png",
+              "anim": "yuezhongxian",
+              "animFolder": "yuezhongxian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "蟾宫桂魄",
@@ -5898,6 +10192,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "145",
+              "image": "Image/UI/AttrUI/mianju/hanyifeng2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "藏锋利剑",
@@ -5922,6 +10231,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "146",
+              "image": "Image/UI/AttrUI/mianju/yuanbanfei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "失林之鸟",
@@ -5946,6 +10270,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "147",
+              "image": "Image/UI/AttrUI/mianju/muyanwei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "云上白鸢",
@@ -5970,6 +10309,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "148",
+              "image": "Image/UI/AttrUI/mianju/waerta.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "送葬人",
@@ -5994,6 +10348,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "149",
+              "image": "Image/UI/AttrUI/mianju/muyanhua.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "机心械肠",
@@ -6018,6 +10387,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "150",
+              "image": "Image/UI/AttrUI/mianju/yisheng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "仁心仁术",
@@ -6042,6 +10426,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "151",
+              "image": "Image/UI/AttrUI/mianju/murongfuren.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "潜图问鼎",
@@ -6066,6 +10465,73 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4091",
+              "image": "Image/UI/AttrUI/mianju/lianqiao1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4092",
+              "image": "Image/UI/AttrUI/mianju/lianqiao2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4093",
+              "image": "Image/UI/AttrUI/mianju/lianqiao3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4094",
+              "image": "Image/UI/AttrUI/mianju/lianqiao3.png",
+              "anim": "lianqiao",
+              "animFolder": "lianqiao",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4095",
+              "image": "Image/UI/AttrUI/mianju/lianqiao4.png",
+              "anim": "lianqiao2",
+              "animFolder": "lianqiao",
+              "effect": "",
+              "border": "10020"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "向阳花木",
@@ -6090,6 +10556,34 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4096",
+              "image": "Image/UI/AttrUI/mianju/chenlong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4097",
+              "image": "Image/UI/AttrUI/mianju/chenlong2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "拏风跃云",
@@ -6114,6 +10608,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "152",
+              "image": "Image/UI/AttrUI/mianju/feishaoxia.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "第一快剑",
@@ -6138,6 +10647,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "153",
+              "image": "Image/UI/AttrUI/mianju/qiannv.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "幽明异路",
@@ -6162,6 +10686,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "154",
+              "image": "Image/UI/AttrUI/mianju/fu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "渺不足道",
@@ -6186,6 +10725,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "155",
+              "image": "Image/UI/AttrUI/mianju/shaonianxiake.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "疏狂侠少",
@@ -6210,6 +10764,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "156",
+              "image": "Image/UI/AttrUI/mianju/languniang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "素性不羁",
@@ -6234,6 +10803,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "10",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "157",
+              "image": "Image/UI/AttrUI/mianju/baijianiangzi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "尘缘如水",
@@ -6258,6 +10842,55 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "60",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4098",
+              "image": "Image/UI/AttrUI/mianju/baiyuanbai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4099",
+              "image": "Image/UI/AttrUI/mianju/baiyuanye.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4100",
+              "image": "Image/UI/AttrUI/mianju/baiyuanbai.png",
+              "anim": "baiyuan",
+              "animFolder": "baiyuan",
+              "effect": "",
+              "border": ""
+            },
+            {
+              "id": "4101",
+              "image": "Image/UI/AttrUI/mianju/baiyuanye.png",
+              "anim": "baiyuanye",
+              "animFolder": "baiyuan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "天生天化",
@@ -6282,6 +10915,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "158",
+              "image": "Image/UI/AttrUI/mianju/xiedaxia.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "狮王英风",
@@ -6306,6 +10954,73 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "80",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4102",
+              "image": "Image/UI/AttrUI/mianju/xiaying1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4103",
+              "image": "Image/UI/AttrUI/mianju/xiaying2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4104",
+              "image": "Image/UI/AttrUI/mianju/xiaying3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4105",
+              "image": "Image/UI/AttrUI/mianju/xiaying4.png",
+              "anim": "xiaying",
+              "animFolder": "xiaying",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4106",
+              "image": "Image/UI/AttrUI/mianju/xiaying4.png",
+              "anim": "xiaying",
+              "animFolder": "xiaying",
+              "effect": "",
+              "border": "10021"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "剑骨侠心",
@@ -6330,6 +11045,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "159",
+              "image": "Image/UI/AttrUI/mianju/qinglianjushi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "酒中仙",
@@ -6354,6 +11084,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "160",
+              "image": "Image/UI/AttrUI/mianju/huapi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "妙相玉面",
@@ -6378,6 +11123,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "161",
+              "image": "Image/UI/AttrUI/mianju/panguan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "君心秉正",
@@ -6402,6 +11162,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4107",
+              "image": "Image/UI/AttrUI/mianju/yuetu1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4108",
+              "image": "Image/UI/AttrUI/mianju/yuetu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4109",
+              "image": "Image/UI/AttrUI/mianju/yuetu2.png",
+              "anim": "yutu",
+              "animFolder": "yutu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "月宫仙灵",
@@ -6426,6 +11227,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "162",
+              "image": "Image/UI/AttrUI/mianju/longyuan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "折剑入尘",
@@ -6462,6 +11278,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "163",
+              "image": "Image/UI/AttrUI/mianju/yizu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "悬壶济世",
@@ -6486,6 +11317,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "164",
+              "image": "Image/UI/AttrUI/mianju/jianwenshu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "燕雀相护",
@@ -6522,6 +11368,47 @@
       "canUpgrade": true,
       "canDeal": false,
       "cailiao": "0",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4110",
+              "image": "Image/UI/AttrUI/mianju/qianjibi1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4111",
+              "image": "Image/UI/AttrUI/mianju/qianjibi3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4112",
+              "image": "Image/UI/AttrUI/mianju/qianjibi3.png",
+              "anim": "jiguanshu",
+              "animFolder": "jiguanshu",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "千机巧工",
@@ -6558,6 +11445,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "165",
+              "image": "Image/UI/AttrUI/mianju/yunmuyan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "泣血枕戈",
@@ -6594,6 +11496,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "166",
+              "image": "Image/UI/AttrUI/mianju/huagezi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "蛇蝎美人",
@@ -6618,6 +11535,73 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "80",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4113",
+              "image": "Image/UI/AttrUI/mianju/shangguanyao2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4114",
+              "image": "Image/UI/AttrUI/mianju/shangguanyao2.png",
+              "anim": "shangguanyao3",
+              "animFolder": "shangguanyao",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4115",
+              "image": "Image/UI/AttrUI/mianju/shangguanyao3.png",
+              "anim": "shangguanyao2",
+              "animFolder": "shangguanyao",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4116",
+              "image": "Image/UI/AttrUI/mianju/shangguanyao3.png",
+              "anim": "shangguanyao2",
+              "animFolder": "shangguanyao",
+              "effect": "",
+              "border": "10024"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4117",
+              "image": "Image/UI/AttrUI/mianju/shangguanyao4.png",
+              "anim": "shangguanyao",
+              "animFolder": "shangguanyao",
+              "effect": "",
+              "border": "10024"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "大道生财",
@@ -6642,6 +11626,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "167",
+              "image": "Image/UI/AttrUI/mianju/lulinglong.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "离尘求道",
@@ -6666,6 +11665,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "168",
+              "image": "Image/UI/AttrUI/mianju/ouyangxiansheng.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "毒而不邪",
@@ -6690,6 +11704,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "169",
+              "image": "Image/UI/AttrUI/mianju/qigongzi.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "浊世清风",
@@ -6714,6 +11743,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "170",
+              "image": "Image/UI/AttrUI/mianju/molinger.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "灵雀啭春",
@@ -6738,6 +11782,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "171",
+              "image": "Image/UI/AttrUI/mianju/mudanxian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "国色天香",
@@ -6762,6 +11821,47 @@
       "canUpgrade": true,
       "canDeal": false,
       "cailiao": "0",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4118",
+              "image": "Image/UI/AttrUI/mianju/xuanjibu.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4119",
+              "image": "Image/UI/AttrUI/mianju/xuanjibu2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4120",
+              "image": "Image/UI/AttrUI/mianju/xuanjibu2.png",
+              "anim": "jiguantui",
+              "animFolder": "jiguantui",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "啸傲风月",
@@ -6798,6 +11898,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "172",
+              "image": "Image/UI/AttrUI/mianju/yandaxia.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "豪气干云",
@@ -6822,6 +11937,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "173",
+              "image": "Image/UI/AttrUI/mianju/monianqing.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "克己复礼",
@@ -6846,6 +11976,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4121",
+              "image": "Image/UI/AttrUI/mianju/wujiangjun1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4122",
+              "image": "Image/UI/AttrUI/mianju/wujiangjun2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4123",
+              "image": "Image/UI/AttrUI/mianju/wujiangjun2.png",
+              "anim": "wujiangjun",
+              "animFolder": "wujiangjun",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "烈丈夫",
@@ -6870,6 +12041,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "174",
+              "image": "Image/UI/AttrUI/mianju/mingchangge.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "翠竹吟风",
@@ -6894,6 +12080,86 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "80",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4124",
+              "image": "Image/UI/AttrUI/mianju/cangjue1.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4125",
+              "image": "Image/UI/AttrUI/mianju/cangjue2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4126",
+              "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4127",
+              "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "anim": "cangjue4",
+              "animFolder": "cangjue",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4128",
+              "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "anim": "cangjue5",
+              "animFolder": "cangjue",
+              "effect": "",
+              "border": "10026"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "arts": [
+            {
+              "id": "4129",
+              "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "anim": "cangjue6",
+              "animFolder": "cangjue",
+              "effect": "",
+              "border": "10026"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "东宿之灵",
@@ -6918,6 +12184,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4130",
+              "image": "Image/UI/AttrUI/mianju/xiangyangdaoren.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4131",
+              "image": "Image/UI/AttrUI/mianju/xiangyangdaoren2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4132",
+              "image": "Image/UI/AttrUI/mianju/xiangyangdaoren2.png",
+              "anim": "xiangyangdaoren",
+              "animFolder": "xiangyangdaoren",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "逍遥度日",
@@ -6942,6 +12249,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "175",
+              "image": "Image/UI/AttrUI/mianju/tangyuanyuan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "星芒追月",
@@ -6966,6 +12288,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4133",
+              "image": "Image/UI/AttrUI/mianju/queling.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4134",
+              "image": "Image/UI/AttrUI/mianju/queling2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4135",
+              "image": "Image/UI/AttrUI/mianju/queling2.png",
+              "anim": "lingque",
+              "animFolder": "lingque",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "幻月织颜",
@@ -6990,6 +12353,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "176",
+              "image": "Image/UI/AttrUI/mianju/feijiang.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "马踏阴山",
@@ -7014,6 +12392,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4136",
+              "image": "Image/UI/AttrUI/mianju/yuanyuan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4137",
+              "image": "Image/UI/AttrUI/mianju/yuanyuan2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4138",
+              "image": "Image/UI/AttrUI/mianju/yuanyuan2.png",
+              "anim": "yuanyuan",
+              "animFolder": "yuanyuan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "月映婵娟",
@@ -7038,6 +12457,47 @@
       "canUpgrade": true,
       "canDeal": false,
       "cailiao": "0",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4139",
+              "image": "Image/UI/AttrUI/mianju/hengshukai.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4140",
+              "image": "Image/UI/AttrUI/mianju/hengshukai2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4141",
+              "image": "Image/UI/AttrUI/mianju/hengshukai2.png",
+              "anim": "jiguanhujia",
+              "animFolder": "jiguanhujia",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "巧破天机",
@@ -7074,6 +12534,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "177",
+              "image": "Image/UI/AttrUI/mianju/zhangshaoxia.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "侠骨丹心",
@@ -7110,6 +12585,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "178",
+              "image": "Image/UI/AttrUI/mianju/feizei.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "轻绡盗义",
@@ -7146,6 +12636,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "179",
+              "image": "Image/UI/AttrUI/mianju/lishixian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "谪仙人",
@@ -7182,6 +12687,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4142",
+              "image": "Image/UI/AttrUI/mianju/zhencan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4143",
+              "image": "Image/UI/AttrUI/mianju/zhencan2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4144",
+              "image": "Image/UI/AttrUI/mianju/zhencan2.png",
+              "anim": "zhensan",
+              "animFolder": "zhensan",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "禅锋砥柱",
@@ -7206,6 +12752,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "180",
+              "image": "Image/UI/AttrUI/mianju/wenlan.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "醉墨公",
@@ -7230,6 +12791,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "181",
+              "image": "Image/UI/AttrUI/mianju/aman.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "无拘尘外",
@@ -7254,6 +12830,86 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "80",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4145",
+              "image": "Image/UI/AttrUI/mianju/baishuo.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4146",
+              "image": "Image/UI/AttrUI/mianju/baishuo2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4147",
+              "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4148",
+              "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "anim": "baishuo1",
+              "animFolder": "baishuo",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4149",
+              "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "anim": "baishuo2",
+              "animFolder": "baishuo",
+              "effect": "",
+              "border": "10027"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "arts": [
+            {
+              "id": "4150",
+              "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "anim": "baishuo3",
+              "animFolder": "baishuo",
+              "effect": "",
+              "border": "10027"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "西疆煞星",
@@ -7278,6 +12934,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4151",
+              "image": "Image/UI/AttrUI/mianju/jihuaxian.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4152",
+              "image": "Image/UI/AttrUI/mianju/jihuaxian2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4153",
+              "image": "Image/UI/AttrUI/mianju/jihuaxian2.png",
+              "anim": "jihuaxian",
+              "animFolder": "jihuaxian",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "静澜妙影",
@@ -7302,6 +12999,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "182",
+              "image": "Image/UI/AttrUI/mianju/jinli.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "安乐人间",
@@ -7326,6 +13038,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4154",
+              "image": "Image/UI/AttrUI/mianju/luoyun.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4155",
+              "image": "Image/UI/AttrUI/mianju/luoyun2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4156",
+              "image": "Image/UI/AttrUI/mianju/luoyun2.png",
+              "anim": "luoyun",
+              "animFolder": "luoyun",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "楼起楼败",
@@ -7350,6 +13103,60 @@
       "canUpgrade": true,
       "canDeal": false,
       "cailiao": "0",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4157",
+              "image": "Image/UI/AttrUI/mianju/zhulanduoqing.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4158",
+              "image": "Image/UI/AttrUI/mianju/zhulanduoqing2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4159",
+              "image": "Image/UI/AttrUI/mianju/zhulanduoqing3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4160",
+              "image": "Image/UI/AttrUI/mianju/zhulanduoqing3.png",
+              "anim": "yuenvjianfa",
+              "animFolder": "yuenvjianfa",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "情海茫茫",
@@ -7374,6 +13181,21 @@
       "canUpgrade": false,
       "canDeal": true,
       "cailiao": "40",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "183",
+              "image": "Image/UI/AttrUI/mianju/suboran.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "焚天夺圣",
@@ -7398,6 +13220,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4161",
+              "image": "Image/UI/AttrUI/mianju/wentianji.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4162",
+              "image": "Image/UI/AttrUI/mianju/wentianji2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4163",
+              "image": "Image/UI/AttrUI/mianju/wentianji2.png",
+              "anim": "wentianji",
+              "animFolder": "wentianji",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "人欲胜天",
@@ -7422,6 +13285,86 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "80",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4164",
+              "image": "Image/UI/AttrUI/mianju/linghou.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4165",
+              "image": "Image/UI/AttrUI/mianju/linghou2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4166",
+              "image": "Image/UI/AttrUI/mianju/linghou3.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "arts": [
+            {
+              "id": "4167",
+              "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "arts": [
+            {
+              "id": "4168",
+              "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "anim": "linghou5",
+              "animFolder": "linghou",
+              "effect": "",
+              "border": "10032"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "arts": [
+            {
+              "id": "4169",
+              "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "anim": "linghou6",
+              "animFolder": "linghou",
+              "effect": "",
+              "border": "10032"
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "道尽天涯",
@@ -7446,6 +13389,47 @@
       "canUpgrade": true,
       "canDeal": true,
       "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4170",
+              "image": "Image/UI/AttrUI/mianju/mengpo.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4171",
+              "image": "Image/UI/AttrUI/mianju/mengpo2.png",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4172",
+              "image": "Image/UI/AttrUI/mianju/mengpo2.png",
+              "anim": "mengpo",
+              "animFolder": "mengpo",
+              "effect": "",
+              "border": ""
+            }
+          ]
+        }
+      ],
       "directAchievements": [
         {
           "name": "忘川一梦",

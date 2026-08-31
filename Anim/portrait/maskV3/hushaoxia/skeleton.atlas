@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dishuiqing/dishuiqing_guangxiao1
+  rotate: false
+  xy: 719, 160
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_guangxiao2
+  rotate: true
+  xy: 799, 100
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_1
+  rotate: false
+  xy: 799, 38
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_10
+  rotate: true
+  xy: 306, 61
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_11
+  rotate: false
+  xy: 715, 26
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_12
+  rotate: false
+  xy: 414, 91
+  size: 44, 16
+  orig: 47, 17
+  offset: 0, 1
+  index: -1
+hushaoxia/hushaoxia_13
+  rotate: false
+  xy: 414, 109
+  size: 93, 147
+  orig: 97, 147
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_14
+  rotate: true
+  xy: 327, 0
+  size: 83, 153
+  orig: 83, 158
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_15
+  rotate: false
+  xy: 0, 10
+  size: 243, 246
+  orig: 243, 246
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_16
+  rotate: false
+  xy: 624, 138
+  size: 93, 118
+  orig: 97, 147
+  offset: 4, 0
+  index: -1
+hushaoxia/hushaoxia_17
+  rotate: false
+  xy: 0, 3
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_2
+  rotate: false
+  xy: 847, 184
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_3
+  rotate: true
+  xy: 245, 10
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_4
+  rotate: false
+  xy: 245, 59
+  size: 59, 197
+  orig: 62, 198
+  offset: 3, 0
+  index: -1
+hushaoxia/hushaoxia_5
+  rotate: false
+  xy: 509, 115
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_6
+  rotate: false
+  xy: 306, 85
+  size: 106, 171
+  orig: 106, 171
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_7
+  rotate: false
+  xy: 592, 1
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_8
+  rotate: true
+  xy: 482, 0
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+hushaoxia/hushaoxia_9
+  rotate: true
+  xy: 779, 175
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1

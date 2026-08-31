@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiunv/xn-piaodai
+  rotate: true
+  xy: 584, 386
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+xiunv/xn-qianfa
+  rotate: false
+  xy: 464, 23
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+xiunv/xn-tanqizui
+  rotate: false
+  xy: 22, 3
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+xiunv/xn-tou
+  rotate: false
+  xy: 584, 275
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+xiunv/xn-youfabian
+  rotate: true
+  xy: 173, 1
+  size: 18, 71
+  orig: 18, 71
+  offset: 0, 0
+  index: -1
+xiunv/xn-youshou
+  rotate: true
+  xy: 0, 14
+  size: 240, 155
+  orig: 240, 155
+  offset: 0, 0
+  index: -1
+xiunv/xn-zhen
+  rotate: true
+  xy: 173, 21
+  size: 31, 95
+  orig: 31, 95
+  offset: 0, 0
+  index: -1
+xiunv/xn-zui
+  rotate: false
+  xy: 0, 0
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+xiunv/xn-zuofabian
+  rotate: true
+  xy: 270, 32
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+xiunv/xv-baitianhu
+  rotate: true
+  xy: 258, 256
+  size: 256, 173
+  orig: 256, 173
+  offset: 0, 0
+  index: -1
+xiunv/xv-baitiantaiyang
+  rotate: false
+  xy: 340, 19
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xiunv/xv-beijing
+  rotate: true
+  xy: 433, 256
+  size: 256, 149
+  orig: 256, 149
+  offset: 0, 0
+  index: -1
+xiunv/xv-yanqiu
+  rotate: true
+  xy: 157, 13
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+xiunv/xv-yewanbeijing
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xiunv/xv-yewanhu
+  rotate: false
+  xy: 322, 81
+  size: 256, 173
+  orig: 256, 173
+  offset: 0, 0
+  index: -1
+xiunv/xv-yewntaiyang
+  rotate: false
+  xy: 402, 19
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xiunv/xv-zhuti
+  rotate: true
+  xy: 157, 54
+  size: 200, 163
+  orig: 200, 163
+  offset: 0, 0
+  index: -1
+xiunv/xv-zuoshou
+  rotate: false
+  xy: 580, 92
+  size: 120, 162
+  orig: 120, 175
+  offset: 0, 0
+  index: -1

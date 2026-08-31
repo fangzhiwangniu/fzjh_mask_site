@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dwj-f1
+  rotate: true
+  xy: 388, 34
+  size: 41, 163
+  orig: 41, 163
+  offset: 0, 0
+  index: -1
+dwj-f2
+  rotate: false
+  xy: 553, 99
+  size: 40, 157
+  orig: 40, 157
+  offset: 0, 0
+  index: -1
+dwj-f3
+  rotate: false
+  xy: 595, 101
+  size: 83, 155
+  orig: 83, 155
+  offset: 0, 0
+  index: -1
+dwj-hf
+  rotate: false
+  xy: 388, 77
+  size: 163, 179
+  orig: 184, 179
+  offset: 21, 0
+  index: -1
+dwj-lbyy
+  rotate: true
+  xy: 661, 14
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+dwj-lian
+  rotate: true
+  xy: 553, 0
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+dwj-st
+  rotate: true
+  xy: 258, 30
+  size: 226, 128
+  orig: 226, 128
+  offset: 0, 0
+  index: -1
+dwj-zui
+  rotate: false
+  xy: 258, 11
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+图层 43
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

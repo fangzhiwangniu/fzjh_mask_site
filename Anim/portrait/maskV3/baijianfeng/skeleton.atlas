@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baijianfeng/beijing
+  rotate: false
+  xy: 631, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+baijianfeng/bjfjianguang
+  rotate: true
+  xy: 326, 16
+  size: 79, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+baijianfeng/bozi
+  rotate: false
+  xy: 889, 395
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+baijianfeng/jian
+  rotate: false
+  xy: 514, 198
+  size: 115, 310
+  orig: 128, 310
+  offset: 3, 0
+  index: -1
+baijianfeng/jianqiao
+  rotate: false
+  xy: 461, 207
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+baijianfeng/lian
+  rotate: true
+  xy: 231, 12
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+baijianfeng/qianfa
+  rotate: false
+  xy: 497, 26
+  size: 123, 170
+  orig: 123, 170
+  offset: 0, 0
+  index: -1
+baijianfeng/wu
+  rotate: false
+  xy: 0, 252
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+baijianfeng/wuguanxiangao
+  rotate: false
+  xy: 889, 329
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+baijianfeng/yanzhuzi
+  rotate: false
+  xy: 408, 74
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+baijianfeng/yifuhou
+  rotate: false
+  xy: 889, 274
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+baijianfeng/yifuzheng
+  rotate: true
+  xy: 0, 37
+  size: 213, 229
+  orig: 213, 229
+  offset: 0, 0
+  index: -1
+baijianfeng/youfa
+  rotate: false
+  xy: 461, 59
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+baijianfeng/youshou
+  rotate: false
+  xy: 408, 0
+  size: 70, 57
+  orig: 73, 57
+  offset: 1, 0
+  index: -1
+baijianfeng/youshoubi
+  rotate: true
+  xy: 631, 123
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+baijianfeng/zhufa
+  rotate: true
+  xy: 231, 97
+  size: 153, 228
+  orig: 153, 228
+  offset: 0, 0
+  index: -1
+baijianfeng/zhuoshoubi
+  rotate: true
+  xy: 761, 190
+  size: 60, 203
+  orig: 63, 203
+  offset: 0, 0
+  index: -1
+baijianfeng/zhuoshoubipiaodai
+  rotate: true
+  xy: 761, 133
+  size: 55, 175
+  orig: 63, 203
+  offset: 2, 22
+  index: -1
+baijianfeng/zuoshou1
+  rotate: true
+  xy: 0, 4
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+baijianfeng/zuoshou2
+  rotate: false
+  xy: 461, 141
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1

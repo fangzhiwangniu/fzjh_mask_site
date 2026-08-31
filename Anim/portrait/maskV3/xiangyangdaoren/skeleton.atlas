@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiangyangdaoren/xydr-bj
+  rotate: false
+  xy: 268, 168
+  size: 259, 225
+  orig: 259, 225
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-cf
+  rotate: true
+  xy: 268, 0
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-f1
+  rotate: true
+  xy: 665, 750
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-f2
+  rotate: true
+  xy: 750, 758
+  size: 25, 84
+  orig: 25, 84
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-hf
+  rotate: false
+  xy: 704, 116
+  size: 138, 108
+  orig: 138, 108
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-lg
+  rotate: true
+  xy: 529, 57
+  size: 167, 173
+  orig: 167, 173
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-lg2
+  rotate: true
+  xy: 584, 721
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-s1
+  rotate: false
+  xy: 521, 401
+  size: 156, 98
+  orig: 156, 98
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-s2
+  rotate: true
+  xy: 521, 688
+  size: 282, 61
+  orig: 282, 61
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-tou
+  rotate: true
+  xy: 0, 4
+  size: 130, 164
+  orig: 130, 164
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-tx
+  rotate: false
+  xy: 584, 785
+  size: 252, 185
+  orig: 252, 185
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-y1
+  rotate: true
+  xy: 0, 136
+  size: 257, 266
+  orig: 257, 266
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-y2
+  rotate: true
+  xy: 529, 226
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+xiangyangdaoren/xydr-y3
+  rotate: false
+  xy: 0, 395
+  size: 519, 575
+  orig: 590, 623
+  offset: 17, 7
+  index: -1
+xiangyangdaoren/xydr-zt1
+  rotate: false
+  xy: 521, 501
+  size: 262, 185
+  orig: 262, 185
+  offset: 0, 0
+  index: -1

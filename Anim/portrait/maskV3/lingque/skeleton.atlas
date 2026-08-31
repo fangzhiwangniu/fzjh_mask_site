@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingque/lqbeijing
+  rotate: false
+  xy: 0, 213
+  size: 283, 286
+  orig: 283, 286
+  offset: 0, 0
+  index: -1
+lingque/lqhoufa
+  rotate: false
+  xy: 454, 261
+  size: 121, 238
+  orig: 121, 238
+  offset: 0, 0
+  index: -1
+lingque/lqmeimao
+  rotate: false
+  xy: 259, 6
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+lingque/lqpd2
+  rotate: false
+  xy: 405, 54
+  size: 88, 167
+  orig: 88, 167
+  offset: 0, 0
+  index: -1
+lingque/lqsheng
+  rotate: true
+  xy: 285, 223
+  size: 276, 167
+  orig: 276, 167
+  offset: 0, 0
+  index: -1
+lingque/lqshenti
+  rotate: true
+  xy: 495, 101
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+lingque/lqshou
+  rotate: false
+  xy: 577, 265
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+lingque/lqtou
+  rotate: true
+  xy: 634, 171
+  size: 92, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+lingque/lqtoufa
+  rotate: true
+  xy: 259, 33
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+lingque/lqtoufamao
+  rotate: false
+  xy: 495, 0
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+lingque/lqtui
+  rotate: true
+  xy: 577, 352
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+lingque/lqyueliang
+  rotate: false
+  xy: 0, 3
+  size: 257, 208
+  orig: 259, 210
+  offset: 2, 2
+  index: -1
+lingque/lqyumao
+  rotate: false
+  xy: 574, 2
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1

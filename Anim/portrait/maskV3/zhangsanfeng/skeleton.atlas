@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangzhenren/zhangbagua
+  rotate: false
+  xy: 680, 98
+  size: 145, 158
+  orig: 256, 256
+  offset: 0, 76
+  index: -1
+zhangzhenren/zhanglvjing
+  rotate: false
+  xy: 0, 2
+  size: 242, 254
+  orig: 256, 256
+  offset: 14, 2
+  index: -1
+zhangzhenren/zhangshanbeijing
+  rotate: true
+  xy: 244, 3
+  size: 253, 155
+  orig: 256, 256
+  offset: 3, 91
+  index: -1
+zhangzhenren/zhangshenti
+  rotate: true
+  xy: 401, 8
+  size: 248, 165
+  orig: 256, 256
+  offset: 6, 0
+  index: -1
+zhangzhenren/zhangshou
+  rotate: true
+  xy: 827, 152
+  size: 104, 70
+  orig: 256, 256
+  offset: 110, 0
+  index: -1
+zhangzhenren/zhangtou
+  rotate: false
+  xy: 568, 33
+  size: 110, 223
+  orig: 256, 256
+  offset: 82, 32
+  index: -1
+zhangzhenren/zhangyoubingmao
+  rotate: false
+  xy: 899, 187
+  size: 60, 69
+  orig: 256, 256
+  offset: 126, 67
+  index: -1
+zhangzhenren/zhangyouhoutoufa
+  rotate: false
+  xy: 788, 20
+  size: 59, 76
+  orig: 256, 256
+  offset: 165, 85
+  index: -1
+zhangzhenren/zhangyouhuzi
+  rotate: true
+  xy: 568, 3
+  size: 28, 67
+  orig: 256, 256
+  offset: 146, 78
+  index: -1
+zhangzhenren/zhangyoumeimao
+  rotate: false
+  xy: 877, 109
+  size: 36, 41
+  orig: 256, 256
+  offset: 147, 139
+  index: -1
+zhangzhenren/zhangzuobingmao
+  rotate: false
+  xy: 680, 0
+  size: 40, 96
+  orig: 256, 256
+  offset: 81, 61
+  index: -1
+zhangzhenren/zhangzuohoutoufa
+  rotate: false
+  xy: 722, 5
+  size: 64, 91
+  orig: 256, 256
+  offset: 46, 81
+  index: -1
+zhangzhenren/zhangzuohuzi
+  rotate: false
+  xy: 849, 26
+  size: 39, 70
+  orig: 256, 256
+  offset: 112, 79
+  index: -1
+zhangzhenren/zhangzuomeimao
+  rotate: true
+  xy: 827, 98
+  size: 52, 48
+  orig: 256, 256
+  offset: 98, 137
+  index: -1

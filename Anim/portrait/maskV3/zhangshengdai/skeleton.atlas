@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangshengdai/beijing-1
+  rotate: false
+  xy: 145, 24
+  size: 256, 226
+  orig: 256, 256
+  offset: 0, 30
+  index: -1
+zhangshengdai/beijing-2
+  rotate: false
+  xy: 0, 23
+  size: 143, 227
+  orig: 143, 227
+  offset: 0, 0
+  index: -1
+zhangshengdai/beijing-3
+  rotate: false
+  xy: 418, 343
+  size: 72, 165
+  orig: 72, 165
+  offset: 0, 0
+  index: -1
+zhangshengdai/beijing-4
+  rotate: false
+  xy: 0, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+zhangshengdai/huzi
+  rotate: false
+  xy: 258, 252
+  size: 114, 28
+  orig: 114, 28
+  offset: 0, 0
+  index: -1
+zhangshengdai/shenti
+  rotate: true
+  xy: 403, 65
+  size: 215, 57
+  orig: 215, 60
+  offset: 0, 0
+  index: -1
+zhangshengdai/tou
+  rotate: false
+  xy: 258, 282
+  size: 158, 226
+  orig: 158, 226
+  offset: 0, 0
+  index: -1
+zhangshengdai/toukuimao
+  rotate: false
+  xy: 462, 193
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: -1
+zhangshengdai/yanqui
+  rotate: false
+  xy: 0, 0
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+zhangshengdai/youjianjia
+  rotate: false
+  xy: 462, 90
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+zhangshengdai/zsdbeijing5
+  rotate: true
+  xy: 403, 5
+  size: 58, 176
+  orig: 61, 176
+  offset: 0, 0
+  index: -1
+zhangshengdai/zuojianjia
+  rotate: false
+  xy: 547, 95
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1

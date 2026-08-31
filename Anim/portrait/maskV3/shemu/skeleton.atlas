@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shemu1/smj-bj
+  rotate: false
+  xy: 0, 222
+  size: 280, 290
+  orig: 280, 290
+  offset: 0, 0
+  index: -1
+shemu1/smj-hf
+  rotate: false
+  xy: 661, 10
+  size: 176, 107
+  orig: 176, 107
+  offset: 0, 0
+  index: -1
+shemu1/smj-qf
+  rotate: true
+  xy: 496, 7
+  size: 79, 139
+  orig: 79, 139
+  offset: 0, 0
+  index: -1
+shemu1/smj-qf2
+  rotate: true
+  xy: 0, 0
+  size: 58, 148
+  orig: 118, 148
+  offset: 60, 0
+  index: -1
+shemu1/smj-st
+  rotate: false
+  xy: 282, 237
+  size: 246, 275
+  orig: 246, 275
+  offset: 0, 0
+  index: -1
+shemu1/smj-t
+  rotate: true
+  xy: 530, 370
+  size: 142, 162
+  orig: 142, 162
+  offset: 0, 0
+  index: -1
+shemu1/smj-y1
+  rotate: false
+  xy: 530, 243
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+shemu1/smj-y2
+  rotate: true
+  xy: 621, 94
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+shemu1/smj-y3
+  rotate: true
+  xy: 150, 0
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+shemu1/smj-y4
+  rotate: false
+  xy: 563, 244
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+shemu1/smj-yj
+  rotate: false
+  xy: 285, 0
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+shemu2/smu-hf
+  rotate: false
+  xy: 477, 119
+  size: 215, 116
+  orig: 215, 116
+  offset: 0, 0
+  index: -1
+shemu2/smy-bj
+  rotate: true
+  xy: 694, 256
+  size: 256, 263
+  orig: 256, 263
+  offset: 0, 0
+  index: -1
+shemu2/smy-qf1
+  rotate: true
+  xy: 150, 15
+  size: 43, 133
+  orig: 43, 133
+  offset: 0, 0
+  index: -1
+shemu2/smy-qf2
+  rotate: true
+  xy: 388, 11
+  size: 67, 106
+  orig: 70, 106
+  offset: 0, 0
+  index: -1
+shemu2/smy-s1
+  rotate: false
+  xy: 530, 284
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+shemu2/smy-s2
+  rotate: true
+  xy: 285, 17
+  size: 41, 101
+  orig: 41, 101
+  offset: 0, 0
+  index: -1
+shemu2/smy-st
+  rotate: false
+  xy: 0, 60
+  size: 292, 160
+  orig: 292, 160
+  offset: 0, 0
+  index: -1
+shemu2/smy-tf
+  rotate: true
+  xy: 294, 80
+  size: 155, 181
+  orig: 155, 181
+  offset: 0, 0
+  index: -1
+shemu2/smy-yj
+  rotate: false
+  xy: 570, 98
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+shemu2/smy-yy
+  rotate: false
+  xy: 530, 88
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+shemu2/smy-zy
+  rotate: false
+  xy: 477, 88
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1

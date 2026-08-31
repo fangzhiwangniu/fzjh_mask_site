@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanshi/qs-beijing1
+  rotate: false
+  xy: 0, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+quanshi/qs-beijing2
+  rotate: false
+  xy: 0, 0
+  size: 256, 61
+  orig: 256, 61
+  offset: 0, 0
+  index: -1
+quanshi/qs-beijing3
+  rotate: false
+  xy: 258, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+quanshi/qs-jianying
+  rotate: true
+  xy: 868, 91
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+quanshi/qs-jianying2
+  rotate: true
+  xy: 944, 91
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+quanshi/qs-jianying3
+  rotate: true
+  xy: 273, 12
+  size: 65, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+quanshi/qs-piaodai
+  rotate: true
+  xy: 899, 320
+  size: 178, 51
+  orig: 178, 51
+  offset: 0, 0
+  index: -1
+quanshi/qs-shenti
+  rotate: false
+  xy: 0, 63
+  size: 271, 177
+  orig: 271, 177
+  offset: 0, 0
+  index: -1
+quanshi/qs-shenti2
+  rotate: false
+  xy: 702, 339
+  size: 195, 159
+  orig: 196, 165
+  offset: 0, 3
+  index: -1
+quanshi/qs-shenti3
+  rotate: false
+  xy: 273, 79
+  size: 196, 161
+  orig: 196, 165
+  offset: 0, 2
+  index: -1
+quanshi/qs-shuye1
+  rotate: true
+  xy: 516, 159
+  size: 161, 180
+  orig: 161, 180
+  offset: 0, 0
+  index: -1
+quanshi/qs-shuye2
+  rotate: true
+  xy: 383, 21
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+quanshi/qs-shuye3
+  rotate: false
+  xy: 430, 49
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+quanshi/qs-shuye4
+  rotate: false
+  xy: 383, 38
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+quanshi/qs-shuye5
+  rotate: false
+  xy: 471, 174
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+quanshi/qs-shuye6
+  rotate: false
+  xy: 349, 15
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+quanshi/qs-tou
+  rotate: true
+  xy: 702, 187
+  size: 150, 174
+  orig: 153, 176
+  offset: 3, 0
+  index: -1
+quanshi/qs-yanjing
+  rotate: false
+  xy: 952, 340
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+quanshi/qs-yanjing2
+  rotate: true
+  xy: 1006, 369
+  size: 63, 18
+  orig: 70, 20
+  offset: 4, 1
+  index: -1
+quanshi/qs-yanjing3
+  rotate: false
+  xy: 952, 321
+  size: 64, 17
+  orig: 70, 20
+  offset: 4, 2
+  index: -1
+quanshi/qs-yanjing4
+  rotate: true
+  xy: 1006, 434
+  size: 64, 18
+  orig: 70, 20
+  offset: 4, 1
+  index: -1
+quanshi/qs-youquan
+  rotate: true
+  xy: 878, 159
+  size: 159, 136
+  orig: 159, 136
+  offset: 0, 0
+  index: -1
+quanshi/qs-yueliang
+  rotate: false
+  xy: 516, 322
+  size: 184, 176
+  orig: 184, 176
+  offset: 0, 0
+  index: -1
+quanshi/qs-zuoquan
+  rotate: false
+  xy: 471, 30
+  size: 175, 127
+  orig: 179, 132
+  offset: 0, 5
+  index: -1
+quanshi/yanwucengtu_1
+  rotate: true
+  xy: 952, 360
+  size: 138, 52
+  orig: 138, 72
+  offset: 0, 0
+  index: -1
+quanshi/yanwucengtu_2
+  rotate: true
+  xy: 648, 40
+  size: 117, 51
+  orig: 138, 72
+  offset: 11, 3
+  index: -1
+quanshi/yanwucengtu_3
+  rotate: false
+  xy: 701, 131
+  size: 109, 54
+  orig: 138, 72
+  offset: 15, 3
+  index: -1
+quanshi/yanwucengtu_4
+  rotate: false
+  xy: 701, 75
+  size: 97, 54
+  orig: 138, 72
+  offset: 28, 7
+  index: -1
+quanshi/yanwucengtu_5
+  rotate: false
+  xy: 701, 20
+  size: 93, 53
+  orig: 138, 72
+  offset: 32, 8
+  index: -1
+quanshi/yanwucengtu_6
+  rotate: true
+  xy: 812, 97
+  size: 88, 54
+  orig: 138, 72
+  offset: 42, 17
+  index: -1

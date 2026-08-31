@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuruyan/lry_beijing
+  rotate: true
+  xy: 0, 0
+  size: 256, 149
+  orig: 256, 149
+  offset: 0, 0
+  index: -1
+liuruyan/lry_cefayou
+  rotate: true
+  xy: 263, 4
+  size: 22, 81
+  orig: 22, 81
+  offset: 0, 0
+  index: -1
+liuruyan/lry_cefazuo
+  rotate: true
+  xy: 650, 25
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+liuruyan/lry_houfa
+  rotate: false
+  xy: 635, 88
+  size: 81, 168
+  orig: 81, 168
+  offset: 0, 0
+  index: -1
+liuruyan/lry_huaban
+  rotate: true
+  xy: 151, 0
+  size: 256, 110
+  orig: 256, 110
+  offset: 0, 0
+  index: -1
+liuruyan/lry_lianhong
+  rotate: true
+  xy: 569, 10
+  size: 68, 36
+  orig: 84, 56
+  offset: 6, 10
+  index: -1
+liuruyan/lry_qianfa1
+  rotate: false
+  xy: 758, 15
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+liuruyan/lry_qianfa2
+  rotate: false
+  xy: 569, 80
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+liuruyan/lry_shenti
+  rotate: true
+  xy: 263, 28
+  size: 228, 155
+  orig: 231, 155
+  offset: 3, 0
+  index: -1
+liuruyan/lry_shou
+  rotate: true
+  xy: 420, 37
+  size: 219, 147
+  orig: 219, 147
+  offset: 0, 0
+  index: -1
+liuruyan/lry_tou
+  rotate: false
+  xy: 769, 122
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+liuruyan/lry_toushi
+  rotate: false
+  xy: 718, 111
+  size: 49, 145
+  orig: 49, 157
+  offset: 0, 12
+  index: -1
+liuruyan/lry_yanzhu
+  rotate: true
+  xy: 607, 16
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1

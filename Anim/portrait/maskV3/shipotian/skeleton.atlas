@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dishuiqing/dishuiqing_guangxiao1
+  rotate: false
+  xy: 509, 67
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+dishuiqing/dishuiqing_guangxiao2
+  rotate: true
+  xy: 553, 240
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_beijing1
+  rotate: false
+  xy: 0, 15
+  size: 230, 247
+  orig: 256, 256
+  offset: 9, 4
+  index: -1
+shipotian/shipotian_beijing2
+  rotate: false
+  xy: 232, 29
+  size: 208, 233
+  orig: 208, 233
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_beijing3
+  rotate: false
+  xy: 0, 264
+  size: 239, 247
+  orig: 256, 256
+  offset: 9, 4
+  index: -1
+shipotian/shipotian_fa1
+  rotate: true
+  xy: 232, 0
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa10
+  rotate: false
+  xy: 625, 244
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa11
+  rotate: false
+  xy: 553, 203
+  size: 91, 35
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa2
+  rotate: true
+  xy: 646, 203
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa3
+  rotate: true
+  xy: 565, 13
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa4
+  rotate: false
+  xy: 442, 61
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa5
+  rotate: false
+  xy: 381, 364
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa6
+  rotate: false
+  xy: 442, 165
+  size: 109, 125
+  orig: 109, 133
+  offset: 0, 8
+  index: -1
+shipotian/shipotian_fa7
+  rotate: true
+  xy: 664, 271
+  size: 52, 33
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa8
+  rotate: true
+  xy: 553, 171
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_fa9
+  rotate: true
+  xy: 456, 315
+  size: 47, 151
+  orig: 47, 151
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_jian1
+  rotate: false
+  xy: 609, 325
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_jian2
+  rotate: true
+  xy: 344, 292
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_shenti
+  rotate: false
+  xy: 241, 359
+  size: 138, 152
+  orig: 141, 152
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_shoubi
+  rotate: false
+  xy: 518, 395
+  size: 97, 116
+  orig: 97, 116
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_shouzhang
+  rotate: false
+  xy: 442, 7
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_tou
+  rotate: true
+  xy: 241, 280
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+shipotian/shipotian_yanzhu
+  rotate: true
+  xy: 0, 0
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

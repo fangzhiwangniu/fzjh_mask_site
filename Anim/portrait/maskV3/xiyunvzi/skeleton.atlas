@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiyunvzi/xy-beijing
+  rotate: false
+  xy: 0, 240
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-cl
+  rotate: true
+  xy: 258, 240
+  size: 256, 163
+  orig: 256, 163
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-sha
+  rotate: true
+  xy: 312, 73
+  size: 165, 72
+  orig: 165, 72
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-sha2
+  rotate: true
+  xy: 0, 5
+  size: 233, 127
+  orig: 233, 127
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-shou1
+  rotate: true
+  xy: 476, 94
+  size: 145, 114
+  orig: 145, 114
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-shou2
+  rotate: false
+  xy: 386, 90
+  size: 88, 148
+  orig: 88, 148
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-sz
+  rotate: true
+  xy: 423, 241
+  size: 255, 115
+  orig: 255, 115
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-tou
+  rotate: false
+  xy: 129, 27
+  size: 181, 211
+  orig: 181, 211
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yan
+  rotate: true
+  xy: 405, 0
+  size: 88, 61
+  orig: 88, 61
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yan2
+  rotate: false
+  xy: 321, 3
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yj1
+  rotate: false
+  xy: 129, 1
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yj2
+  rotate: false
+  xy: 193, 1
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yj3
+  rotate: false
+  xy: 257, 1
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+xiyunvzi/xy-yj4
+  rotate: true
+  xy: 379, 9
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1

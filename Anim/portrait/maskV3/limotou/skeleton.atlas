@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+limotou/hr_beijing
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+limotou/hr_houfa
+  rotate: true
+  xy: 258, 15
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+limotou/hr_piaofa
+  rotate: true
+  xy: 313, 42
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+limotou/hr_qianfa
+  rotate: false
+  xy: 595, 46
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+limotou/hr_shenti
+  rotate: true
+  xy: 399, 58
+  size: 198, 113
+  orig: 201, 114
+  offset: 3, 0
+  index: -1
+limotou/hr_shou
+  rotate: false
+  xy: 514, 78
+  size: 79, 178
+  orig: 79, 181
+  offset: 0, 0
+  index: -1
+limotou/hr_tou
+  rotate: true
+  xy: 258, 72
+  size: 184, 139
+  orig: 185, 139
+  offset: 1, 0
+  index: -1
+limotou/hr_toufa1
+  rotate: false
+  xy: 595, 135
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+limotou/hr_yanjing1
+  rotate: true
+  xy: 313, 5
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+limotou/hr_yanjing2
+  rotate: true
+  xy: 336, 5
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+limotou/hr_yanjing3
+  rotate: true
+  xy: 358, 5
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+limotou/hr_yanjing4
+  rotate: true
+  xy: 378, 5
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1

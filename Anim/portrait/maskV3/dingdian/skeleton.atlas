@@ -1,0 +1,202 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingdian/dingdianafa02
+  rotate: false
+  xy: 406, 10
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa03
+  rotate: false
+  xy: 318, 76
+  size: 33, 180
+  orig: 33, 180
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa04
+  rotate: false
+  xy: 353, 76
+  size: 30, 180
+  orig: 30, 180
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa05
+  rotate: false
+  xy: 374, 1
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa06
+  rotate: false
+  xy: 511, 16
+  size: 15, 58
+  orig: 16, 58
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa07
+  rotate: false
+  xy: 385, 106
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa08
+  rotate: false
+  xy: 271, 72
+  size: 45, 184
+  orig: 45, 184
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa09
+  rotate: true
+  xy: 385, 76
+  size: 28, 147
+  orig: 28, 147
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa10
+  rotate: false
+  xy: 430, 110
+  size: 62, 146
+  orig: 63, 146
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa11
+  rotate: false
+  xy: 0, 4
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa12
+  rotate: true
+  xy: 0, 14
+  size: 242, 108
+  orig: 242, 129
+  offset: 0, 0
+  index: -1
+dingdian/dingdianafa13
+  rotate: true
+  xy: 110, 24
+  size: 232, 159
+  orig: 232, 159
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_1
+  rotate: false
+  xy: 190, 1
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_2
+  rotate: false
+  xy: 494, 212
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_3
+  rotate: true
+  xy: 110, 1
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_4
+  rotate: true
+  xy: 274, 0
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_5
+  rotate: false
+  xy: 271, 25
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_6
+  rotate: true
+  xy: 234, 5
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_7
+  rotate: false
+  xy: 494, 122
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie1_8
+  rotate: false
+  xy: 347, 26
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_1
+  rotate: false
+  xy: 212, 1
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_2
+  rotate: false
+  xy: 494, 166
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_3
+  rotate: true
+  xy: 150, 1
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_4
+  rotate: true
+  xy: 320, 0
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_5
+  rotate: false
+  xy: 309, 25
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_6
+  rotate: true
+  xy: 528, 7
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_7
+  rotate: false
+  xy: 529, 122
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+dingdian/dingdianatie2_8
+  rotate: false
+  xy: 528, 26
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ximenchuixue/xmcxbeijing
+  rotate: true
+  xy: 0, 248
+  size: 256, 244
+  orig: 256, 256
+  offset: 0, 12
+  index: -1
+ximenchuixue/xmcxdaoguangerduan
+  rotate: true
+  xy: 544, 304
+  size: 85, 75
+  orig: 256, 256
+  offset: 149, 4
+  index: -1
+ximenchuixue/xmcxdaoguangsanduan
+  rotate: true
+  xy: 451, 287
+  size: 102, 91
+  orig: 256, 256
+  offset: 64, 17
+  index: -1
+ximenchuixue/xmcxdaoguangsiduanduan
+  rotate: false
+  xy: 483, 192
+  size: 79, 93
+  orig: 256, 256
+  offset: 7, 29
+  index: -1
+ximenchuixue/xmcxdaoguangyiduan
+  rotate: true
+  xy: 347, 276
+  size: 36, 67
+  orig: 256, 256
+  offset: 220, 1
+  index: -1
+ximenchuixue/xmcxhoutoufa
+  rotate: false
+  xy: 347, 314
+  size: 102, 190
+  orig: 256, 256
+  offset: 0, 2
+  index: -1
+ximenchuixue/xmcxqiantoufa
+  rotate: false
+  xy: 402, 89
+  size: 79, 185
+  orig: 256, 256
+  offset: 26, 0
+  index: -1
+ximenchuixue/xmcxshenti
+  rotate: true
+  xy: 237, 5
+  size: 241, 163
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+ximenchuixue/xmcxtou
+  rotate: true
+  xy: 451, 391
+  size: 113, 101
+  orig: 256, 256
+  offset: 8, 102
+  index: -1
+ximenchuixue/xmcxtoufa
+  rotate: true
+  xy: 0, 0
+  size: 246, 235
+  orig: 246, 235
+  offset: 0, 0
+  index: -1
+ximenchuixue/xmcxwuqu
+  rotate: true
+  xy: 246, 248
+  size: 256, 99
+  orig: 256, 256
+  offset: 0, 15
+  index: -1
+ximenchuixue/xmcxxiaoqianfa
+  rotate: true
+  xy: 402, 9
+  size: 78, 155
+  orig: 78, 155
+  offset: 0, 0
+  index: -1

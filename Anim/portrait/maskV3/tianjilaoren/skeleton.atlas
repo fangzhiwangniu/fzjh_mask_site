@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianjilaoren/tjlr-beijng
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-fy
+  rotate: true
+  xy: 499, 123
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-houfa
+  rotate: true
+  xy: 583, 88
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-huzi
+  rotate: true
+  xy: 258, 0
+  size: 63, 120
+  orig: 63, 120
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-lingpai
+  rotate: false
+  xy: 628, 169
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-shenti
+  rotate: true
+  xy: 258, 65
+  size: 191, 149
+  orig: 193, 149
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-shizhi
+  rotate: false
+  xy: 380, 12
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-shou
+  rotate: false
+  xy: 581, 5
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-tou
+  rotate: false
+  xy: 409, 103
+  size: 88, 153
+  orig: 88, 153
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-wumingzhi
+  rotate: false
+  xy: 535, 82
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-xiaomuzhi
+  rotate: false
+  xy: 558, 87
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-yanqiu
+  rotate: false
+  xy: 380, 0
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-youmeimao
+  rotate: false
+  xy: 658, 92
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-youpiaofa
+  rotate: true
+  xy: 505, 21
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-zhongzhi
+  rotate: false
+  xy: 408, 12
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-zuopiaofa
+  rotate: true
+  xy: 409, 67
+  size: 34, 124
+  orig: 34, 124
+  offset: 0, 0
+  index: -1
+tianjilaoren/tjlr-zuoweimao
+  rotate: true
+  xy: 427, 18
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
