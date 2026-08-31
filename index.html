@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>面具图鉴</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f17;
+      --panel: #151b26;
+      --panel-2: #1b2330;
+      --text: #e6e9ef;
+      --muted: #9aa4b2;
+      --accent: #7c9eff;
+      --accent-2: #79e0c1;
+      --border: #2a3240;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    header {
+      padding: 40px 24px 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 44px); }
+    p.lead { margin: 0 0 28px; color: var(--muted); }
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto auto;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+    input, select {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      font-size: 15px;
+    }
+    input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 30px;
+    }
+    .stat {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+    }
+    .stat b { display: block; font-size: 26px; color: var(--accent); }
+    .stat span { color: var(--muted); font-size: 13px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+    }
+    .mask-card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      transition: transform .15s ease, border-color .15s ease;
+    }
+    .mask-card:hover { transform: translateY(-3px); border-color: var(--accent); }
+    .image-wrap {
+      aspect-ratio: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #e8d5b3;
+      position: relative;
+      overflow: hidden;
+    }
+    .image-wrap img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: cover;
+    }
+    .image-fallback {
+      font-size: 48px;
+      opacity: .55;
+    }
+    .image-wrap.missing { background: repeating-linear-gradient(45deg,#202a38,#202a38 12px,#243040 12px,#243040 24px); }
+    .image-path {
+      position: absolute;
+      bottom: 8px;
+      left: 8px;
+      right: 8px;
+      font-size: 11px;
+      color: #8fa0b6;
+      background: rgba(0,0,0,.55);
+      padding: 4px 6px;
+      border-radius: 6px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    .card-body { padding: 14px; }
+    .mask-name { font-size: 18px; font-weight: 700; margin: 0 0 4px; }
+    .mask-id { color: var(--muted); font-size: 12px; margin-bottom: 10px; }
+    .point {
+      display: inline-block;
+      background: rgba(121,224,193,.12);
+      color: var(--accent-2);
+      border-radius: 999px;
+      padding: 3px 10px;
+      font-size: 13px;
+      margin-bottom: 10px;
+    }
+    .achievement-name { font-size: 14px; margin: 0 0 10px; }
+    .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+    .tag {
+      background: var(--panel-2);
+      color: var(--muted);
+      border-radius: 6px;
+      padding: 2px 7px;
+      font-size: 12px;
+    }
+    details {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    summary { cursor: pointer; }
+    .empty { color: var(--muted); text-align: center; padding: 40px; }
+    @media (max-width: 700px) {
+      .controls { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>面具图鉴</h1>
+    <p class="lead">按面具 ID、名称、成就名或图片路径搜索。</p>
+    <div class="controls">
+      <input id="search" placeholder="搜索名称 / ID / 成就 / 图片路径">
+      <select id="type-filter">
+        <option value="">全部类型</option>
+        <option value="1">戏曲面具</option>
+        <option value="2">时间/百花焕颜</option>
+      </select>
+      <select id="sort">
+        <option value="id">按 ID</option>
+        <option value="point">按成就点数</option>
+        <option value="level">按等级数</option>
+      </select>
+    </div>
+    <div id="stats" class="stats"></div>
+  </header>
+  <main id="grid" class="grid"></main>
+  <script>
+    window.imageFallback = element => {
+      element.closest(".image-wrap").classList.add("missing");
+      element.outerHTML = '<div class="image-fallback">🎭</div>';
+    };
+    const state = { masks: [], query: "", type: "", sort: "id" };
+    const grid = document.getElementById("grid");
+    const statsEl = document.getElementById("stats");
+
+    function pointOf(mask) {
+      return mask.directAchievements.reduce((sum, item) => sum + item.point, 0);
+    }
+
+    function tag(text) {
+      return `<span class="tag">${text}</span>`;
+    }
+
+    function achievementList(mask) {
+      const direct = mask.directAchievements.map(item => `${item.name} · ${item.point}`).join("、");
+      const combo = mask.combinedAchievements.map(item => `${item.name} · ${item.point}`).join("、");
+      return direct + (combo ? `<br><small>组合成就：${combo}</small>` : "");
+    }
+
+    function maskCard(mask) {
+      const imageHtml = mask.image
+        ? `<img src="./${mask.image}" alt="${mask.name}" onerror="imageFallback(this)">`
+        : `<div class="image-fallback">🎭</div>`;
+      const tags = [
+        tag(mask.maskType === "1" ? "戏曲面具" : "时间/百花焕颜"),
+        tag(`等级 ${mask.levelCount}`),
+        tag(mask.canUpgrade ? "可升级" : "不可升级")
+      ].join("");
+      return `
+        <article class="mask-card">
+          <div class="image-wrap">
+            ${imageHtml}
+            <div class="image-path">${mask.image || "无图片路径"}</div>
+          </div>
+          <div class="card-body">
+            <h2 class="mask-name">${mask.name}</h2>
+            <div class="mask-id">${mask.maskId}</div>
+            <div class="point">成就点数 ${pointOf(mask)}</div>
+            <div class="achievement-name">${achievementList(mask)}</div>
+            <div class="tags">${tags}</div>
+            <details><summary>描述</summary>${mask.desc || "暂无描述"}</details>
+          </div>
+        </article>`;
+    }
+
+    function render() {
+      const query = state.query.toLowerCase();
+      let masks = state.masks.filter(mask => {
+        const text = [
+          mask.name, mask.maskId, mask.image, mask.desc,
+          ...mask.directAchievements.map(item => item.name),
+          ...mask.combinedAchievements.map(item => item.name)
+        ].join(" ").toLowerCase();
+        return text.includes(query) && (!state.type || mask.maskType === state.type);
+      });
+      if (state.sort === "point") masks = masks.sort((a, b) => pointOf(b) - pointOf(a));
+      if (state.sort === "level") masks = masks.sort((a, b) => b.levelCount - a.levelCount);
+      if (state.sort === "id") masks = masks.sort((a, b) => Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
+      grid.innerHTML = masks.map(maskCard).join("") || `<div class="empty">没有匹配的面具</div>`;
+    }
+
+    fetch("./mask_data.json")
+      .then(response => response.json())
+      .then(data => {
+        state.masks = data.masks;
+        const stats = data.stats;
+        statsEl.innerHTML = `
+          <div class="stat"><b>${stats.masks}</b><span>面具数</span></div>
+          <div class="stat"><b>${stats.achievements}</b><span>面具成就</span></div>
+          <div class="stat"><b>${stats.withImage}</b><span>有图片路径</span></div>
+          <div class="stat"><b>${stats.upgradable}</b><span>可升级</span></div>`;
+        render();
+      });
+
+    document.getElementById("search").addEventListener("input", event => {
+      state.query = event.target.value;
+      render();
+    });
+    document.getElementById("type-filter").addEventListener("change", event => {
+      state.type = event.target.value;
+      render();
+    });
+    document.getElementById("sort").addEventListener("change", event => {
+      state.sort = event.target.value;
+      render();
+    });
+  </script>
+</body>
+</html>
