@@ -159,6 +159,7 @@
         <option value="id">按 ID</option>
         <option value="point">按成就点数</option>
         <option value="level">按等级数</option>
+        <option value="cailiao">按分解材料</option>
       </select>
     </div>
     <div id="stats" class="stats"></div>
@@ -191,10 +192,12 @@
       const imageHtml = mask.image
         ? `<img src="./${mask.image}" alt="${mask.name}" onerror="imageFallback(this)">`
         : `<div class="image-fallback">🎭</div>`;
+      const dealText = mask.canDeal ? `分解 ${mask.cailiao} 材料` : "不可分解";
       const tags = [
         tag(mask.maskType === "1" ? "戏曲面具" : "时间/百花焕颜"),
         tag(`等级 ${mask.levelCount}`),
-        tag(mask.canUpgrade ? "可升级" : "不可升级")
+        tag(mask.canUpgrade ? "可升级" : "不可升级"),
+        tag(dealText)
       ].join("");
       return `
         <article class="mask-card">
@@ -225,6 +228,7 @@
       });
       if (state.sort === "point") masks = masks.sort((a, b) => pointOf(b) - pointOf(a));
       if (state.sort === "level") masks = masks.sort((a, b) => b.levelCount - a.levelCount);
+      if (state.sort === "cailiao") masks = masks.sort((a, b) => Number(b.cailiao || 0) - Number(a.cailiao || 0) || Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
       if (state.sort === "id") masks = masks.sort((a, b) => Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
       grid.innerHTML = masks.map(maskCard).join("") || `<div class="empty">没有匹配的面具</div>`;
     }
@@ -238,7 +242,7 @@
           <div class="stat"><b>${stats.masks}</b><span>面具数</span></div>
           <div class="stat"><b>${stats.achievements}</b><span>面具成就</span></div>
           <div class="stat"><b>${stats.withImage}</b><span>有图片路径</span></div>
-          <div class="stat"><b>${stats.upgradable}</b><span>可升级</span></div>`;
+          <div class="stat"><b>${state.masks.filter(mask => mask.canDeal).length}</b><span>可分解</span></div>`;
         render();
       });
 
