@@ -49,7 +49,7 @@
     input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
     .stats {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(3, 1fr);
       gap: 12px;
       margin-bottom: 30px;
     }
@@ -96,20 +96,6 @@
       opacity: .55;
     }
     .image-wrap.missing { background: repeating-linear-gradient(45deg,#202a38,#202a38 12px,#243040 12px,#243040 24px); }
-    .image-path {
-      position: absolute;
-      bottom: 8px;
-      left: 8px;
-      right: 8px;
-      font-size: 11px;
-      color: #8fa0b6;
-      background: rgba(0,0,0,.55);
-      padding: 4px 6px;
-      border-radius: 6px;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      overflow: hidden;
-    }
     .card-body { padding: 14px; }
     .mask-name { font-size: 18px; font-weight: 700; margin: 0 0 4px; }
     .mask-id { color: var(--muted); font-size: 12px; margin-bottom: 10px; }
@@ -147,9 +133,9 @@
 <body>
   <header>
     <h1>面具图鉴</h1>
-    <p class="lead">按面具 ID、名称、成就名或图片路径搜索。</p>
+    <p class="lead">按面具 ID、名称或成就搜索。</p>
     <div class="controls">
-      <input id="search" placeholder="搜索名称 / ID / 成就 / 图片路径">
+      <input id="search" placeholder="搜索名称 / ID / 成就">
       <select id="type-filter">
         <option value="">全部类型</option>
         <option value="1">戏曲面具</option>
@@ -203,7 +189,6 @@
         <article class="mask-card">
           <div class="image-wrap">
             ${imageHtml}
-            <div class="image-path">${mask.image || "无图片路径"}</div>
           </div>
           <div class="card-body">
             <h2 class="mask-name">${mask.name}</h2>
@@ -220,7 +205,7 @@
       const query = state.query.toLowerCase();
       let masks = state.masks.filter(mask => {
         const text = [
-          mask.name, mask.maskId, mask.image, mask.desc,
+          mask.name, mask.maskId, mask.desc,
           ...mask.directAchievements.map(item => item.name),
           ...mask.combinedAchievements.map(item => item.name)
         ].join(" ").toLowerCase();
@@ -241,7 +226,6 @@
         statsEl.innerHTML = `
           <div class="stat"><b>${stats.masks}</b><span>面具数</span></div>
           <div class="stat"><b>${stats.achievements}</b><span>面具成就</span></div>
-          <div class="stat"><b>${stats.withImage}</b><span>有图片路径</span></div>
           <div class="stat"><b>${state.masks.filter(mask => mask.canDeal).length}</b><span>可分解</span></div>`;
         render();
       });
