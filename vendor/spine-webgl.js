@@ -4802,7 +4802,7 @@ var spine;
 			this.buffer = buffer;
 		}
 		BinaryInput.prototype.readByte = function () {
-			return this.buffer.getInt8(this.index++);
+			return this.buffer.getUint8(this.index++);
 		};
 		BinaryInput.prototype.readShort = function () {
 			var value = this.buffer.getInt16(this.index);
