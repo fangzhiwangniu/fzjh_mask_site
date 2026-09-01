@@ -86,7 +86,7 @@
       position: relative;
       overflow: hidden;
     }
-    .image-wrap img {
+    .image-wrap .mask-image {
       max-width: 100%;
       max-height: 100%;
       object-fit: cover;
@@ -105,8 +105,18 @@
       background-size: cover;
       background-position: center;
     }
-    .image-wrap.dynamic-active img { opacity: 0; }
-    .image-wrap.dynamic-active.canvas-failed img { opacity: 1; }
+    .image-wrap.dynamic-active .mask-image { opacity: 0; }
+    .image-wrap.dynamic-active.canvas-failed .mask-image { opacity: 1; }
+    .border-overlay {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: fill;
+      pointer-events: none;
+      z-index: 2;
+      filter: drop-shadow(0 0 8px rgba(0, 0, 0, .35));
+    }
     .selectors { display: flex; flex-direction: column; gap: 6px; margin: 0 0 10px; }
     .chip-row { display: flex; gap: 5px; flex-wrap: wrap; }
     .chip {
@@ -233,6 +243,7 @@
       element.closest(".image-wrap").classList.add("missing");
       element.outerHTML = '<div class="image-fallback">🎭</div>';
     };
+    window.borderFallback = element => element.remove();
     const DEFAULT_PAGE_SIZE = 24;
     const state = {
       masks: [], query: "", type: "", sort: "id", selections: {},
@@ -297,8 +308,11 @@
       ].filter(Boolean).join(" ");
       const wrapStyle = useImageBackdrop && image ? ` style="--mask-bg:url('./${image}')"` : "";
       const imageHtml = image
-        ? `<img src="./${image}" alt="${mask.name}" loading="lazy" decoding="async" onerror="imageFallback(this)">`
+        ? `<img class="mask-image" src="./${image}" alt="${mask.name}" loading="lazy" decoding="async" onerror="imageFallback(this)">`
         : `<div class="image-fallback">🎭</div>`;
+      const borderHtml = art?.borderImage
+        ? `<img class="border-overlay" src="./${art.borderImage}" alt="${mask.name} 边框" decoding="async" onerror="borderFallback(this)">`
+        : "";
       const levelChips = chipRow(
         mask.levels.map(item => ({ value: item.level, label: `Lv.${item.level}` })),
         level?.level, "level", mask.maskId
@@ -324,6 +338,7 @@
           <div class="${wrapClass}"${wrapStyle}>
             ${imageHtml}
             ${dynamicCanvas}
+            ${borderHtml}
           </div>
           <div class="card-body">
             <h2 class="mask-name">${mask.name}</h2>
@@ -332,7 +347,7 @@
             <div class="achievement-name">${achievementList(mask)}</div>
             ${selectors}
             <div class="tags">${tags}</div>
-            <details><summary>描述</summary>${mask.desc || "暂无描述"}</details>
+            <details><summary>描述</summary>${art?.desc ?? mask.desc ?? "暂无描述"}</details>
           </div>
         </article>`;
     }
@@ -342,6 +357,7 @@
       let masks = state.masks.filter(mask => {
         const text = [
           mask.name, mask.maskId, mask.desc,
+          ...mask.levels.flatMap(level => level.arts.map(art => art.desc)),
           ...mask.directAchievements.map(item => item.name),
           ...mask.combinedAchievements.map(item => item.name)
         ].join(" ").toLowerCase();

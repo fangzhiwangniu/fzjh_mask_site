@@ -10,7 +10,9 @@
     "withoutImage": 0,
     "withoutDirectAchievement": 18,
     "upgradable": 48,
-    "dynamic": 102
+    "dynamic": 102,
+    "levelDescChanges": 42,
+    "levelBorderChanges": 9
   },
   "masks": [
     {
@@ -31,10 +33,12 @@
             {
               "id": "1",
               "image": "Image/UI/AttrUI/nv/change.png",
+              "desc": "PNK眉若轻烟，杏眸流光，风华绝尘，好似那广寒仙子，只是眉目神情似有重重心事一般",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -102,10 +106,12 @@
             {
               "id": "2",
               "image": "Image/UI/AttrUI/nan/wugang.png",
+              "desc": "PNK长发飘然，眉目紧锁，似思似寐，孤冷不羁，深藏着功与名",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -153,10 +159,12 @@
             {
               "id": "3",
               "image": "Image/UI/AttrUI/nv/tonglao.png",
+              "desc": "PNK是个八、九岁天真女童的模样，但是言谈举止却赫赫威严，让人想亲近却又不敢靠近",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -204,10 +212,12 @@
             {
               "id": "4",
               "image": "Image/UI/AttrUI/nan/wangwei.png",
+              "desc": "PNK仪表堂堂，气质儒雅，似有满腹经纶",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -244,10 +254,12 @@
             {
               "id": "5",
               "image": "Image/UI/AttrUI/mianju/guojing.png",
+              "desc": "CYN浓眉大眼，看上去十分老实",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -305,10 +317,12 @@
             {
               "id": "6",
               "image": "Image/UI/AttrUI/mianju/yangkang.png",
+              "desc": "HIG脸如冠玉，唇若涂丹，容貌俊美",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -366,10 +380,12 @@
             {
               "id": "7",
               "image": "Image/UI/AttrUI/mianju/munianci.png",
+              "desc": "HIY明眸皓齿，容色娟好，只是不知为何面露悲伤",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -417,10 +433,12 @@
             {
               "id": "8",
               "image": "Image/UI/AttrUI/mianju/chenglingsu.png",
+              "desc": "MAG一双眼睛黑如点漆，朗似秋水，脸上薄施脂粉，清秀之中微增娇艳之色",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -457,10 +475,12 @@
             {
               "id": "9",
               "image": "Image/UI/AttrUI/mianju/guoxiang.png",
+              "desc": "HIY眉清目秀，娇美可爱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -508,10 +528,12 @@
             {
               "id": "10",
               "image": "Image/UI/AttrUI/mianju/miaoruolan.png",
+              "desc": "HIB肤光胜雪，双目犹似一泓清水，容貌秀丽之极",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -548,10 +570,12 @@
             {
               "id": "11",
               "image": "Image/UI/AttrUI/mianju/linghucong(Y).png",
+              "desc": "HIG眉清目秀，此时他抱剑而立，颇有几分侠气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -609,10 +633,12 @@
             {
               "id": "12",
               "image": "Image/UI/AttrUI/mianju/yuelingsan2.png",
+              "desc": "PNK俏皮可爱，乖巧玲珑，讨人喜爱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -670,10 +696,12 @@
             {
               "id": "13",
               "image": "Image/UI/AttrUI/mianju/yangguo.png",
+              "desc": "HIW剑眉入鬓，凤眼生威，清癯俊秀，英气逼人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -741,10 +769,12 @@
             {
               "id": "14",
               "image": "Image/UI/AttrUI/mianju/xiaolongnv.png",
+              "desc": "HIW清雅绝俗，秀丽无比，已不再是凡间人物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -792,10 +822,12 @@
             {
               "id": "15",
               "image": "Image/UI/AttrUI/mianju/liqiushui.png",
+              "desc": "HIW苗条婀娜，眉目甚美，面戴轻纱，飘然若仙，不由得让人怦然心动",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -843,10 +875,12 @@
             {
               "id": "16",
               "image": "Image/UI/AttrUI/mianju/xiangwentian.png",
+              "desc": "HIY容貌清癯，颏下长须疏朗，持葫欲饮，狂放豪迈",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -883,10 +917,12 @@
             {
               "id": "17",
               "image": "Image/UI/AttrUI/mianju/muwanqin.png",
+              "desc": "HIW似新月清晕，如花树堆雪，一张脸秀丽绝俗，只是过于苍白，没半点血色，想是她长时面幕蒙脸之故，两片薄薄的嘴唇，也是血色极淡，神情楚楚可怜，娇柔婉转",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -934,10 +970,12 @@
             {
               "id": "18",
               "image": "Image/UI/AttrUI/mianju/duanyu.png",
+              "desc": "HIC容貌俊雅，身上带着一股书卷之气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -995,10 +1033,12 @@
             {
               "id": "19",
               "image": "Image/UI/AttrUI/mianju/murongfu.png",
+              "desc": "HIY面目俊美,潇洒闲雅，身穿淡黄轻衫,手拿折扇，尽显风采",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1035,10 +1075,12 @@
             {
               "id": "1001",
               "image": "Image/UI/AttrUI/mianju/dingchunqiu.png",
+              "desc": "HIW身形魁伟，狂傲不羁，长须过肩，手持逍遥扇，一头飘逸银发随风飘扬",
               "anim": "dingchunqiu",
               "animFolder": "dingchunqiu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1075,10 +1117,12 @@
             {
               "id": "20",
               "image": "Image/UI/AttrUI/mianju/yuebuqun.png",
+              "desc": "HIC面如冠玉，一脸正气，看起来约四十来岁，身穿青衫，轻袍缓带，神情甚是潇洒",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "10001",
+              "borderImage": "Image/UI/AttrUI/frame/mianju_Frame1020.png",
               "useImageBackdrop": false
             }
           ]
@@ -1136,10 +1180,12 @@
             {
               "id": "21",
               "image": "Image/UI/AttrUI/mianju/heiwuchang.png",
+              "desc": "HIM面黑无须，十分吓人，头戴高帽，上书“天下太平”四个大字",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1187,10 +1233,12 @@
             {
               "id": "22",
               "image": "Image/UI/AttrUI/mianju/baiwuchang.png",
+              "desc": "HIW面无血色，煞是吓人，头戴高帽，上书“见吾生财”四个大字",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1238,37 +1286,45 @@
             {
               "id": "2001",
               "image": "Image/UI/AttrUI/mianju/meiniansheng4.png",
+              "desc": "容貌清癯，风骨傲然，一代大侠之态显露无疑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2002",
               "image": "Image/UI/AttrUI/mianju/meiniansheng3.png",
+              "desc": "容貌清癯，风骨傲然，一代大侠之态显露无疑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2003",
               "image": "Image/UI/AttrUI/mianju/meiniansheng2.png",
+              "desc": "容貌清癯，风骨傲然，一代大侠之态显露无疑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2004",
               "image": "Image/UI/AttrUI/mianju/meiniansheng1.png",
+              "desc": "容貌清癯，风骨傲然，一代大侠之态显露无疑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1305,10 +1361,12 @@
             {
               "id": "23",
               "image": "Image/UI/AttrUI/mianju/dadiao.png",
+              "desc": "目光如炬，鹰瞵鹗视，满头黑羽恰似乌云，从头顶延至后颈，喙如锋，头如箭，双翼张开如带羽之弦，顷刻即要冲天而起，直挂凌云",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1356,10 +1414,12 @@
             {
               "id": "24",
               "image": "Image/UI/AttrUI/mianju/nanhaieshen.png",
+              "desc": "恶形恶相，丑陋异常，十分吓人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1407,10 +1467,12 @@
             {
               "id": "37",
               "image": "Image/UI/AttrUI/mianju/quyuan.png",
+              "desc": "HIW相貌俊逸，气质高贵，沉郁凄美，似乎超然于世间",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1458,10 +1520,12 @@
             {
               "id": "38",
               "image": "Image/UI/AttrUI/mianju/xiangfuren.png",
+              "desc": "HIC眉如墨画,眼似秋水，好似那画中人物，美艳不可方物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1519,10 +1583,12 @@
             {
               "id": "39",
               "image": "Image/UI/AttrUI/mianju/huangrong.png",
+              "desc": "HIC长发披肩，全身白衣，头发上束了条金带，白雪一映，更是灿然生光",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1570,10 +1636,12 @@
             {
               "id": "40",
               "image": "Image/UI/AttrUI/mianju/renyingying.png",
+              "desc": "HIW容貌绝色，如仙人白玉，秀丽绝伦，明艳绝伦，娇美不可方物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1610,10 +1678,12 @@
             {
               "id": "41",
               "image": "Image/UI/AttrUI/mianju/zhongling.png",
+              "desc": "PNK脸如朝霞，目比秋水，肤如凝脂，笑靥如花，容貌明媚照人，吹气如兰，越看越美，令人舍不得移目",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1650,10 +1720,12 @@
             {
               "id": "42",
               "image": "Image/UI/AttrUI/mianju/qingxiaowan.png",
+              "desc": "PNK娇小玲珑，楚楚动人，身穿青衣，手拿冰草，笑颜如花",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1690,10 +1762,12 @@
             {
               "id": "43",
               "image": "Image/UI/AttrUI/mianju/liuxuanfeng.png",
+              "desc": "HIW剑眉星目，玉冠锦袍，眼中充满着凶煞之气，一副俯视苍生的姿态，让人倍感压力",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1730,10 +1804,12 @@
             {
               "id": "44",
               "image": "Image/UI/AttrUI/mianju/luohuanjun.png",
+              "desc": "HIR粉嫩白皙，容貌清丽，身穿红衣，十分显眼",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1770,10 +1846,12 @@
             {
               "id": "45",
               "image": "Image/UI/AttrUI/mianju/niulang.png",
+              "desc": "HIB仪表堂堂，英俊非凡，眼中满是柔情，令人动容",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1821,10 +1899,12 @@
             {
               "id": "46",
               "image": "Image/UI/AttrUI/mianju/zhinv.png",
+              "desc": "PNK沉鱼落雁，飘然若仙，衣着华美，彩带纷飞，眼中噙着泪水，令人动容",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1872,10 +1952,12 @@
             {
               "id": "47",
               "image": "Image/UI/AttrUI/mianju/yansigui.png",
+              "desc": "BLU面色铁青，目无神采，浑身湿漉漉的，似乎刚从水中捞出来一样",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1925,10 +2007,12 @@
             {
               "id": "48",
               "image": "Image/UI/AttrUI/mianju/wumiangui.png",
+              "desc": "HIW无面无相，手拿蒲扇，十分吓人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -1978,10 +2062,12 @@
             {
               "id": "49",
               "image": "Image/UI/AttrUI/mianju/changfagui.png",
+              "desc": "HIM长发飘然，面无血色，阴森恐怖",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2031,10 +2117,12 @@
             {
               "id": "50",
               "image": "Image/UI/AttrUI/mianju/datougui.png",
+              "desc": "HIY头生三眼，脑大少发，畸形渗人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2084,10 +2172,12 @@
             {
               "id": "51",
               "image": "Image/UI/AttrUI/mianju/guiwang.png",
+              "desc": "HIM黑青面庞，白眼无瞳，脸上异纹横生，眉间还有一抹殷红，浑身煞气，令人生惧",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2124,10 +2214,12 @@
             {
               "id": "52",
               "image": "Image/UI/AttrUI/mianju/houyi.png",
+              "desc": "HIY剑眉星眸，英俊威猛，此刻正弯弓欲射，尽彰豪迈之势",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2175,19 +2267,23 @@
             {
               "id": "2011",
               "image": "Image/UI/AttrUI/mianju/yuetubai.png",
+              "desc": "PNK娇小可爱，玲珑剔透，所见之人无不心生怜爱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2012",
               "image": "Image/UI/AttrUI/mianju/yuetuhei.png",
+              "desc": "PNK娇小可爱，玲珑剔透，所见之人无不心生怜爱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2235,10 +2331,12 @@
             {
               "id": "53",
               "image": "Image/UI/AttrUI/mianju/wangchongyang.png",
+              "desc": "HIW身材甚高，风姿飒爽，英气勃勃，飘逸绝伦",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2286,10 +2384,12 @@
             {
               "id": "54",
               "image": "Image/UI/AttrUI/mianju/linchaoying.png",
+              "desc": "HIW容貌极美，秀眉入鬓，清雅高华，难以言喻",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2337,10 +2437,12 @@
             {
               "id": "55",
               "image": "Image/UI/AttrUI/mianju/chuliuxiang.png",
+              "desc": "PNK灵俊秀美，形神飘逸，手拿折扇，风流倜傥",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2377,10 +2479,12 @@
             {
               "id": "56",
               "image": "Image/UI/AttrUI/mianju/dasheng.png",
+              "desc": "HIW圆眼查耳雷公嘴，身穿黄金锁子甲，头戴凤翅紫金冠，脚穿藕丝步云履，端的是威风无比",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2417,10 +2521,12 @@
             {
               "id": "57",
               "image": "Image/UI/AttrUI/mianju/linghuzhangmen.png",
+              "desc": "HIG长方脸蛋，剑眉薄唇，此时抱剑而立，独显数分侠气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2457,10 +2563,12 @@
             {
               "id": "58",
               "image": "Image/UI/AttrUI/mianju/kongming.png",
+              "desc": "HIW面如冠玉，头戴纶巾，身披鹤氅，飘飘然有神仙之概",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2497,10 +2605,12 @@
             {
               "id": "59",
               "image": "Image/UI/AttrUI/mianju/yangguifei.png",
+              "desc": "PNK羞花闭月，仪态雍容，此刻举杯独酌，面色桃红，媚态无限，撩人心弦",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2537,10 +2647,12 @@
             {
               "id": "60",
               "image": "Image/UI/AttrUI/mianju/nianqinglongnv.png",
+              "desc": "HIC清丽秀雅，白衣飘然，手持一柄乌黑长剑，风姿绝代",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2588,10 +2700,12 @@
             {
               "id": "61",
               "image": "Image/UI/AttrUI/mianju/nianqingyangguo.png",
+              "desc": "HIC剑眉入鬓，清癯俊秀，一身素服，手持一柄乌黑长剑，英气逼人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2639,10 +2753,12 @@
             {
               "id": "62",
               "image": "Image/UI/AttrUI/mianju/shenseng.png",
+              "desc": "HIB玉树临风，潇洒非凡，眉宇之间淡淡书卷之气，手拿一串佛珠，漠然看着前方",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2679,10 +2795,12 @@
             {
               "id": "63",
               "image": "Image/UI/AttrUI/mianju/dongfangbubai.png",
+              "desc": "HIB风华绝代，烟视媚行，慵懒雍容中又有几分伟男子的英气，让人一见难忘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2719,10 +2837,12 @@
             {
               "id": "64",
               "image": "Image/UI/AttrUI/mianju/lihuazhongxin.png",
+              "desc": "HIB气质洒脱，不惹凡尘，眉目间尽是淡然",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2759,10 +2879,12 @@
             {
               "id": "65",
               "image": "Image/UI/AttrUI/mianju/luolan.png",
+              "desc": "HIB金发碧眼，眉目深邃，英俊潇洒，笑起来颇有几分不羁",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2799,10 +2921,12 @@
             {
               "id": "66",
               "image": "Image/UI/AttrUI/mianju/pingyaogongzhu.png",
+              "desc": "HIB肤若凝脂，眉目如画，吐气如兰，顾盼间带着一种飒爽英气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2839,10 +2963,12 @@
             {
               "id": "67",
               "image": "Image/UI/AttrUI/mianju/xiangjun.png",
+              "desc": "HIW目若朗星，面如冠玉，气宇轩扬，衣着华贵，一看便非凡俗",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2890,10 +3016,12 @@
             {
               "id": "68",
               "image": "Image/UI/AttrUI/mianju/hongqigong.png",
+              "desc": "HIC脸长面方，颏下微有须，颇有些豪放不羁的气质，此时正抱着个烧鸡，吃得正香",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2930,10 +3058,12 @@
             {
               "id": "69",
               "image": "Image/UI/AttrUI/mianju/songqingqiu.png",
+              "desc": "HIW粉雕玉琢、灵气十足，仿佛集世间各种宠爱于一身，自有一种天不怕、地不怕的洒脱劲，整一个混世小魔头",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -2981,10 +3111,12 @@
             {
               "id": "70",
               "image": "Image/UI/AttrUI/mianju/laolunsi.png",
+              "desc": "HIC棕发棕眼、魁梧高大，一双眼睛炯炯有神，总是一副智珠在握、波澜不惊的神情",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3032,10 +3164,12 @@
             {
               "id": "71",
               "image": "Image/UI/AttrUI/mianju/guoshi.png",
+              "desc": "HIW风神俊秀，可谓芙蓉为面，秋水为神，肌如冰雪，虽是出家人，却生得一副好皮囊",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3072,10 +3206,12 @@
             {
               "id": "72",
               "image": "Image/UI/AttrUI/mianju/wangjiacainv.png",
+              "desc": "HIC秀美无双、高雅出尘，仿佛天上的仙子坠落凡间，一颦一笑皆是诗，身上又透着浓浓的书卷气，让人忍不住心生好感",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3112,19 +3248,23 @@
             {
               "id": "2021",
               "image": "Image/UI/AttrUI/mianju/yekai.png",
+              "desc": "HIW十分好看，甚至太好看了。看起来风尘仆仆，眼中有忧郁，笑里有阳光，是你永远得不到的那个浪子",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2022",
               "image": "Image/UI/AttrUI/mianju/fuhongxue.png",
+              "desc": "HIW十分好看，甚至太好看了。看起来风尘仆仆，眼中有忧郁，笑里有阳光，是你永远得不到的那个浪子",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3161,10 +3301,12 @@
             {
               "id": "73",
               "image": "Image/UI/AttrUI/mianju/hanyifeng.png",
+              "desc": "HIC面如冠玉，眉分八彩，目若朗星，手持一把长剑，俨然一副侠者之态，风度不凡",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3201,19 +3343,23 @@
             {
               "id": "2031",
               "image": "Image/UI/AttrUI/mianju/heishangbaitian.png",
+              "desc": "HIC普普通通，就像沙漠中的一粒沙子，看似平平无奇，但其钻营吊诡的气质总让人难以忽视，就算是沙子，也是最刺眼的那一粒，茫茫人海中，一眼就看到",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2032",
               "image": "Image/UI/AttrUI/mianju/heishangyewan.png",
+              "desc": "HIC普普通通，就像沙漠中的一粒沙子，看似平平无奇，但其钻营吊诡的气质总让人难以忽视，就算是沙子，也是最刺眼的那一粒，茫茫人海中，一眼就看到",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3252,10 +3398,12 @@
             {
               "id": "74",
               "image": "Image/UI/AttrUI/mianju/dinghongdie.png",
+              "desc": "HIW娇艳绝伦，犹如带着晨露的带刺玫瑰，一双灵气十足的大眼睛充满了欺骗性，让人以为其人畜无害、从而不知不觉间放下防备之心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3294,10 +3442,12 @@
             {
               "id": "75",
               "image": "Image/UI/AttrUI/mianju/zhangzuozhi.png",
+              "desc": "HIC剑眉星目、气宇轩昂，行如风、站如松，大碗喝酒、大块吃肉，虽出身草莽，却胸有丘壑、心怀天下",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3336,19 +3486,23 @@
             {
               "id": "2041",
               "image": "Image/UI/AttrUI/mianju/taohuaxian1.png",
+              "desc": "HIW一双似醉非醉桃花眼，眼波流转秋水盈盈，眉间一点殷红更衬肌肤胜雪，手挽红线，含笑脉脉，周身隐隐有花香，似红尘中来，又纤尘不染",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2042",
               "image": "Image/UI/AttrUI/mianju/taohuaxian2.png",
+              "desc": "HIW一双似醉非醉桃花眼，眼波流转秋水盈盈，眉间一点殷红更衬肌肤胜雪，手挽红线，含笑脉脉，周身隐隐有花香，似红尘中来，又纤尘不染",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3385,10 +3539,12 @@
             {
               "id": "76",
               "image": "Image/UI/AttrUI/mianju/niutou.png",
+              "desc": "HIC面目可怖，一对乌黑的牛角泛着冷光，一双铜铃般的大眼睛，眼神森寒不带一丝情绪，看所有人都像看将死之人一般",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3426,10 +3582,12 @@
             {
               "id": "77",
               "image": "Image/UI/AttrUI/mianju/mamian.png",
+              "desc": "HIW一头飘逸的鬃毛，瘦长的马脸下是一口白牙，看起来既可怕又带点滑稽，鼻孔里不时喷出的凛冽白气，时刻提醒着生人勿近",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3467,10 +3625,12 @@
             {
               "id": "78",
               "image": "Image/UI/AttrUI/mianju/luqianhou.png",
+              "desc": "HIW身姿挺拔如苍松，气势刚健似骄阳，剑眉之下目光如炬，不怒自威，令人不敢与之直视",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3507,10 +3667,12 @@
             {
               "id": "1002",
               "image": "Image/UI/AttrUI/mianju/huangdaozhu.png",
+              "desc": "HIW身形伟岸，如不老青松，渊停岳峙间自有一种狷介之气，飘逸孤高，让人一见忘俗",
               "anim": "taohuadaozhu",
               "animFolder": "taohuadaozhu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3547,10 +3709,12 @@
             {
               "id": "1003",
               "image": "Image/UI/AttrUI/mianju/yuelingwei.png",
+              "desc": "HIW面容姣好，亭亭玉立，举手投足间有一种江湖儿女的磊落英气，一双剪水秋瞳不时流露出悲天悯人、感怀伤逝的眸光，惹人怜惜",
               "anim": "yuelingwei",
               "animFolder": "yuelingwei",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3587,10 +3751,12 @@
             {
               "id": "79",
               "image": "Image/UI/AttrUI/mianju/shenyuanlong.png",
+              "desc": "HIW面白无须，斯文儒雅，举止做派更像是一个满腹经纶的读书人，而非商贾之流",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3627,10 +3793,12 @@
             {
               "id": "1004",
               "image": "Image/UI/AttrUI/mianju/guofuren.png",
+              "desc": "HIW端丽清雅、风致嫣然，容貌有如少女一般的明眸皓齿、顾盼生辉，体态却是年轻女孩所没有的丰腴和艳丽，似乎岁月在其身上留下的痕迹都是好的、无害的",
               "anim": "huangrong",
               "animFolder": "huangrong",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3667,10 +3835,12 @@
             {
               "id": "80",
               "image": "Image/UI/AttrUI/mianju/zaowang.png",
+              "desc": "HIW剑眉星目、仪表不凡，双目炯炯，似乎对世间的一切都洞若观火，嘴角上扬，似乎在为什么可笑之事而憋着笑意",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3707,10 +3877,12 @@
             {
               "id": "81",
               "image": "Image/UI/AttrUI/mianju/caishen.png",
+              "desc": "HIW桃腮杏脸、国色天香，既有少女的娇憨，又有几分妇人的媚态，不知世间多少俗人为之神魂颠倒、求而不得",
               "anim": "caishenye",
               "animFolder": "caishenye",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3747,10 +3919,12 @@
             {
               "id": "1005",
               "image": "Image/UI/AttrUI/mianju/dishuiqing.png",
+              "desc": "HIW眉如秋水，肤胜白雪，容貌甚美，但气质偏冷淡，一双黑色的眸子像两个清幽的深潭，让人难以捉摸",
               "anim": "dishuiqing",
               "animFolder": "dishuiqing",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3787,10 +3961,12 @@
             {
               "id": "1006",
               "image": "Image/UI/AttrUI/mianju/dingdian.png",
+              "desc": "HIW满脸虬髯，头发长长的直垂至颈，衣衫破烂不堪，简直如同荒山中的野人，浑身血污，但双眼却炯炯有神",
               "anim": "dingdian",
               "animFolder": "dingdian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3827,10 +4003,12 @@
             {
               "id": "82",
               "image": "Image/UI/AttrUI/mianju/miejue.png",
+              "desc": "HIW面似寒霜、不苟言笑，横眉之下眸光清冷，虽双颊微红却不染俗世脂粉，一举一动足显大家风范，无半点媚态，可敬可畏",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3867,10 +4045,12 @@
             {
               "id": "83",
               "image": "Image/UI/AttrUI/mianju/chefu.png",
+              "desc": "HIW眉目如画，虽穿着一身寻常粗布麻衣，却有种卓尔不群、宠辱不惊的气质，玩味地打量着周围，似乎早已世事洞明、曾经沧海",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3907,10 +4087,12 @@
             {
               "id": "84",
               "image": "Image/UI/AttrUI/mianju/nuo.png",
+              "desc": "HIW龙角昂藏、长须横陈，如同下凡的天官，一张血盆大口似乎能吞吐一切，代表着远古先民们对上苍最初的敬畏",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3947,10 +4129,12 @@
             {
               "id": "1007",
               "image": "Image/UI/AttrUI/mianju/zhaowude.png",
+              "desc": "HIW身形挺拔，左颊一条刀疤，衬得眉目愈发粗犷，怀中抱着的长剑似乎刻满了久经江湖的沧桑之感",
               "anim": "zhaowude",
               "animFolder": "zhaowude",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -3987,10 +4171,12 @@
             {
               "id": "85",
               "image": "Image/UI/AttrUI/mianju/yewangsheng.png",
+              "desc": "HIW狡黠妖邪，墨发长披，凤眼摄魂，远比女子还娇媚，让人一见难忘，说是风情但又隐隐感到其中杀机",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4027,10 +4213,12 @@
             {
               "id": "1008",
               "image": "Image/UI/AttrUI/mianju/yufuren.png",
+              "desc": "HIW神色冷冽、目光如炬，发束金冠，金丝黑纱遮面，看起来让人不可靠近，似乎下一刻就会杀人于无形",
               "anim": "yufuren",
               "animFolder": "yufuren",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4067,10 +4255,12 @@
             {
               "id": "86",
               "image": "Image/UI/AttrUI/mianju/wuguanlaoguanjia.png",
+              "desc": "HIW满脸皱纹，疲惫不堪，穿一身普通的蓝布衫，于人群中再寻常不过，但看上去十分亲切",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4107,19 +4297,23 @@
             {
               "id": "2051",
               "image": "Image/UI/AttrUI/mianju/yuzhixiao1.png",
+              "desc": "HIW孤傲不桀，雄姿英发，高挺的鼻梁和深邃的双目使他看上去颇有威仪，举手投足间大有统摄之风",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2052",
               "image": "Image/UI/AttrUI/mianju/yuzhixiao2.png",
+              "desc": "HIW孤傲不桀，雄姿英发，高挺的鼻梁和深邃的双目使他看上去颇有威仪，举手投足间大有统摄之风",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4156,10 +4350,12 @@
             {
               "id": "87",
               "image": "Image/UI/AttrUI/mianju/shouyeren.png",
+              "desc": "HIW坚忍、英气，但又不起眼，像随时都会消失在夜空里的风，默默地守护着、等待着破晓时分的到来",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4196,10 +4392,12 @@
             {
               "id": "88",
               "image": "Image/UI/AttrUI/mianju/jiading1.png",
+              "desc": "HIW英俊白净，虽然一幅下人打扮，却有一种贵公子的神采风度，让人忍不住为其着迷",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4236,10 +4434,12 @@
             {
               "id": "89",
               "image": "Image/UI/AttrUI/mianju/jiading2.png",
+              "desc": "HIW英俊白净，虽然一幅下人打扮，却有一种贵公子的神采风度，是家丁界毫无疑问的的龙头大哥",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4266,10 +4466,12 @@
             {
               "id": "90",
               "image": "Image/UI/AttrUI/mianju/rentiannan.png",
+              "desc": "HIW略有几分儒雅，但多年身处江湖又给人一种饱经沧桑之感。面色冷峻，杀伐果断，极重仁义却为达目的又不择手段，是个十分矛盾的人物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4306,10 +4508,12 @@
             {
               "id": "1009",
               "image": "Image/UI/AttrUI/mianju/rongzhuanggongzhu.png",
+              "desc": "HIW风姿绰约，仪态万方，头束金冠，身披玄甲，本为一朝公主，长枪在手却不让须眉，当真称得上英姿飒爽，绝代风华，有诗云：一别深宫罢红妆，风飞扬，耀荣光",
               "anim": "rongzhuanggongzhu",
               "animFolder": "rongzhuanggongzhu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4346,19 +4550,23 @@
             {
               "id": "2061",
               "image": "Image/UI/AttrUI/mianju/kamierbaitian.png",
+              "desc": "HIW孤傲清冷，便如满是荆棘的玫瑰，朱红色的骑士服上沾满了昔日作为皇家骑士的荣耀与光辉。她不愿再与世俗同流，却又无法挣脱身边的枷锁，美貌之下的孤影也从未有人见过",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2062",
               "image": "Image/UI/AttrUI/mianju/kamieryewan.png",
+              "desc": "HIW孤傲清冷，便如满是荆棘的玫瑰，朱红色的骑士服上沾满了昔日作为皇家骑士的荣耀与光辉。她不愿再与世俗同流，却又无法挣脱身边的枷锁，美貌之下的孤影也从未有人见过",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4397,10 +4605,12 @@
             {
               "id": "91",
               "image": "Image/UI/AttrUI/mianju/mulingyan.png",
+              "desc": "HIW玉骨冰肌，古人若说起闺阁小姐、大家闺秀总归便是她这般的姿态。她虽能惊艳一堂，却少了与其他美人区分开来的特点。倘若真要说出个什么不同，便是她眼下泪痣，目中情深。但江湖，似乎并不需要这样娇滴滴的美人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4439,10 +4649,12 @@
             {
               "id": "92",
               "image": "Image/UI/AttrUI/mianju/linyun.png",
+              "desc": "HIW气宇轩昂，谦和有礼，为人处世时皆秉公执法，不苟言笑。一身的官服将他紧紧束缚，但这种束缚不过是求仁得仁，他心甘为民，若然揭去铁面，亦是一个普通的江湖人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4481,10 +4693,12 @@
             {
               "id": "93",
               "image": "Image/UI/AttrUI/mianju/mingjiaoshengnv.png",
+              "desc": "HIW黑发如丝，眸色碧蓝，明艳不可方物，虽看似娇弱，但心性极高。有情者，无怨无悔，无情者，恩怨分明。因紫衫如花，胜如凌波，遂博得江湖美称，冠绝天下",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4521,10 +4735,12 @@
             {
               "id": "94",
               "image": "Image/UI/AttrUI/mianju/xiaoxiadao.png",
+              "desc": "HIW浪荡洒脱，不修边幅，不似那些满带金银的富公子。样貌算不得英俊，但明眸清澈，笑意盎然。且既为侠盗，从不多取一毫，乃这盗中清官，两袖空空",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4561,10 +4777,12 @@
             {
               "id": "95",
               "image": "Image/UI/AttrUI/mianju/yangzongguan.png",
+              "desc": "HIW妖娆多姿，身穿枣红色缎面长袍，本是男儿身，却脸画淡妆，眼波流转之间，神态竟要比女子还要妩媚三分",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4601,19 +4819,23 @@
             {
               "id": "2071",
               "image": "Image/UI/AttrUI/mianju/youmingjiaozhu1.png",
+              "desc": "HIW面如冠玉，眉宇间英气十足，不怒自威，举手投足之间散发着一股慵懒之意。传言说其本是女儿身，但对外宣称为男人，以便行走江湖，统治帮派",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2072",
               "image": "Image/UI/AttrUI/mianju/youmingjiaozhu2.png",
+              "desc": "HIW面如冠玉，眉宇间英气十足，不怒自威，举手投足之间散发着一股慵懒之意。传言说其本是女儿身，但对外宣称为男人，以便行走江湖，统治帮派",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4650,10 +4872,12 @@
             {
               "id": "96",
               "image": "Image/UI/AttrUI/mianju/zhangjiaozhu.png",
+              "desc": "HIW浓眉大眼，面如冠玉，头戴青巾。眉目之间给人一种值得信赖的感觉，天生散发着一股领袖气质",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4690,10 +4914,12 @@
             {
               "id": "97",
               "image": "Image/UI/AttrUI/mianju/yanshenglaozu.png",
+              "desc": "HIW相貌平平，乍看来只是个寻常的白发老翁，但仔细观察，却可见其眼中却流露着一股杀气，锐不可当，动人心魄",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4730,10 +4956,12 @@
             {
               "id": "98",
               "image": "Image/UI/AttrUI/mianju/sheshen.png",
+              "desc": "HIW须发浓密，和蔼可亲，是民间传说的土地之神，每年播种之际，百姓都会设坛祭祀，以求今年风调雨顺",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4770,10 +4998,12 @@
             {
               "id": "99",
               "image": "Image/UI/AttrUI/mianju/yu.png",
+              "desc": "HIW清丽可人，神情肃穆，头戴青冠赤羽，面上涂了几抹红妆，为祈雨仪式的参与者",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4810,10 +5040,12 @@
             {
               "id": "100",
               "image": "Image/UI/AttrUI/mianju/zhongkui.png",
+              "desc": "HIW眼神犀利，不怒自威。身穿赤服，头戴黑帽，胡须两侧高高翘起。专司伏鬼镇邪，力保黎民平安",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4850,10 +5082,12 @@
             {
               "id": "101",
               "image": "Image/UI/AttrUI/mianju/tangbuping.png",
+              "desc": "HIW不怒自威，威风凛凛。眼神犀利，散发着一股浓重的杀气。体格精瘦，举手投足之间散发着一股宗师气质",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4890,10 +5124,12 @@
             {
               "id": "102",
               "image": "Image/UI/AttrUI/mianju/hongyi.png",
+              "desc": "HIR明颜雪肌，妩媚动人。身穿一袭红衣，凤眉微挑，眉间一点朱红，足未着履，行走之间飘洒自如，浑身流露出邪气却并不令人生厌",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4930,10 +5166,12 @@
             {
               "id": "103",
               "image": "Image/UI/AttrUI/mianju/laotou.png",
+              "desc": "HIW慈祥可亲，须发皆白。身穿青袍，举手投足间给人一种无尽的神秘之感",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -4970,10 +5208,12 @@
             {
               "id": "104",
               "image": "Image/UI/AttrUI/mianju/daoshi.png",
+              "desc": "HIW威严孤傲，满头白发，肌肤却娇嫩如婴儿，身形清瘦，眼中暗藏杀气，手执一乌杆拂尘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5010,10 +5250,12 @@
             {
               "id": "105",
               "image": "Image/UI/AttrUI/mianju/shangui.png",
+              "desc": "HIM袅娜旖旎，乌羽作冠，赤羽霓裳。飘飘然，宛若山间精魅；寂寂兮，犹比巫山神女，匆匆一瞥，使人怅忘难归，犹在梦中",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5050,10 +5292,12 @@
             {
               "id": "1010",
               "image": "Image/UI/AttrUI/mianju/menggujunzhu.png",
+              "desc": "HIW雍容华美，自有一副端严之致，令人肃然起敬不敢逼视。她心思敏捷、机智多谋、敢爱敢恨、直率豪爽，令许多男人颇为不及，不仅是蒙古第一美人，更有女中诸葛之称",
               "anim": "zhaomin",
               "animFolder": "zhaomin",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5090,19 +5334,23 @@
             {
               "id": "2081",
               "image": "Image/UI/AttrUI/mianju/tianjingmenzhu1.png",
+              "desc": "HIW婀娜多姿，盈盈妙目，顾盼间眼波流转。面上常带着花旦妆，更衬得人颜色艳丽，娇媚无双",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2082",
               "image": "Image/UI/AttrUI/mianju/tianjingmenzhu2.png",
+              "desc": "HIW婀娜多姿，盈盈妙目，顾盼间眼波流转。面上常带着花旦妆，更衬得人颜色艳丽，娇媚无双",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5139,10 +5387,12 @@
             {
               "id": "106",
               "image": "Image/UI/AttrUI/mianju/situchi.png",
+              "desc": "HIW容貌俊美，一双眼尾上扬的凤眼隐约给人阴寒之感，腰间挂有的骨笛据说用其至亲手骨所造，他右手尾指为断指，兼之一身毒术，让人倍觉诡异邪性",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5179,10 +5429,12 @@
             {
               "id": "107",
               "image": "Image/UI/AttrUI/mianju/ouyezi.png",
+              "desc": "HIW身形瘦长，发鬓须髯皆白，脸上双颊凹陷，神色肃穆，目光中透着一股让人不敢与之对视的锋芒",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5219,10 +5471,12 @@
             {
               "id": "108",
               "image": "Image/UI/AttrUI/mianju/hongniang.png",
+              "desc": "HIW娇俏可人，梳一头双垂髻，簪戴花饰，红裙相衬间，若百花之灵，人言以花为媒，可缔美好姻缘，故她迎奉花神，手持姻缘簿，于一颦一笑间指点着世间姻缘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5259,10 +5513,12 @@
             {
               "id": "109",
               "image": "Image/UI/AttrUI/mianju/diaochan.png",
+              "desc": "HIW玉骨冰肌，顾盼媚流，一袭鲜红舞衣，凤鸾飞绣，玉珠垂髻，只衬得她面若桃花，于烛曳摇光间尽显风姿灼华。世闻，纵盈光皎月，仙宫美娥，亦不足她倾城一笑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5273,10 +5529,12 @@
             {
               "id": "4035",
               "image": "Image/UI/AttrUI/mianju/diaochan.png",
+              "desc": "HIW玉骨冰肌，顾盼媚流，一袭鲜红舞衣，凤鸾飞绣，玉珠垂髻，只衬得她面若桃花，于烛曳摇光间尽显风姿灼华。此般沉鱼落雁，闭月羞花，仿如天仙临凡的女子，更是被以“天香美誉数貂蝉，闭月佳人貌若仙”的诗词歌赋赞美",
               "anim": "diaochan",
               "animFolder": "diaochan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5313,10 +5571,12 @@
             {
               "id": "110",
               "image": "Image/UI/AttrUI/mianju/huagongzi.png",
+              "desc": "HIW面容俊秀，眉眼多情。穿着一身墨色华贵的绸缎衣袍，袍内露出一道镂空木槿花的镶边。腰系玉带，手持折扇，杏子状的眼睛如灿烂星河",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5353,10 +5613,12 @@
             {
               "id": "111",
               "image": "Image/UI/AttrUI/mianju/duanwangzi.png",
+              "desc": "HIW容貌俊雅，面白唇红，头束发冠，身着华服，看似温和的神情中透着一丝庄重与威严，举止间颇有皇家矜贵的气质",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5393,19 +5655,23 @@
             {
               "id": "2091",
               "image": "Image/UI/AttrUI/mianju/dingxiang1.png",
+              "desc": "HIW秀丽绝俗，身姿丰盈，樱桃小口灵巧端正，双眸清亮，坚毅的眼神中带着一丝勇往直前的锐利，偶尔也会露出狡黠之光，展现清纯活泼一面，叫人心生喜爱，又痴又叹",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2092",
               "image": "Image/UI/AttrUI/mianju/dingxiang2.png",
+              "desc": "HIW秀丽绝俗，身姿丰盈，樱桃小口灵巧端正，双眸清亮，坚毅的眼神中带着一丝勇往直前的锐利，偶尔也会露出狡黠之光，展现清纯活泼一面，叫人心生喜爱，又痴又叹",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5444,10 +5710,12 @@
             {
               "id": "112",
               "image": "Image/UI/AttrUI/mianju/jinghongyan.png",
+              "desc": "HIW古灵精怪，活泼可人。头上秀发以红绸系成两个髻，身穿黑色劲装，性子颇似男子，身手矫健，常年出没于古墓之中",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5486,10 +5754,12 @@
             {
               "id": "113",
               "image": "Image/UI/AttrUI/mianju/duanxiao.png",
+              "desc": "HIW温文尔雅，眉清目秀。手执一柄折扇，身穿淡黄锦缎长袍，眉目和善，极尽温柔。温润如玉，却又带三分潇洒",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5528,10 +5798,12 @@
             {
               "id": "114",
               "image": "Image/UI/AttrUI/mianju/zhangtianshi.png",
+              "desc": "HIW刚正不阿，一脸正气。须发皆白，身穿墨黑金缕长袍，手执马尾拂尘。正气凛然，眼神坚毅，让人不敢直视其目光",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5568,10 +5840,12 @@
             {
               "id": "115",
               "image": "Image/UI/AttrUI/mianju/yangzuoshi.png",
+              "desc": "HIW英气勃发，又兼三分潇洒。穿一身素淡长袍，长发乌黑，唇边留着短短的胡茬。举止颇为儒雅，眼神流转之际，隐隐有杀气显露",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5608,10 +5882,12 @@
             {
               "id": "116",
               "image": "Image/UI/AttrUI/mianju/zhouzhangmen.png",
+              "desc": "HIW孤高冷艳，凛然动人。长发飘逸，上插玉簪两枚。额前留着几缕碎发，眼泛红晕，耳戴碧玉环，红唇浓抹，目光冷绝，常人不敢与之对视",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5648,10 +5924,12 @@
             {
               "id": "1011",
               "image": "Image/UI/AttrUI/mianju/shishaoxia.png",
+              "desc": "HIW剑眉入鬓，眼底无情。一身青灰的劲装猎猎作响，双臂的缠带和漆黑的乱发随风飘扬。手持利刃，直叫人避其锋芒。心似苍狼，旁观者顿感悲凉",
               "anim": "shipotian",
               "animFolder": "shipotian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5688,10 +5966,12 @@
             {
               "id": "1012",
               "image": "Image/UI/AttrUI/mianju/qiaofeng.png",
+              "desc": "HIW苍眉劲眼，高鼻阔口。三十来岁年纪，身材甚是伟岸，一张四方的国字脸，颇有风霜之色，顾盼睥睨之际，极具威严。随便一站，似是一条黑须苍龙傲立而起",
               "anim": "qiaofeng",
               "animFolder": "qiaofeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5728,10 +6008,12 @@
             {
               "id": "117",
               "image": "Image/UI/AttrUI/mianju/azhu.png",
+              "desc": "HIW清雅秀丽，楚楚动人。少女盈盈十六七岁年华，身穿花红，肌肤雪白，眼底似有泪痕。眉毛微蹙，令人暗生情愫，如泣如诉，直叫人牵肠挂肚",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5768,10 +6050,12 @@
             {
               "id": "1013",
               "image": "Image/UI/AttrUI/mianju/hufei.png",
+              "desc": "HIW面似寒霜，冷傲逼人。一对墨眉有如柳叶般纤细，一双眼眸好似狐狸般狭长，手握单刀，飞雪飘飘，冰冷的眼神散发出似有若无的杀意，直令人胆寒",
               "anim": "hushaoxia",
               "animFolder": "hushaoxia",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5808,10 +6092,12 @@
             {
               "id": "118",
               "image": "Image/UI/AttrUI/mianju/chenglingsu1.png",
+              "desc": "HIW双眸灵动，脉脉含情。相貌似有十六七岁年纪，身形却娇小如十三四岁的小姑娘。在万花的簇拥之下，抬手轻轻折下一枝，细嗅花香，尽显兰心蕙质",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5848,10 +6134,12 @@
             {
               "id": "119",
               "image": "Image/UI/AttrUI/mianju/ziguniang.png",
+              "desc": "HIW颜若朝霞，双眸灿烂。眼神总有狡黠之色，眉宇之间似笑非笑。乌溜溜的眼中透着古灵精怪，亦正亦邪的气质，让人难识其本性",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5888,10 +6176,12 @@
             {
               "id": "120",
               "image": "Image/UI/AttrUI/mianju/huangshifu.png",
+              "desc": "HIW身躯凛凛，相貌堂堂。一双眼睛射寒星，两弯剑眉如刷漆。气宇轩昂，大红的舞狮头肩上扛。从容不迫，将脑后束起的一根长辫咬在口中",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5928,10 +6218,12 @@
             {
               "id": "121",
               "image": "Image/UI/AttrUI/mianju/weijueye.png",
+              "desc": "HIW鬼头鬼脑，机灵十足。一身另类的打扮派头十足：头戴一顶老虎帽，鼻上一副西洋镜，脸颊脖子上满是香艳的唇印。虽然颇有些暴发户的俗气，却也显得款式非凡",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -5968,10 +6260,12 @@
             {
               "id": "1014",
               "image": "Image/UI/AttrUI/mianju/yuenv.png",
+              "desc": "HIW身如翠竹，弱质芊芊。长着一张标致的瓜子脸蛋，前额上的乱发被青丝带束起，手持一根莹莹竹棍，瞳孔中散发出令人心惊的幽绿",
               "anim": "yuenv",
               "animFolder": "yuenv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6008,10 +6302,12 @@
             {
               "id": "122",
               "image": "Image/UI/AttrUI/mianju/limochou.png",
+              "desc": "HIW美目流盼，冷傲无情。青丝中藏几缕银发，桃唇上抹一点绛红，左手携一杆拂尘，右掌凝聚真气，暗藏杀机，似是要将无边恨意宣泄而出",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6048,10 +6344,12 @@
             {
               "id": "1015",
               "image": "Image/UI/AttrUI/mianju/susu.png",
+              "desc": "HIW明媚清丽，娇艳绝伦，目光直视远方，饱含决然之色，闭眼时，泪珠滚落，似雨后梨花，凄美断人肠",
               "anim": "yinsusu",
               "animFolder": "yinsusu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6088,10 +6386,12 @@
             {
               "id": "1016",
               "image": "Image/UI/AttrUI/mianju/zhangzhenren.png",
+              "desc": "HIW高大魁梧，须眉俱白。身着武当道服，卓立于大殿之上，正气凛然，宽和从容，颇有仙风道骨之姿，令人大有敬畏之心",
               "anim": "zhangsanfeng",
               "animFolder": "zhangsanfeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6128,10 +6428,12 @@
             {
               "id": "1017",
               "image": "Image/UI/AttrUI/mianju/jianshen.png",
+              "desc": "HIW眉如利剑、面似白雪。眉心中一点剑痕，眼神明亮深邃却暗藏孤寂。剑刃握于手中，剑华流转不息，剑芒吞吐不定。试问何为剑客之心？原是一曲寂寞之情",
               "anim": "xmcx",
               "animFolder": "xmcx",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6168,10 +6470,12 @@
             {
               "id": "1018",
               "image": "Image/UI/AttrUI/mianju/chaoyingnvxia.png",
+              "desc": "HIW何彼秾矣，华如桃李。一双脉脉含情的眼眸，一条缀满铜铃的发带，一件艳红明丽的衣裳，好似一位身着嫁衣的女子，正在翘首盼望意中人的到来",
               "anim": "linchaoying",
               "animFolder": "linchaoying",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6208,10 +6512,12 @@
             {
               "id": "1019",
               "image": "Image/UI/AttrUI/mianju/buhuimeimei.png",
+              "desc": "HIW肤嫩如雪，眉眼如画。水蓝色的发饰，淡红色的束带，衬上一头栗色的长发。柔情无限，眼波盈盈，羞红的脸上挂着浅笑，贝齿轻咬着发带，只觉分外可爱",
               "anim": "yangbuhui",
               "animFolder": "yangbuhui",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6248,10 +6554,12 @@
             {
               "id": "123",
               "image": "Image/UI/AttrUI/mianju/heiyixianv.png",
+              "desc": "HIW英姿飒爽，眉目冷峻，手中双刃锋芒逼人，一身黑衣掩柔情，却不掩倾天侠气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6288,10 +6596,12 @@
             {
               "id": "124",
               "image": "Image/UI/AttrUI/mianju/heiyixiashi.png",
+              "desc": "HIW剑眉星目，英姿焕发，手中长剑刺出，气贯如虹，一身黑衣难掩萧杀之意",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6328,10 +6638,12 @@
             {
               "id": "4001",
               "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "desc": "HIW英姿飒爽，眉眼有神。高挺的鼻梁显出凌厉的线条，微抿的薄唇透出过人的胆色。雪莲般的面容，寒梅般的风骨，清丽中透出凛然，蕴在眼角眉梢的都是骄傲",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6342,10 +6654,12 @@
             {
               "id": "4002",
               "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "desc": "HIW英姿飒爽，眉眼有神。高挺的鼻梁显出凌厉的线条，微抿的薄唇透出过人的胆色。雪莲般的面容，寒梅般的风骨，清丽中透出凛然，蕴在眼角眉梢的都是骄傲",
               "anim": "shengjidonghuanv2",
               "animFolder": "shengjidonghuanv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6356,10 +6670,12 @@
             {
               "id": "4003",
               "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "desc": "HIW英姿飒爽，眉眼有神。高挺的鼻梁显出凌厉的线条，微抿的薄唇透出过人的胆色。雪莲般的面容，寒梅般的风骨，清丽中透出凛然，蕴在眼角眉梢的都是骄傲",
               "anim": "shengjidonghuanv2",
               "animFolder": "shengjidonghuanv",
               "effect": "shengjimianjutongyongbeijing1",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6370,10 +6686,12 @@
             {
               "id": "4004",
               "image": "Image/UI/AttrUI/mianju/heiyixianv2.png",
+              "desc": "HIW英姿飒爽，眉眼有神。高挺的鼻梁显出凌厉的线条，微抿的薄唇透出过人的胆色。雪莲般的面容，寒梅般的风骨，清丽中透出凛然，蕴在眼角眉梢的都是骄傲",
               "anim": "shengjidonghuanv3",
               "animFolder": "shengjidonghuanv",
               "effect": "shengjimianjutongyongbeijing1",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6410,10 +6728,12 @@
             {
               "id": "4005",
               "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "desc": "HIW英姿勃发，器宇不凡。一张白净的素面，一双入鬓的剑眉，一把笔挺的宝剑，抬手抱拳挽剑，简单几个动作，好似那正直刚毅的少年将军，又似那潇洒自若的江湖侠客",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6424,10 +6744,12 @@
             {
               "id": "4006",
               "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "desc": "HIW英姿勃发，器宇不凡。一张白净的素面，一双入鬓的剑眉，一把笔挺的宝剑，抬手抱拳挽剑，简单几个动作，好似那正直刚毅的少年将军，又似那潇洒自若的江湖侠客",
               "anim": "shengjidonghuanan2",
               "animFolder": "shengjidonghuanan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6438,10 +6760,12 @@
             {
               "id": "4007",
               "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "desc": "HIW英姿勃发，器宇不凡。一张白净的素面，一双入鬓的剑眉，一把笔挺的宝剑，抬手抱拳挽剑，简单几个动作，好似那正直刚毅的少年将军，又似那潇洒自若的江湖侠客",
               "anim": "shengjidonghuanan2",
               "animFolder": "shengjidonghuanan",
               "effect": "shengjimianjutongyongbeijing1",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6452,10 +6776,12 @@
             {
               "id": "4008",
               "image": "Image/UI/AttrUI/mianju/heiyixiashi2.png",
+              "desc": "HIW英姿勃发，器宇不凡。一张白净的素面，一双入鬓的剑眉，一把笔挺的宝剑，抬手抱拳挽剑，简单几个动作，好似那正直刚毅的少年将军，又似那潇洒自若的江湖侠客",
               "anim": "shengjidonghuanan3",
               "animFolder": "shengjidonghuanan",
               "effect": "shengjimianjutongyongbeijing1",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6492,10 +6818,12 @@
             {
               "id": "1020",
               "image": "Image/UI/AttrUI/mianju/renjiaozhu.png",
+              "desc": "HIW狂傲不羁，桀骜不驯。一头黑发，一袭青衫，一只独眼，更显其傲视群雄之姿。而他伤眼上的铁护，和他掌心磅礴的吸力，似要宣告这天地间只有他一人",
               "anim": "renwoxing",
               "animFolder": "renwoxing",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6532,10 +6860,12 @@
             {
               "id": "1021",
               "image": "Image/UI/AttrUI/mianju/huanhuajianke.png",
+              "desc": "HIW眉目疏朗，俊逸非凡。他抱剑立于花树下沉思，似在透过手中的吊坠望见故人，少了些萧杀，多了分落花的忧愁，左肩上绽放的将离让他更添一丝风流",
               "anim": "huanhuaxiake",
               "animFolder": "huanhuaxiake",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6572,10 +6902,12 @@
             {
               "id": "1022",
               "image": "Image/UI/AttrUI/mianju/fengbaoqishilaien.png",
+              "desc": "HIW眼眸深邃，鼻梁高挺。他一身钢铁重甲，碧绿的眼睛，金黄的头发，棱角分明的面容显得刚毅不屈。身后的士兵引吭高歌，胸前的徽记烨烨生辉",
               "anim": "fengbaoqishi",
               "animFolder": "fengbaoqishi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6612,10 +6944,12 @@
             {
               "id": "1023",
               "image": "Image/UI/AttrUI/mianju/shengshiqingqiu.png",
+              "desc": "HIW乌云秀发，杏脸桃腮。眉如春山浅淡，眼若秋波婉转；酥胸纤腰，盛臀修腿，胜似海棠醉日，梨花带雨。一轮明月映娇颜，两只蝴蝶轻似舞。假以时日，此身容便可祸国殃民",
               "anim": "youshenshi",
               "animFolder": "youshenshi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6652,10 +6986,12 @@
             {
               "id": "1024",
               "image": "Image/UI/AttrUI/mianju/zuoshenshi.png",
+              "desc": "HIW发棕微卷，眉目深邃，一双如琥珀般剔透晶莹的双眼闪烁着摄人心魄的光芒。身着便服时，是个狡诈冷酷的商人，身披铠甲时，亦是号令三军的统帅",
               "anim": "zuoshenshi",
               "animFolder": "zuoshenshi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6692,10 +7028,12 @@
             {
               "id": "125",
               "image": "Image/UI/AttrUI/mianju/yudishaonian.png",
+              "desc": "HIW英姿傲骨，意气风发。一个年纪十六七岁的少年，身姿挺拔如苍松，气势刚健似骄阳，背负剑，手擒苍，纵千军万马，亦往矣",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6732,10 +7070,12 @@
             {
               "id": "4009",
               "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "desc": "HIW憨实如木，面带深情。衣着虽算不上褴褛，却也称得上朴素。终日的艰辛与期盼，在此时化作坚定的幸福，恳切的目光像是在缅怀着过去，又像是在期许未来",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6746,10 +7086,12 @@
             {
               "id": "4010",
               "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "desc": "HIW憨实如木，面带深情。衣着虽算不上褴褛，却也称得上朴素。终日的艰辛与期盼，在此时化作坚定的幸福，恳切的目光像是在缅怀着过去，又像是在期许未来",
               "anim": "niulang1",
               "animFolder": "niulang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6760,10 +7102,12 @@
             {
               "id": "4011",
               "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "desc": "HIW憨实如木，面带深情。衣着虽算不上褴褛，却也称得上朴素。终日的艰辛与期盼，在此时化作坚定的幸福，恳切的目光像是在缅怀着过去，又像是在期许未来",
               "anim": "niulang2",
               "animFolder": "niulang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6774,10 +7118,12 @@
             {
               "id": "4012",
               "image": "Image/UI/AttrUI/mianju/niulang2.png",
+              "desc": "HIW憨实如木，面带深情。衣着虽算不上褴褛，却也称得上朴素。终日的艰辛与期盼，在此时化作坚定的幸福，恳切的目光像是在缅怀着过去，又像是在期许未来",
               "anim": "niulang3",
               "animFolder": "niulang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6814,10 +7160,12 @@
             {
               "id": "4013",
               "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "desc": "HIW美如天边云彩，秀似天女下凡。一双明眸善睐，一汪盈盈秋水，在心中藏着的千言万语，此刻用双眼的凝望传达给对方，诉说着无尽的爱意和思念",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6828,10 +7176,12 @@
             {
               "id": "4014",
               "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "desc": "HIW美如天边云彩，秀似天女下凡。一双明眸善睐，一汪盈盈秋水，在心中藏着的千言万语，此刻用双眼的凝望传达给对方，诉说着无尽的爱意和思念",
               "anim": "zhinv1",
               "animFolder": "zhinv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6842,10 +7192,12 @@
             {
               "id": "4015",
               "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "desc": "HIW美如天边云彩，秀似天女下凡。一双明眸善睐，一汪盈盈秋水，在心中藏着的千言万语，此刻用双眼的凝望传达给对方，诉说着无尽的爱意和思念",
               "anim": "zhinv2",
               "animFolder": "zhinv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6856,10 +7208,12 @@
             {
               "id": "4016",
               "image": "Image/UI/AttrUI/mianju/zhinv2.png",
+              "desc": "HIW美如天边云彩，秀似天女下凡。一双明眸善睐，一汪盈盈秋水，在心中藏着的千言万语，此刻用双眼的凝望传达给对方，诉说着无尽的爱意和思念",
               "anim": "zhinv3",
               "animFolder": "zhinv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6896,10 +7250,12 @@
             {
               "id": "4017",
               "image": "Image/UI/AttrUI/mianju/yecha1lv.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6910,10 +7266,12 @@
             {
               "id": "4018",
               "image": "Image/UI/AttrUI/mianju/yecha1lv.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "yecha1lv",
               "animFolder": "yecha",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6924,10 +7282,12 @@
             {
               "id": "4019",
               "image": "Image/UI/AttrUI/mianju/yecha2hong.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6938,10 +7298,12 @@
             {
               "id": "4020",
               "image": "Image/UI/AttrUI/mianju/yecha2hong.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "yecha2hong",
               "animFolder": "yecha",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6952,10 +7314,12 @@
             {
               "id": "4021",
               "image": "Image/UI/AttrUI/mianju/yecha3fen.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -6966,10 +7330,12 @@
             {
               "id": "4022",
               "image": "Image/UI/AttrUI/mianju/yecha3fen.png",
+              "desc": "HIW满口獠牙，凶神恶煞。一对犄角盘在头顶，怒发如针，双目如神。稍一吐息，浓烈的白雾便从口鼻中滚出，当真是煞星下凡",
               "anim": "yecha3fen",
               "animFolder": "yecha",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7006,10 +7372,12 @@
             {
               "id": "1025",
               "image": "Image/UI/AttrUI/mianju/shutong.png",
+              "desc": "HIW白面无须，弱不禁风。一介文弱书生，于书屋中耕读到夜半，为何......竟感觉有些胆寒心颤",
               "anim": "shutong",
               "animFolder": "shutong",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": true
             }
           ]
@@ -7046,10 +7414,12 @@
             {
               "id": "1026",
               "image": "Image/UI/AttrUI/mianju/limotou.png",
+              "desc": "HIW桃腮带晕，美目流盼。她话声轻柔婉转，神态甚是悠闲，若非知她是个杀人不眨眼的魔头，还道是位带发修行的千金小姐",
               "anim": "limotou",
               "animFolder": "limotou",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7086,19 +7456,23 @@
             {
               "id": "2093",
               "image": "Image/UI/AttrUI/mianju/linshaoxia1.png",
+              "desc": "HIW眉清目秀，丰神如玉。白日里温雅谦逊，淡然沉静，抱剑而立只道是个文弱的美少年。而不知何故，一到夜里竟满身疮痍，面目疯狂而绝望，叫人望而生畏",
               "anim": "linshaoxia",
               "animFolder": "linshaoxia",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2094",
               "image": "Image/UI/AttrUI/mianju/linshaoxia2.png",
+              "desc": "HIW眉清目秀，丰神如玉。白日里温雅谦逊，淡然沉静，抱剑而立只道是个文弱的美少年。而不知何故，一到夜里竟满身疮痍，面目疯狂而绝望，叫人望而生畏",
               "anim": "linshaoxia2",
               "animFolder": "linshaoxia",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7135,10 +7509,12 @@
             {
               "id": "1027",
               "image": "Image/UI/AttrUI/mianju/quanba.png",
+              "desc": "HIW筋肉虬结，眼神凌厉。太阳穴高高隆起，颧骨和下巴勾勒出坚毅的线条，心如猛虎，动如脱兔，伟岸的身躯似是钢浇铁铸，一双缠满绷带的铁拳无人可以匹敌",
               "anim": "quanshi",
               "animFolder": "quanshi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7175,19 +7551,23 @@
             {
               "id": "2095",
               "image": "Image/UI/AttrUI/mianju/linu1.png",
+              "desc": "HIW耳朵也尖尖，琼鼻也尖尖。灰白色的毛发比绸缎还要柔顺，圆圆的肚皮比坐垫还要柔软，乖巧巧地静坐在花枝下，似要学那猛虎细嗅蔷薇的花香",
               "anim": "linurumengmao",
               "animFolder": "linurumeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2096",
               "image": "Image/UI/AttrUI/mianju/linu2.png",
+              "desc": "HIW美目盼兮，巧笑倩兮。用一枝花簪将黑发柔顺地别起，手捧书卷静立树下，一眼望去，正是位端庄文静，秀外慧中的俏姑娘",
               "anim": "linurumengren",
               "animFolder": "linurumeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7224,10 +7604,12 @@
             {
               "id": "1028",
               "image": "Image/UI/AttrUI/mianju/kuilier.png",
+              "desc": "HIW金发碧眼，轻盼曼顾。那美丽的头发披散在身上，像一股金色的瀑布．波浪起伏，金光闪闪。来自大秦的红绸穿过锁骨，盖过细腰，勾勒出惊心动魄的美艳弧线",
               "anim": "kuilier",
               "animFolder": "kuilier",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7264,10 +7646,12 @@
             {
               "id": "4023",
               "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "desc": "HIW面容清俊，笑脸迎人，让人心生亲切之感",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7278,10 +7662,12 @@
             {
               "id": "4024",
               "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "desc": "HIW面容清隽，热情爽朗。虽在热闹的酒楼中，一身灰布粗衣却干净之极，让人不得不多看几眼",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7292,10 +7678,12 @@
             {
               "id": "4025",
               "image": "Image/UI/AttrUI/mianju/dianxiaoer.png",
+              "desc": "HIW面容清隽，热情爽朗，待人周到。一身灰布粗衣却干净之极，无怪乎酒楼的生意日夜不绝",
               "anim": "dianxiaoer",
               "animFolder": "dianxiaoer",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7332,10 +7720,12 @@
             {
               "id": "4026",
               "image": "Image/UI/AttrUI/mianju/chenzhuanqian1.png",
+              "desc": "HIW面如冠玉，剑眉星目，丰神俊朗。他似笑非笑，手中把玩着元宝，不知道此刻他又在想着什么赚钱的门路",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7346,10 +7736,12 @@
             {
               "id": "4027",
               "image": "Image/UI/AttrUI/mianju/chenzhuanqian2.png",
+              "desc": "HIW面如冠玉，剑眉星目，丰神俊朗。他似笑非笑，手中把玩着元宝，一副成竹在胸的模样。据说，陈家今天的富庶便是因他一人而成",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7360,10 +7752,12 @@
             {
               "id": "4028",
               "image": "Image/UI/AttrUI/mianju/chenzhuanqian2.png",
+              "desc": "HIW面如冠玉，剑眉星目，丰神俊朗。他闭目凝神，轻拍折扇，若有所思；陡然间他睁开双眼，嘴角微微上扬，你一瞬间便已明了，他必是想出了赚钱的门路，只是不知道哪个倒霉鬼又要遭殃了",
               "anim": "chenzhuanqian",
               "animFolder": "chenzhuanqian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7400,10 +7794,12 @@
             {
               "id": "1029",
               "image": "Image/UI/AttrUI/mianju/danqingmiaoshou.png",
+              "desc": "HIW清隽秀美，双目灵动，但因身上、脸上甚至衣上染着各色颜料，所以显得有些不修边幅。他双眉微蹙，凝神于卷，下笔便是妙手生花",
               "anim": "danqingmiaoshou",
               "animFolder": "danqingmiaoshou",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7440,10 +7836,12 @@
             {
               "id": "1030",
               "image": "Image/UI/AttrUI/mianju/shenyexing.png",
+              "desc": "HIW身形清瘦，眉目隽秀。身穿夜行鱼服，似是不想引人注意。他右手提笔，左手捧着一本小册子，时而在小册子上奋笔疾书，时而又停下笔来眉头紧皱",
               "anim": "shenyexing",
               "animFolder": "shenyexing",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7480,10 +7878,12 @@
             {
               "id": "1031",
               "image": "Image/UI/AttrUI/mianju/zhangshengdai.png",
+              "desc": "HIW豹头环眼，壮如蛮牛，身着盔甲，威风赫赫",
               "anim": "zhangshengdai",
               "animFolder": "zhangshengdai",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7520,10 +7920,12 @@
             {
               "id": "1032",
               "image": "Image/UI/AttrUI/mianju/murongmi.png",
+              "desc": "HIW清丽脱俗，面如芙蓉。双眉紧锁，神色间却另有雍容气度，嘴角轻笑，又显天真无邪",
               "anim": "murongmi",
               "animFolder": "murongmi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7560,10 +7962,12 @@
             {
               "id": "4029",
               "image": "Image/UI/AttrUI/mianju/jinsanniang1.png",
+              "desc": "HIW云鬓俏颜，香腮如雪，媚眼羞合，丹唇笑分",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7574,10 +7978,12 @@
             {
               "id": "4030",
               "image": "Image/UI/AttrUI/mianju/jinsanniang2.png",
+              "desc": "HIW云鬓俏颜，香腮如雪，媚眼羞合，丹唇笑分。眉眼盈盈间，千种风情，似与谁人说",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7588,10 +7994,12 @@
             {
               "id": "4031",
               "image": "Image/UI/AttrUI/mianju/jinsanniang2.png",
+              "desc": "HIW云鬓俏颜，香腮如雪，媚眼羞合，丹唇笑分，罗扇轻摇，更显绝代风华。有道是，媚眼如丝眉似月,一颦一笑添红霞",
               "anim": "jinsanniang",
               "animFolder": "jinsanniang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7628,10 +8036,12 @@
             {
               "id": "4032",
               "image": "Image/UI/AttrUI/mianju/dingling.png",
+              "desc": "HIW面如芙蓉，眉似柳叶，不着粉黛也难掩娇艳",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7642,10 +8052,12 @@
             {
               "id": "4033",
               "image": "Image/UI/AttrUI/mianju/dingling2.png",
+              "desc": "HIW面如芙蓉，眉似柳叶，不着粉黛也难掩娇艳。目光坚毅，举止间尽显飒爽英姿",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7656,10 +8068,12 @@
             {
               "id": "4034",
               "image": "Image/UI/AttrUI/mianju/dingling2.png",
+              "desc": "HIW面如芙蓉，眉似柳叶，不着粉黛却不掩娇艳。她双眸清亮，坚毅的眼神中带着一往无前的锐利，偶尔也会露出纯真之光，展现清纯活泼一面，叫人心生喜爱",
               "anim": "dingling",
               "animFolder": "dingling",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7696,10 +8110,12 @@
             {
               "id": "1033",
               "image": "Image/UI/AttrUI/mianju/lengjing.png",
+              "desc": "HIW清丽可人，更有飒爽英气。月下竹林，她美目含煞，手执单匕，刀兵即将加身也不能让她动容",
               "anim": "lengshuang",
               "animFolder": "lengshuang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7736,10 +8152,12 @@
             {
               "id": "4036",
               "image": "Image/UI/AttrUI/mianju/kalina.png",
+              "desc": "HIW双眸似水，却带着淡淡冰冷，似乎足以洞察一切",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7750,10 +8168,12 @@
             {
               "id": "4037",
               "image": "Image/UI/AttrUI/mianju/kalina2.png",
+              "desc": "HIW双眸似水，却带着淡淡冰冷，似乎足以洞察一切。肤如凝脂，雪白中透着些许粉红，似乎能拧出水来",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7764,10 +8184,12 @@
             {
               "id": "4038",
               "image": "Image/UI/AttrUI/mianju/kalina2.png",
+              "desc": "HIW双眸似水，却带着淡淡冰冷，似乎足以洞察一切。肤如凝脂，雪白中透着些许粉红，似乎能拧出水来。一双朱唇，语笑若嫣然，一举一动都似曼舞",
               "anim": "xiyunvzi",
               "animFolder": "xiyunvzi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7804,10 +8226,12 @@
             {
               "id": "4039",
               "image": "Image/UI/AttrUI/mianju/caishenniang.png",
+              "desc": "HIW新岁已至，万家祥和。爆竹声中财神奉，恭喜发财福运绕。财帛星君送宝至，金卷展显福意到",
               "anim": "caishenniang",
               "animFolder": "caishenniang",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7818,10 +8242,12 @@
             {
               "id": "4040",
               "image": "Image/UI/AttrUI/mianju/caishenniang2.png",
+              "desc": "HIW新岁已至，爆竹声中财神到，出门见喜神笑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7832,10 +8258,12 @@
             {
               "id": "4041",
               "image": "Image/UI/AttrUI/mianju/caishenniang3.png",
+              "desc": "HIW新岁已至，爆竹声中财神到，出门见喜神笑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7846,10 +8274,12 @@
             {
               "id": "4042",
               "image": "Image/UI/AttrUI/mianju/caishenniang4.png",
+              "desc": "HIW新岁已至，爆竹声中财神到，出门见喜神笑",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7886,10 +8316,12 @@
             {
               "id": "1034",
               "image": "Image/UI/AttrUI/mianju/nianshou.png",
+              "desc": "HIW头长尖角，尖牙利齿，目露凶光，凶猛异常。相传，每到除夕，它便从身居的海底冲上天际，踏着燃烧的火云降临人间，所到之处生灵涂炭",
               "anim": "nianshou",
               "animFolder": "nianshou",
               "effect": "",
               "border": "10009",
+              "borderImage": "Image/UI/AttrUI/frame/border-black-hollow.png",
               "useImageBackdrop": false
             }
           ]
@@ -7926,10 +8358,12 @@
             {
               "id": "126",
               "image": "Image/UI/AttrUI/mianju/huhushengwei.png",
+              "desc": "HIW宛如一幅绝美的画卷，远山近林白云绕，孤桥侠影现山君。不经意间流露出江湖侠客的孤寂与傲气，试问谁人不想置身江湖，书写一方波澜壮阔的佳话世代流传",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -7966,10 +8400,12 @@
             {
               "id": "127",
               "image": "Image/UI/AttrUI/mianju/gui.png",
+              "desc": "HIW英俊潇洒，一席墨衣清新俊逸。他本是一代大侠，也曾成就无数佳话，不知何由，隐匿江湖。今他执剑归来，虽经历岁月沧桑，但依旧风流倜傥",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8006,10 +8442,12 @@
             {
               "id": "1035",
               "image": "Image/UI/AttrUI/mianju/heishishangren.png",
+              "desc": "HIW平平无奇，普普通通，但周身诡秘的气质却叫人无法忽视，即使身处攘攘闹市、茫茫人海中也能叫人一眼找到",
               "anim": "heishishangren",
               "animFolder": "heishishangren",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8048,10 +8486,12 @@
             {
               "id": "1036",
               "image": "Image/UI/AttrUI/mianju/baijianfeng.png",
+              "desc": "HIW聘婷秀雅，螓首蛾眉。似手中利剑般凌厉，又似远山般内敛沉稳，让人一见难忘",
               "anim": "baijianfeng",
               "animFolder": "baijianfeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8090,19 +8530,23 @@
             {
               "id": "2097",
               "image": "Image/UI/AttrUI/mianju/qiuyuebai.png",
+              "desc": "HIW杏眼桃腮，明眸善睐。脸上总带着温婉的笑意，颇为惹人怜爱",
               "anim": "qiuyuebai",
               "animFolder": "qiuyue",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2098",
               "image": "Image/UI/AttrUI/mianju/qiuyuewan.png",
+              "desc": "HIW肌肤惨白，仁黑瞳红。脸上挂着森冷的笑意，像那阴凉的池水，让人冷到了骨子里",
               "anim": "qiuyuewan",
               "animFolder": "qiuyue",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8141,10 +8585,12 @@
             {
               "id": "4043",
               "image": "Image/UI/AttrUI/mianju/gouyunying.png",
+              "desc": "HIW潇洒英俊，剑眉星眸，全身不带一丝凡俗之气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8155,10 +8601,12 @@
             {
               "id": "4044",
               "image": "Image/UI/AttrUI/mianju/gouyunying2.png",
+              "desc": "HIW潇洒英俊，剑眉星眸，全身不带一丝凡俗之气。手执翠笛立于亭台楼宇之间，尽显文人雅士之风韵",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8169,10 +8617,12 @@
             {
               "id": "4045",
               "image": "Image/UI/AttrUI/mianju/gouyunying2.png",
+              "desc": "HIW潇洒英俊，剑眉星眸，全身不带一丝凡俗之气。手执翠笛立于亭台楼宇之间，尽显文人雅士之风韵。翠笛音韵清亮悠远，入耳不由心神一静，洗尽尘俗，曲调如松涛阵阵，万壑风生",
               "anim": "gouyunying",
               "animFolder": "gouyunying",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8209,10 +8659,12 @@
             {
               "id": "4046",
               "image": "Image/UI/AttrUI/mianju/baipi.png",
+              "desc": "HIW心醇气和，虽衣着将军服样，但却显得憨态可掬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8223,10 +8675,12 @@
             {
               "id": "4047",
               "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "desc": "HIW心醇气和，虽衣着将军服样，但却显得憨态可掬。终日漫步于竹林之中，以竹萌为食，好生逍遥自在",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8237,10 +8691,12 @@
             {
               "id": "4048",
               "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "desc": "HIW心醇气和，虽衣着将军服样，但却显得憨态可掬。终日漫步于竹林之中，以竹萌为食，好生自在逍遥。此般食之自然，饮之自然，逍遥快活的生活，曾让众多饱受江湖风雨的侠客乃至枭雄都羡煞不已",
               "anim": "baipi",
               "animFolder": "baipi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8251,10 +8707,12 @@
             {
               "id": "4049",
               "image": "Image/UI/AttrUI/mianju/baipi2.png",
+              "desc": "HIW心醇气和，虽衣着将军服样，但却显得憨态可掬。终日漫步于竹林之中，以竹萌为食，好生自在逍遥。此般食之自然，饮之自然，逍遥快活的生活，曾让众多历尽无数江湖风雨的侠客乃至枭雄都羡煞不已",
               "anim": "baipi",
               "animFolder": "baipi",
               "effect": "",
               "border": "10011",
+              "borderImage": "Image/UI/AttrUI/frame/border-green-bamboo.png",
               "useImageBackdrop": false
             }
           ]
@@ -8291,10 +8749,12 @@
             {
               "id": "1037",
               "image": "Image/UI/AttrUI/mianju/mutong.png",
+              "desc": "HIW眉清目秀，天真可爱，身穿蓑衣坐于黄牛背上，样子甚是怡然",
               "anim": "mutong",
               "animFolder": "mutong",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8331,10 +8791,12 @@
             {
               "id": "4050",
               "image": "Image/UI/AttrUI/mianju/chenziyu.png",
+              "desc": "HIW面如冠玉，相貌堂堂，双目如寒光利剑，令人胆寒",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8345,10 +8807,12 @@
             {
               "id": "4051",
               "image": "Image/UI/AttrUI/mianju/chenziyu2.png",
+              "desc": "HIW面如冠玉，相貌堂堂，双目如寒光利剑，令人胆寒。身居山林，红叶相伴，亭台楼宇尽显逍遥洒脱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8359,10 +8823,12 @@
             {
               "id": "4052",
               "image": "Image/UI/AttrUI/mianju/chenziyu2.png",
+              "desc": "HIW面如冠玉，相貌堂堂，双目如寒光利剑，令人胆寒。身居山林，红叶相伴，亭台楼宇尽显逍遥洒脱。虽武功高强，但此般隐世之乐试问江湖中人谁人不喜，又有何人不盼",
               "anim": "chenziyu",
               "animFolder": "chenziyu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8399,10 +8865,12 @@
             {
               "id": "1038",
               "image": "Image/UI/AttrUI/mianju/liuqianqian.png",
+              "desc": "HIW温文尔雅，秀外慧中，目若秋水，动人传情。长发迎风飘动，好似甘泉玉露倾泻而下，一袭浅衣彰显清雅。身嵌丛花之中飘然灵动，薄唇微动气若幽兰，颈前佩戴金丝花坠，平添了一份淡雅之气",
               "anim": "liuqianqian",
               "animFolder": "liuqianqian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8439,10 +8907,12 @@
             {
               "id": "1039",
               "image": "Image/UI/AttrUI/mianju/zuixian.png",
+              "desc": "HIW眉如剑锋，目如朗星，一身蓝衣清新俊逸。春风暖阳，翠竹悠悠，美景亦醉人。一口烈酒饮入喉，不惧前路哀愁，潇洒出尘埃",
               "anim": "zuixian",
               "animFolder": "zuixian",
               "effect": "",
               "border": "10012",
+              "borderImage": "Image/UI/AttrUI/frame/border-blue-wave.png",
               "useImageBackdrop": false
             }
           ]
@@ -8479,10 +8949,12 @@
             {
               "id": "4053",
               "image": "Image/UI/AttrUI/mianju/liuruyan.png",
+              "desc": "HIW山眉水眼，桃羞杏让",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8493,10 +8965,12 @@
             {
               "id": "4054",
               "image": "Image/UI/AttrUI/mianju/liuruyan2.png",
+              "desc": "HIW山眉水眼，桃羞杏让。眼中又是怜惜又是羞涩",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8507,10 +8981,12 @@
             {
               "id": "4055",
               "image": "Image/UI/AttrUI/mianju/liuruyan2.png",
+              "desc": "HIW山眉水眼，桃羞杏让。眼中又是怜惜又是羞涩。芊芊玉指轻捻霜英，花瓣迎风飞舞游转山涧楼影。此景，寄情山水",
               "anim": "liuruyan",
               "animFolder": "liuruyan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8547,10 +9023,12 @@
             {
               "id": "1040",
               "image": "Image/UI/AttrUI/mianju/qulingjun.png",
+              "desc": "HIW精神矍铄，双眼深邃明亮，仿若黑夜之中的明星，燃尽微薄之力，点亮那星点之地。高余冠之岌岌兮，常余佩之陆离。芳与泽其杂糅兮，唯昭质其犹未亏。虽体解吾犹未变兮，岂余心之可惩",
               "anim": "qulingjun",
               "animFolder": "qulingjun",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8587,10 +9065,12 @@
             {
               "id": "1041",
               "image": "Image/UI/AttrUI/mianju/liumuyan.png",
+              "desc": "HIW明眸皓齿，朱唇玉面。粲然一笑，恍如春阳明媚动人。手如柔荑，轻托香腮。美眸之中满是灵动，仿若可洞悉一切",
               "anim": "liumuyanchongzhi",
               "animFolder": "liumuyan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8627,10 +9107,12 @@
             {
               "id": "4056",
               "image": "Image/UI/AttrUI/mianju/liususu.png",
+              "desc": "WHT蛾眉曼睩，粉面朱唇，雾髯云鬟，冰肌玉骨",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8641,10 +9123,12 @@
             {
               "id": "4057",
               "image": "Image/UI/AttrUI/mianju/liususu2.png",
+              "desc": "WHT蛾眉曼睩，粉面朱唇，雾髯云鬟，冰肌玉骨。一袭粉衣如寒冬中盛放的梅花，坚毅、傲气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8655,10 +9139,12 @@
             {
               "id": "4058",
               "image": "Image/UI/AttrUI/mianju/liususu2.png",
+              "desc": "WHT蛾眉曼睩，粉面朱唇，雾髯云鬟，冰肌玉骨。一袭粉衣如寒冬中盛放的梅花，坚毅、傲气。可谓寒霜冬，万花落，天地素，朱梅芳",
               "anim": "liususu",
               "animFolder": "liususu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8695,10 +9181,12 @@
             {
               "id": "128",
               "image": "Image/UI/AttrUI/mianju/lanxi.png",
+              "desc": "WHT仙姿佚貌，闭月羞花。靥笑春桃兮，翠髻流芳。一袭飒爽黑衣，手持黑纸朱纹折扇，尽显高雅沉稳",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8735,10 +9223,12 @@
             {
               "id": "129",
               "image": "Image/UI/AttrUI/mianju/liuqianwen.png",
+              "desc": "HIW温柔可人，秀而不媚。一袭青丝以金蝶发簪盘于头顶，柳眉之下一双星眸秋波盈盈，饱含柔情。正可谓是静时如花照水，行时如柳扶风，朱唇微勾，恰如芙蓉初绽",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8775,10 +9265,12 @@
             {
               "id": "1042",
               "image": "Image/UI/AttrUI/mianju/yunyimeng.png",
+              "desc": "HIW仙姿玉色，冰清玉洁。一袭长发似与千秋百载为伴，不见玄青。翠微宵雯与之相映，似有仙风道骨之意、超尘绝俗之感，双眸之中灵气涌动，可谓瞬美目以流眄,含言笑而不分",
               "anim": "qianqiudaoren",
               "animFolder": "qianqiudaoren",
               "effect": "",
               "border": "10013",
+              "borderImage": "Image/UI/AttrUI/frame/black-gold-cloud.png",
               "useImageBackdrop": false
             }
           ]
@@ -8815,19 +9307,23 @@
             {
               "id": "2099",
               "image": "Image/UI/AttrUI/mianju/zhenrongbai.png",
+              "desc": "HIW整整截截，偢然不乐。一袭袈裟尽显庄重，他总是紧闭双目，高深莫测，没人知道他在思考什么，而在其他弟子眼中，他不怒自威，让人生畏",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "2100",
               "image": "Image/UI/AttrUI/mianju/zhenrongwan.png",
+              "desc": "HIW黑纱遮面，看不清长相。尽管他包裹森严也难挡双眼中流露出的杀意凶光，手中寒铁节鞭在黑夜中散发着莹莹幽光",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8864,10 +9360,12 @@
             {
               "id": "4059",
               "image": "Image/UI/AttrUI/mianju/xiunv.png",
+              "desc": "WHT好似出水芙蓉，聘婷秀雅。如墨云鬓，青白衣裙，粉妆淡抹，珠钗未簪，朴素无华却也素雅清透",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8878,10 +9376,12 @@
             {
               "id": "4060",
               "image": "Image/UI/AttrUI/mianju/xiunv2.png",
+              "desc": "WHT好似出水芙蓉，聘婷秀雅。如墨云鬓，青白衣裙，粉妆淡抹，珠钗未簪，朴素无华却也素雅清透。芊芊玉手轻捻银针，于绣盘之上翩翩起舞",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8892,10 +9392,12 @@
             {
               "id": "4061",
               "image": "Image/UI/AttrUI/mianju/xiunv2.png",
+              "desc": "WHT好似出水芙蓉，聘婷秀雅。如墨云鬓，青白衣裙，粉妆淡抹，珠钗未簪，朴素无华却也素雅清透。芊芊玉手轻捻银针，于绣盘之上翩翩起舞。微风拂动轻纱云鬓，叫人心似湖水起涟漪，可谓是：镜湖美景映佳人，绣盘之中蕴乾坤",
               "anim": "xiunv",
               "animFolder": "xiunv",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8932,10 +9434,12 @@
             {
               "id": "1043",
               "image": "Image/UI/AttrUI/mianju/jianghulangke.png",
+              "desc": "WHT一脸英气，风姿潇洒。脸上刀疤狰狞，目光逼人，手中宝刀寒光闪闪，叫人胆寒。他一生漂泊，四海为家，也难以掩盖他身上的狠厉不屈",
               "anim": "jianghulangke",
               "animFolder": "jianghulangke",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -8972,10 +9476,12 @@
             {
               "id": "130",
               "image": "Image/UI/AttrUI/mianju/chutong.png",
+              "desc": "HIW娇小玲珑又古灵精怪，对所有事物都充满好奇，常常偷跑外出，也常常被师姐抓回，捏着俏脸教训一番",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9012,10 +9518,12 @@
             {
               "id": "1044",
               "image": "Image/UI/AttrUI/mianju/nieqianqian.png",
+              "desc": "WHT秀外慧中，仪态万方。对镜梳妆的是温婉淑良的千金小姐，亦是为人所害，怨气不平，难入轮回的可怖厉鬼。只问那明镜是否映下真相，好叫她将所受之苦一一还报",
               "anim": "nieqianqian",
               "animFolder": "nieqianqian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9052,10 +9560,12 @@
             {
               "id": "1045",
               "image": "Image/UI/AttrUI/mianju/duoqinglangke.png",
+              "desc": "WHT玉树临风，潇洒沉着，心胸宽厚包容，无一刻不在关心他人，是一个充满诗人气质的浪子游侠。他的飞刀冠绝天下，出手一刀，绝无虚发",
               "anim": "duoqinglangke",
               "animFolder": "duoqinglangke",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9092,10 +9602,12 @@
             {
               "id": "1046",
               "image": "Image/UI/AttrUI/mianju/tianjilaoren.png",
+              "desc": "WHT仙风道骨，虽已是花甲之年，但仍然神采奕奕。身怀绝学，博古通今，却不求名利。江湖漂泊数十载，但求一笔一书一酒一破席",
               "anim": "tianjilaoren",
               "animFolder": "tianjilaoren",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9134,10 +9646,12 @@
             {
               "id": "4062",
               "image": "Image/UI/AttrUI/mianju/huangdi.png",
+              "desc": "WHT剑眉风眼，着龙袍冕冠，不怒自威",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9148,10 +9662,12 @@
             {
               "id": "4063",
               "image": "Image/UI/AttrUI/mianju/huangdi2.png",
+              "desc": "WHT剑眉风眼，着龙袍冕冠，不怒自威。他只坐于龙椅之上，便已是龙威浩荡，睥睨天下之势",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9162,10 +9678,12 @@
             {
               "id": "4064",
               "image": "Image/UI/AttrUI/mianju/huangdi2.png",
+              "desc": "WHT剑眉风眼，着龙袍冕冠，不怒自威。他只坐于龙椅之上，便已是龙威浩荡，睥睨天下之势。这天下是他的棋盘，万物皆是他的棋子，朝堂上下皆在他的掌控之中",
               "anim": "huangdi",
               "animFolder": "huangdi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9204,10 +9722,12 @@
             {
               "id": "131",
               "image": "Image/UI/AttrUI/mianju/wumingjianke.png",
+              "desc": "HIW英姿飒爽，持剑而立，不掩一身傲气，誓要登顶巅峰，睥睨武林",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9246,10 +9766,12 @@
             {
               "id": "1047",
               "image": "Image/UI/AttrUI/mianju/wuliuxiansheng.png",
+              "desc": "WHT温文尔雅，飘逸脱俗，似南山悠然，也似节华清傲。曾有猛志逸四海，漂泊过半生，终是性本爱丘山，隐于南山下",
               "anim": "wuliuxiansheng",
               "animFolder": "wuliuxiansheng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9286,10 +9808,12 @@
             {
               "id": "1048",
               "image": "Image/UI/AttrUI/mianju/huaxianzi.png",
+              "desc": "WHT肤如凝脂，玉指如葱，按弦轻勾，清音悠韵伴烟云缥缈。轻纱之下，风姿绰约，清雅不入尘。是为蔷薇白玉堂，不似野客枝娇艳，色白如霜，暗自香",
               "anim": "huaxianzi",
               "animFolder": "huaxianzi",
               "effect": "",
               "border": "10015",
+              "borderImage": "Image/UI/AttrUI/frame/pink-blue-flower.png",
               "useImageBackdrop": false
             }
           ]
@@ -9326,10 +9850,12 @@
             {
               "id": "1049",
               "image": "Image/UI/AttrUI/mianju/miaoshi.png",
+              "desc": "WHT虎背熊腰，豪放不羁。虽已是满头银发，垂暮之年，但白发红颜，不见老态，仍可拔山举鼎，力战四方",
               "anim": "miaoshi",
               "animFolder": "miaoshi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9366,10 +9892,12 @@
             {
               "id": "1050",
               "image": "Image/UI/AttrUI/mianju/zhangyue.png",
+              "desc": "WHT远山眉，剪水瞳，简衣花发，素而无华。自幼年得入杏林院，从此只为疾者忧",
               "anim": "zhangyue",
               "animFolder": "zhangyue",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9406,10 +9934,12 @@
             {
               "id": "1051",
               "image": "Image/UI/AttrUI/mianju/qinliu.png",
+              "desc": "WHT庞眉皓发，倜傥不羁。爪利如锋，目如鹰瞵，一眼似能看尽你心中所思，叫人望而生畏",
               "anim": "qinliu",
               "animFolder": "qinliu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9446,10 +9976,12 @@
             {
               "id": "4065",
               "image": "Image/UI/AttrUI/mianju/miaofeng.png",
+              "desc": "WHT龙骧虎步，不怒自威",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9460,10 +9992,12 @@
             {
               "id": "4066",
               "image": "Image/UI/AttrUI/mianju/miaofeng2.png",
+              "desc": "WHT龙骧虎步，不怒自威。于深山密林中，亦可行步如风",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9474,10 +10008,12 @@
             {
               "id": "4067",
               "image": "Image/UI/AttrUI/mianju/miaofeng2.png",
+              "desc": "WHT龙骧虎步，不怒自威。于深山密林中，亦可行步如风。素来猛烈如骤风，也有亲和之势护左右",
               "anim": "miaofeng",
               "animFolder": "miaofeng",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9514,10 +10050,12 @@
             {
               "id": "4068",
               "image": "Image/UI/AttrUI/mianju/miaoyun.png",
+              "desc": "WHT如远山芙蓉，清丽秀雅",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9528,10 +10066,12 @@
             {
               "id": "4069",
               "image": "Image/UI/AttrUI/mianju/miaoyun2.png",
+              "desc": "WHT如远山芙蓉，清丽秀雅。向来不求名利，朝乾夕惕，克尽厥职",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9542,10 +10082,12 @@
             {
               "id": "4070",
               "image": "Image/UI/AttrUI/mianju/miaoyun2.png",
+              "desc": "WHT如远山芙蓉，清丽秀雅。向来不求名利，朝乾夕惕，克尽厥职。即使已是更深人静，仍手不释卷，操劳事务",
               "anim": "miaoyun",
               "animFolder": "miaoyun",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9582,10 +10124,12 @@
             {
               "id": "4071",
               "image": "Image/UI/AttrUI/mianju/gongsunyi.png",
+              "desc": "WHT倜傥风流，负不羁之才",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9596,10 +10140,12 @@
             {
               "id": "4072",
               "image": "Image/UI/AttrUI/mianju/gongsunyi2.png",
+              "desc": "WHT倜傥风流，负不羁之才。遥望青天，皎如玉树临风前",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9610,10 +10156,12 @@
             {
               "id": "4073",
               "image": "Image/UI/AttrUI/mianju/gongsunyi2.png",
+              "desc": "WHT倜傥风流，负不羁之才。遥望青天，皎如玉树临风前。风潇雨晦，不改其乐，依旧潇洒自若",
               "anim": "gongsunyi",
               "animFolder": "gongsunyi",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9650,10 +10198,12 @@
             {
               "id": "132",
               "image": "Image/UI/AttrUI/mianju/tuerye.png",
+              "desc": "HIW兔首人身，披盔甲，贴金泥，祛毒祛疫，守一方平安，祈团圆吉祥",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9690,10 +10240,12 @@
             {
               "id": "4074",
               "image": "Image/UI/AttrUI/mianju/lizhannanami.png",
+              "desc": "WHT英姿飒爽，我武惟扬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9704,10 +10256,12 @@
             {
               "id": "4075",
               "image": "Image/UI/AttrUI/mianju/lizhannanami2.png",
+              "desc": "WHT英姿飒爽，我武惟扬。即使大敌当前，亦是优游自若，了无惧色",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9718,10 +10272,12 @@
             {
               "id": "4076",
               "image": "Image/UI/AttrUI/mianju/lizhannanami3.png",
+              "desc": "WHT英姿飒爽，我武惟扬。即使大敌当前，亦是优游自若，了无惧色",
               "anim": "lizhannanami3",
               "animFolder": "lizhannanami",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9732,10 +10288,12 @@
             {
               "id": "4077",
               "image": "Image/UI/AttrUI/mianju/lizhannanami4.png",
+              "desc": "WHT英姿飒爽，我武惟扬。即使大敌当前，亦是优游自若，了无惧色。横戈跃马，犹如猛虎离山，万夫不当",
               "anim": "lizhannanami4",
               "animFolder": "lizhannanami",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9746,10 +10304,12 @@
             {
               "id": "4078",
               "image": "Image/UI/AttrUI/mianju/lizhannanami4.png",
+              "desc": "WHT英姿飒爽，我武惟扬。即使大敌当前，亦是优游自若，了无惧色。横戈跃马，犹如猛虎离山，万夫不当",
               "anim": "lizhannanami4",
               "animFolder": "lizhannanami",
               "effect": "",
               "border": "10016",
+              "borderImage": "Image/UI/AttrUI/frame/black-white-smoke.png",
               "useImageBackdrop": false
             }
           ]
@@ -9786,10 +10346,12 @@
             {
               "id": "133",
               "image": "Image/UI/AttrUI/mianju/yuanxiaoguniang.png",
+              "desc": "HIW如远山芙蓉，柔情绰态，华灯之下好似天宫仙娥。只望年年似今朝，月依旧，人依旧",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9826,10 +10388,12 @@
             {
               "id": "134",
               "image": "Image/UI/AttrUI/mianju/nvyi.png",
+              "desc": "HIW清新俊逸，娟好静秀。正是二月花朝节，百花盛，春光好，神女离仙洞，持花游尘间",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9866,10 +10430,12 @@
             {
               "id": "135",
               "image": "Image/UI/AttrUI/mianju/rongjin.png",
+              "desc": "HIW楚楚可人，宜嗔宜喜，宛如飞燕，身姿飞灵",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9906,10 +10472,12 @@
             {
               "id": "136",
               "image": "Image/UI/AttrUI/mianju/xuemuling.png",
+              "desc": "HIW神清骨秀，却没有半点乖巧温顺之感，颇有江湖豪杰之气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9946,10 +10514,12 @@
             {
               "id": "137",
               "image": "Image/UI/AttrUI/mianju/bieluoyuan.png",
+              "desc": "HIW清隽秀美，但眉梢紧锁，脸上似乎笼罩着一层阴霾，眼神幽深，叫人难以猜透",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -9986,10 +10556,12 @@
             {
               "id": "138",
               "image": "Image/UI/AttrUI/mianju/xiezihuai.png",
+              "desc": "HIW燕颔虎头，方刚血气，意气高昂，为人十分重情重义，但困于江湖之中，免不了许多的身不由己",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10026,10 +10598,12 @@
             {
               "id": "139",
               "image": "Image/UI/AttrUI/mianju/anyunxiao.png",
+              "desc": "HIW虎体熊腰，须眉浓密，看着是豪放不羁之人，但眼神却深邃非常",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10066,10 +10640,12 @@
             {
               "id": "140",
               "image": "Image/UI/AttrUI/mianju/sanshaoye.png",
+              "desc": "HIW剑眉星目，只是静静站着便能看出他气宇不凡。身负盛名，肩负重任，他心中所想已不重要，他需要往前走，也只能往前走",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10106,10 +10682,12 @@
             {
               "id": "141",
               "image": "Image/UI/AttrUI/mianju/linguniang.png",
+              "desc": "HIW小巧玲珑，眉眼如画，西子捧心，愈增其妍，任谁见了都难掩怜爱。她当是金枝玉叶，却似雪中红梅，雪压霜欺仍不败，犹傲枝头",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10146,10 +10724,12 @@
             {
               "id": "4079",
               "image": "Image/UI/AttrUI/mianju/choumuzhong.png",
+              "desc": "WHT神清骨秀，温文尔雅，笑起来时常让人感觉如沐春风",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10160,10 +10740,12 @@
             {
               "id": "4080",
               "image": "Image/UI/AttrUI/mianju/choumuzhong2.png",
+              "desc": "WHT孤傲不群，面容虽被面具遮盖，但露出的眼眸却如虎视鹰瞵，叫人胆寒",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10174,10 +10756,12 @@
             {
               "id": "4081",
               "image": "Image/UI/AttrUI/mianju/choumuzhong3.png",
+              "desc": "WHT横眉立目，面目狰狞，毁得掉容貌，毁不掉切骨之仇和勃勃雄心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10188,10 +10772,12 @@
             {
               "id": "4082",
               "image": "Image/UI/AttrUI/mianju/choumuzhong3.png",
+              "desc": "WHT雄姿英发，本是如玉的翩翩公子，却自毁容颜，化身凶煞之徒。是因一生命途多舛，或是至亲背叛。但胜者为王败者寇，只要登顶作雄豪，他人如何评说皆是匹夫怨语",
               "anim": "choumuzhong",
               "animFolder": "choumuzhong",
               "effect": "",
               "border": "10019",
+              "borderImage": "Image/UI/AttrUI/frame/silver-cyan-mask.png",
               "useImageBackdrop": false
             }
           ]
@@ -10228,10 +10814,12 @@
             {
               "id": "142",
               "image": "Image/UI/AttrUI/mianju/chuniang.png",
+              "desc": "HIW朱唇蛾眉，芳姿清扬。她厨艺是一等一的好，做菜百成，随手烹调，便可叫人回味无穷",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10268,10 +10856,12 @@
             {
               "id": "143",
               "image": "Image/UI/AttrUI/mianju/busuanzi.png",
+              "desc": "HIW獐头鼠目，蓄着一把山羊胡，好一副撒诈捣虚的模样。只道是皮相易见，骨相难见，算天算地，算古算明，算不得的是人心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10308,10 +10898,12 @@
             {
               "id": "4083",
               "image": "Image/UI/AttrUI/mianju/shemubai.png",
+              "desc": "WHT神清骨秀，善气迎人，好似那巫山神女",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10322,10 +10914,12 @@
             {
               "id": "4084",
               "image": "Image/UI/AttrUI/mianju/shemuye.png",
+              "desc": "WHT丰姿冶丽，目里淬毒，宛如那蛇蝎妖女",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10336,19 +10930,23 @@
             {
               "id": "4085",
               "image": "Image/UI/AttrUI/mianju/shemubai2.png",
+              "desc": "WHT眉目如画，丰姿绰约。她本该是蔼然仁者，奈何人心惟危，困于诡计樊笼，终是叫蛇蝎入心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "4086",
               "image": "Image/UI/AttrUI/mianju/shemuye2.png",
+              "desc": "WHT眉目如画，丰姿绰约。她本该是蔼然仁者，奈何人心惟危，困于诡计樊笼，终是叫蛇蝎入心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10359,19 +10957,23 @@
             {
               "id": "4087",
               "image": "Image/UI/AttrUI/mianju/shemubai2.png",
+              "desc": "WHT眉目如画，丰姿绰约。她本该是蔼然仁者，奈何人心惟危，困于诡计樊笼，终是叫蛇蝎入心",
               "anim": "shemu1",
               "animFolder": "shemu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "4088",
               "image": "Image/UI/AttrUI/mianju/shemuye2.png",
+              "desc": "WHT眉目如画，丰姿绰约。她本该是蔼然仁者，奈何人心惟危，困于诡计樊笼，终是叫蛇蝎入心",
               "anim": "shemu2",
               "animFolder": "shemu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10408,10 +11010,12 @@
             {
               "id": "144",
               "image": "Image/UI/AttrUI/mianju/huanghou.png",
+              "desc": "HIW丰姿绰约,典则俊雅。她是尊贵的，亦是不自由的，她可以获得万物，唯独得不到心中最渴望的",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10448,10 +11052,12 @@
             {
               "id": "4089",
               "image": "Image/UI/AttrUI/mianju/yuezhongxian1.png",
+              "desc": "WHT朱唇一点，美目盈盈，犹如云天皓月，清莹秀澈",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10462,10 +11068,12 @@
             {
               "id": "4090",
               "image": "Image/UI/AttrUI/mianju/yuezhongxian2.png",
+              "desc": "WHT朱唇一点，美目盈盈，犹如云天皓月，清莹秀澈。怀抱玉兔，披罗戴翠，一颦一笑皆绝色，一言一行皆动人",
               "anim": "yuezhongxian",
               "animFolder": "yuezhongxian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10502,10 +11110,12 @@
             {
               "id": "145",
               "image": "Image/UI/AttrUI/mianju/hanyifeng2.png",
+              "desc": "HIW朗目疏眉，神采英拔，手中一尺寒光，人亦如剑凌厉，好一副拿风跃云之姿",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10542,10 +11152,12 @@
             {
               "id": "146",
               "image": "Image/UI/AttrUI/mianju/yuanbanfei.png",
+              "desc": "HIW朗目疏眉，英英玉立，满心侠义，却为身世所累，深陷囚笼。昨日已不可追，前路却不知何往",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10582,10 +11194,12 @@
             {
               "id": "147",
               "image": "Image/UI/AttrUI/mianju/muyanwei.png",
+              "desc": "HIW蛾眉曼睩,目腾光些，持剑而立，神采奕然。她绝非池中之物，该是展翅飞鸢，翱于天地",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10622,10 +11236,12 @@
             {
               "id": "148",
               "image": "Image/UI/AttrUI/mianju/waerta.png",
+              "desc": "HIW粗野疏狂，任达不羁，于他而言自由为尊，信义其次",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10662,10 +11278,12 @@
             {
               "id": "149",
               "image": "Image/UI/AttrUI/mianju/muyanhua.png",
+              "desc": "HIW神采英拔，玩世不羁，他自幼聪慧，武学手到拈来，机关、遁甲如运诸掌，自该是意气飞扬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10702,10 +11320,12 @@
             {
               "id": "150",
               "image": "Image/UI/AttrUI/mianju/yisheng.png",
+              "desc": "HIW鹤发松姿，但仍亲涉高山、深林采药，为医道鞠躬尽瘁，虽九死其犹未悔",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10742,10 +11362,12 @@
             {
               "id": "151",
               "image": "Image/UI/AttrUI/mianju/murongfuren.png",
+              "desc": "HIW妖姿艳丽，蓊若春华，见之不忘。初识柔情好似水，不知水下暗潮涌",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10782,10 +11404,12 @@
             {
               "id": "4091",
               "image": "Image/UI/AttrUI/mianju/lianqiao1.png",
+              "desc": "WHT俏皮可爱，正踮起脚尖张贴新福，对未来抱以祝福",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10796,10 +11420,12 @@
             {
               "id": "4092",
               "image": "Image/UI/AttrUI/mianju/lianqiao2.png",
+              "desc": "WHT俏皮可爱，百伶百俐，在新春之节更是心巧嘴乖",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10810,10 +11436,12 @@
             {
               "id": "4093",
               "image": "Image/UI/AttrUI/mianju/lianqiao3.png",
+              "desc": "WHT俏皮可爱，难掩淘气性子，被训斥后又格外会卖乖",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10824,10 +11452,12 @@
             {
               "id": "4094",
               "image": "Image/UI/AttrUI/mianju/lianqiao3.png",
+              "desc": "WHT俏皮可爱，知足常乐，一串糖葫芦便可叫她心满愿足",
               "anim": "lianqiao",
               "animFolder": "lianqiao",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10838,10 +11468,12 @@
             {
               "id": "4095",
               "image": "Image/UI/AttrUI/mianju/lianqiao4.png",
+              "desc": "WHT俏皮可爱，百种玲珑，双脸常含笑，一笑自生春",
               "anim": "lianqiao2",
               "animFolder": "lianqiao",
               "effect": "",
               "border": "10020",
+              "borderImage": "Image/UI/AttrUI/frame/red-dragon-mask.png",
               "useImageBackdrop": false
             }
           ]
@@ -10878,10 +11510,12 @@
             {
               "id": "4096",
               "image": "Image/UI/AttrUI/mianju/chenlong.png",
+              "desc": "WHT马首蛇身，鹿角狮鬃，身姿矫矫，威震四海，遨游八方，终非池中物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10892,10 +11526,12 @@
             {
               "id": "4097",
               "image": "Image/UI/AttrUI/mianju/chenlong2.png",
+              "desc": "WHT马首蛇身，鹿角狮鬃，身姿矫矫，威震四海，遨游八方，终非池中物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10932,10 +11568,12 @@
             {
               "id": "152",
               "image": "Image/UI/AttrUI/mianju/feishaoxia.png",
+              "desc": "HIW疏眉朗目，薄唇直鼻，长身鹤立若出鞘之剑。尘外孤标，倔强坚忍，无心于物，甚至无心于己",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -10972,10 +11610,12 @@
             {
               "id": "153",
               "image": "Image/UI/AttrUI/mianju/qiannv.png",
+              "desc": "HIW粉面朱唇，雾鬓云鬟，肌映流霞，端看好似画中人，不疑其鬼，疑为仙",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11012,10 +11652,12 @@
             {
               "id": "154",
               "image": "Image/UI/AttrUI/mianju/fu.png",
+              "desc": "HIW冷心冷面，自入永夜，前事尽忘，万物一般皆如尘，杀人如草不闻声",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11052,10 +11694,12 @@
             {
               "id": "155",
               "image": "Image/UI/AttrUI/mianju/shaonianxiake.png",
+              "desc": "HIW俊面明目，眸子曜曜，浩气英风。人如新刃初出，其气凛凛，其志扬扬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11092,10 +11736,12 @@
             {
               "id": "156",
               "image": "Image/UI/AttrUI/mianju/languniang.png",
+              "desc": "HIW眸黑如点漆，身姿多绰约，若山林之蝶，率性风流，素来形于言色，不屑隐匿其心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11132,10 +11778,12 @@
             {
               "id": "157",
               "image": "Image/UI/AttrUI/mianju/baijianiangzi.png",
+              "desc": "HIW面莹如玉，美目流盼，她白裙素钗静立湖畔，脱尘若仙，不似凡间客",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11172,10 +11820,12 @@
             {
               "id": "4098",
               "image": "Image/UI/AttrUI/mianju/baiyuanbai.png",
+              "desc": "WHT踔厉风发，步于林间，食果饮泉，山野灵物，好不潇洒自在",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11186,10 +11836,12 @@
             {
               "id": "4099",
               "image": "Image/UI/AttrUI/mianju/baiyuanye.png",
+              "desc": "WHT神闲气定，端得个大侠之范，本就生于天地，养于山野，本领天生天化，当是要自在随心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11200,19 +11852,23 @@
             {
               "id": "4100",
               "image": "Image/UI/AttrUI/mianju/baiyuanbai.png",
+              "desc": "WHT踔厉风发，步于林间，食果饮泉，山野灵物，好不潇洒自在",
               "anim": "baiyuan",
               "animFolder": "baiyuan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             },
             {
               "id": "4101",
               "image": "Image/UI/AttrUI/mianju/baiyuanye.png",
+              "desc": "WHT神闲气定，端得个大侠之范，本就生于天地，养于山野，本领天生天化，当是要自在随心",
               "anim": "baiyuanye",
               "animFolder": "baiyuan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11249,10 +11905,12 @@
             {
               "id": "158",
               "image": "Image/UI/AttrUI/mianju/xiedaxia.png",
+              "desc": "HIW魁伟异常，黄发被肩，一身粗服落拓不羁，手执四尺宝刀，威风凛凛好似神将",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11289,10 +11947,12 @@
             {
               "id": "4102",
               "image": "Image/UI/AttrUI/mianju/xiaying1.png",
+              "desc": "WHT昂藏七尺躯，一点浩然气",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11303,10 +11963,12 @@
             {
               "id": "4103",
               "image": "Image/UI/AttrUI/mianju/xiaying2.png",
+              "desc": "WHT昂藏七尺躯，一点浩然气。三尺切玉剑，临危不曾惧",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11317,10 +11979,12 @@
             {
               "id": "4104",
               "image": "Image/UI/AttrUI/mianju/xiaying3.png",
+              "desc": "WHT昂藏七尺躯，一点浩然气。三尺切玉剑，临危不曾惧。斩尽奸邪恶，扫尽不平事",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11331,10 +11995,12 @@
             {
               "id": "4105",
               "image": "Image/UI/AttrUI/mianju/xiaying4.png",
+              "desc": "WHT昂藏七尺躯，一点浩然气。三尺切玉剑，临危不曾惧。斩尽奸邪恶，扫尽不平事。剑光映明月，心无愧天地",
               "anim": "xiaying",
               "animFolder": "xiaying",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11345,10 +12011,12 @@
             {
               "id": "4106",
               "image": "Image/UI/AttrUI/mianju/xiaying4.png",
+              "desc": "WHT昂藏七尺躯，一点浩然气。三尺切玉剑，临危不曾惧。斩尽奸邪恶，扫尽不平事。剑光映明月，心无愧天地。身化清灵风，逍遥无拘束",
               "anim": "xiaying",
               "animFolder": "xiaying",
               "effect": "",
               "border": "10021",
+              "borderImage": "Image/UI/AttrUI/frame/black-gold-dart.png",
               "useImageBackdrop": false
             }
           ]
@@ -11385,10 +12053,12 @@
             {
               "id": "159",
               "image": "Image/UI/AttrUI/mianju/qinglianjushi.png",
+              "desc": "HIW神采英拔，潇洒清狂，一樽玉露醉人间，笑卧红尘诗百首，拔剑弄月戏飞星",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11425,10 +12095,12 @@
             {
               "id": "160",
               "image": "Image/UI/AttrUI/mianju/huapi.png",
+              "desc": "WHT色容艳姿美，巧笑尤甚画中仙。画眉画目难画骨，识人识面难识心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11465,10 +12137,12 @@
             {
               "id": "161",
               "image": "Image/UI/AttrUI/mianju/panguan.png",
+              "desc": "WHT身形如松，守正不阿。上赏善，下罚恶，一笔判生死，持至公无私之心，行至正公道之事",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11505,10 +12179,12 @@
             {
               "id": "4107",
               "image": "Image/UI/AttrUI/mianju/yuetu1.png",
+              "desc": "WHT皓齿明眸，憨态可掬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11519,10 +12195,12 @@
             {
               "id": "4108",
               "image": "Image/UI/AttrUI/mianju/yuetu2.png",
+              "desc": "WHT皓齿明眸，憨态可掬，见者皆称丽，莫不生怜",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11533,10 +12211,12 @@
             {
               "id": "4109",
               "image": "Image/UI/AttrUI/mianju/yuetu2.png",
+              "desc": "WHT皓齿明眸，憨态可掬，见者皆称丽，莫不生怜。本就是月宫仙灵，不染红尘，自是无忧，亦不需识月里思愁",
               "anim": "yutu",
               "animFolder": "yutu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11573,10 +12253,12 @@
             {
               "id": "162",
               "image": "Image/UI/AttrUI/mianju/longyuan.png",
+              "desc": "HIW眉目深邃，轩昂魁伟。本是山国将军，戍卫一方，奈何天命反侧，落得孑然一身，四海飘零",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11625,10 +12307,12 @@
             {
               "id": "163",
               "image": "Image/UI/AttrUI/mianju/yizu.png",
+              "desc": "HIW庞眉鹤发，岐黄之术冠绝一时，此生无所贪求，唯愿医理普济天下，解苍生病痛之厄",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11665,10 +12349,12 @@
             {
               "id": "164",
               "image": "Image/UI/AttrUI/mianju/jianwenshu.png",
+              "desc": "HIW温文儒雅，好个斯文君子，心知伶仃苦，虽微渺如燕雀，仍以薄羽庇孤儿",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11717,10 +12403,12 @@
             {
               "id": "4110",
               "image": "Image/UI/AttrUI/mianju/qianjibi1.png",
+              "desc": "WHT昂藏七尺，风骨峭峻",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11731,10 +12419,12 @@
             {
               "id": "4111",
               "image": "Image/UI/AttrUI/mianju/qianjibi3.png",
+              "desc": "WHT昂藏七尺，风骨峭峻。不喜争斗，不求名利，偏安一隅只求其技更进一步",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11745,10 +12435,12 @@
             {
               "id": "4112",
               "image": "Image/UI/AttrUI/mianju/qianjibi3.png",
+              "desc": "WHT昂藏七尺，风骨峭峻。不喜争斗，不求名利，偏安一隅只求其技更进一步。然怀璧其罪，世间从来风潇雨晦，前路吉凶难卜",
               "anim": "jiguanshu",
               "animFolder": "jiguanshu",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11797,10 +12489,12 @@
             {
               "id": "165",
               "image": "Image/UI/AttrUI/mianju/yunmuyan.png",
+              "desc": "HIW疏眉朗目，缄默少言，衣着简朴也掩不住其轩昂气度。血仇咽入腹，没身不忘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11849,10 +12543,12 @@
             {
               "id": "166",
               "image": "Image/UI/AttrUI/mianju/huagezi.png",
+              "desc": "HIW肤白莹如玉，色容多娇媚，体柳轻盈千万态，却是美人骨下蛇蝎心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11889,10 +12585,12 @@
             {
               "id": "4113",
               "image": "Image/UI/AttrUI/mianju/shangguanyao2.png",
+              "desc": "WHT姿容端丽，身态窈窕。玉颜未施粉，已是耀倾城",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11903,10 +12601,12 @@
             {
               "id": "4114",
               "image": "Image/UI/AttrUI/mianju/shangguanyao2.png",
+              "desc": "WHT姿容端丽，身态窈窕。玉颜未施粉，已是耀倾城。一袭锦缎华服，尽显尊荣之态",
               "anim": "shangguanyao3",
               "animFolder": "shangguanyao",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11917,10 +12617,12 @@
             {
               "id": "4115",
               "image": "Image/UI/AttrUI/mianju/shangguanyao3.png",
+              "desc": "WHT姿容端丽，身态窈窕。玉颜未施粉，已是耀倾城。一袭锦缎华服，尽显尊荣之态。坐拥天下财，一言一行皆傲然",
               "anim": "shangguanyao2",
               "animFolder": "shangguanyao",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -11931,10 +12633,12 @@
             {
               "id": "4116",
               "image": "Image/UI/AttrUI/mianju/shangguanyao3.png",
+              "desc": "WHT姿容端丽，身态窈窕。玉颜未施粉，已是耀倾城。一袭锦缎华服，尽显尊荣之态。坐拥天下财，一言一行皆傲然。洞察千般事，裁量万物价，皆在掌握",
               "anim": "shangguanyao2",
               "animFolder": "shangguanyao",
               "effect": "",
               "border": "10024",
+              "borderImage": "Image/UI/AttrUI/frame/goldred-cloud-mask.png",
               "useImageBackdrop": false
             }
           ]
@@ -11945,10 +12649,12 @@
             {
               "id": "4117",
               "image": "Image/UI/AttrUI/mianju/shangguanyao4.png",
+              "desc": "WHT姿容端丽，身态窈窕。玉颜未施粉，已是耀倾城。一袭锦缎华服，尽显尊荣之态。坐拥天下财，一言一行皆傲然。洞察千般事，裁量万物价，皆在掌握",
               "anim": "shangguanyao",
               "animFolder": "shangguanyao",
               "effect": "",
               "border": "10024",
+              "borderImage": "Image/UI/AttrUI/frame/goldred-cloud-mask.png",
               "useImageBackdrop": false
             }
           ]
@@ -11985,10 +12691,12 @@
             {
               "id": "167",
               "image": "Image/UI/AttrUI/mianju/lulinglong.png",
+              "desc": "HIW清丽绝伦，却似冰雕玉琢，眸如寒潭秋水，好若能洞察人心。红尘情爱已然抛却，一心追求武学极致，再无他物",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12025,10 +12733,12 @@
             {
               "id": "168",
               "image": "Image/UI/AttrUI/mianju/ouyangxiansheng.png",
+              "desc": "HIW高大嶙峋，一双鹰目寒光慑人，眉宇间凝着孤绝的煞气，不怒自威",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12065,10 +12775,12 @@
             {
               "id": "169",
               "image": "Image/UI/AttrUI/mianju/qigongzi.png",
+              "desc": "HIW眉清目朗，温润似玉。虽身处风谲云诡的江湖，却未有半分江湖的肃杀之气，好似一泓静水，心怀天地，豁达洒脱",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12105,10 +12817,12 @@
             {
               "id": "170",
               "image": "Image/UI/AttrUI/mianju/molinger.png",
+              "desc": "HIW清丽可人，眸如秋水，身姿如燕。她合该是最天真烂漫之人，似那山中雀儿，随心随性，不受纷扰",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12145,10 +12859,12 @@
             {
               "id": "171",
               "image": "Image/UI/AttrUI/mianju/mudanxian.png",
+              "desc": "HIW肤似莹玉白雪，目似秋水凝波，唇间一点朱砂色，姿容妍丽真绝色",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12185,10 +12901,12 @@
             {
               "id": "4118",
               "image": "Image/UI/AttrUI/mianju/xuanjibu.png",
+              "desc": "WHT龙骧虎步，浩气英风",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12199,10 +12917,12 @@
             {
               "id": "4119",
               "image": "Image/UI/AttrUI/mianju/xuanjibu2.png",
+              "desc": "WHT龙骧虎步，浩气英风。生性疏散，不羁于规",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12213,10 +12933,12 @@
             {
               "id": "4120",
               "image": "Image/UI/AttrUI/mianju/xuanjibu2.png",
+              "desc": "WHT龙骧虎步，浩气英风。生性疏散，不羁于规。遍历江湖，仿若游嬉",
               "anim": "jiguantui",
               "animFolder": "jiguantui",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12265,10 +12987,12 @@
             {
               "id": "172",
               "image": "Image/UI/AttrUI/mianju/yandaxia.png",
+              "desc": "HIW身若铁塔般巍然，性如燎原烈火，重诺似五岳不移，狂草书就半生风雪,尽彰不羁豪情",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12305,10 +13029,12 @@
             {
               "id": "173",
               "image": "Image/UI/AttrUI/mianju/monianqing.png",
+              "desc": "HIW宛若青竹临风而立，自有清峻轩昂之气。事事皆求尽善尽美，步步皆须无懈可击，即是自持风范，更为守师门威名",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12345,10 +13071,12 @@
             {
               "id": "4121",
               "image": "Image/UI/AttrUI/mianju/wujiangjun1.png",
+              "desc": "WHT身姿挺拔如松，双目深邃如炬",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12359,10 +13087,12 @@
             {
               "id": "4122",
               "image": "Image/UI/AttrUI/mianju/wujiangjun2.png",
+              "desc": "WHT身姿挺拔如松，双目深邃如炬。性刚烈而心果决，善谋能断，雷厉风行",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12373,10 +13103,12 @@
             {
               "id": "4123",
               "image": "Image/UI/AttrUI/mianju/wujiangjun2.png",
+              "desc": "WHT身形挺拔如松，双目深邃如炬。性刚烈而心果决，善谋能断，雷厉风行。生平以复仇为志，然不失忠臣之节，死谏忠君，尽其赤诚",
               "anim": "wujiangjun",
               "animFolder": "wujiangjun",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12413,10 +13145,12 @@
             {
               "id": "174",
               "image": "Image/UI/AttrUI/mianju/mingchangge.png",
+              "desc": "HIW身形挺秀，岿然如竹，一袭劲装利落，愈显英姿飒爽。生来爽朗明快，行止果决豪放，半点不输男儿",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12453,10 +13187,12 @@
             {
               "id": "4124",
               "image": "Image/UI/AttrUI/mianju/cangjue1.png",
+              "desc": "TEAL身长玉立，若青松映月",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12467,10 +13203,12 @@
             {
               "id": "4125",
               "image": "Image/UI/AttrUI/mianju/cangjue2.png",
+              "desc": "TEAL身长玉立，若青松映月。凤目澄澈似寒潭凝光，俯视尘寰，洞情彻物，万物难逃",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12481,10 +13219,12 @@
             {
               "id": "4126",
               "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "desc": "TEAL身长玉立，若青松映月。凤目澄澈似寒潭凝光，俯视尘寰，洞情彻物，万物难逃。羽衣蹁跹，广袖流云，威仪天成",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12495,10 +13235,12 @@
             {
               "id": "4127",
               "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "desc": "TEAL身长玉立，若青松映月。凤目澄澈似寒潭凝光，俯视尘寰，洞情彻物，万物难逃。羽衣蹁跹，广袖流云，威仪天成。旁有青龙盘旋，矫健多姿，鳞甲色若翠玉，光华内蕴",
               "anim": "cangjue4",
               "animFolder": "cangjue",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12509,10 +13251,12 @@
             {
               "id": "4128",
               "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "desc": "TEAL身长玉立，若青松映月。凤目澄澈似寒潭凝光，俯视尘寰，洞情彻物，万物难逃。羽衣蹁跹，广袖流云，威仪天成。旁有青龙盘旋，矫健多姿，鳞甲色若翠玉，光华内蕴。龙须轻扬，游形宛转，愈显其神圣不可近",
               "anim": "cangjue5",
               "animFolder": "cangjue",
               "effect": "",
               "border": "10026",
+              "borderImage": "Image/UI/AttrUI/frame/green-east-dragon.png",
               "useImageBackdrop": false
             }
           ]
@@ -12523,10 +13267,12 @@
             {
               "id": "4129",
               "image": "Image/UI/AttrUI/mianju/cangjue3.png",
+              "desc": "TEAL身长玉立，若青松映月。凤目澄澈似寒潭凝光，俯视尘寰，洞情彻物，万物难逃。羽衣蹁跹，广袖流云，威仪天成。旁有青龙盘旋，矫健多姿，鳞甲色若翠玉，光华内蕴。龙须轻扬，游形宛转，愈显其神圣不可近",
               "anim": "cangjue6",
               "animFolder": "cangjue",
               "effect": "",
               "border": "10026",
+              "borderImage": "Image/UI/AttrUI/frame/green-east-dragon.png",
               "useImageBackdrop": false
             }
           ]
@@ -12563,10 +13309,12 @@
             {
               "id": "4130",
               "image": "Image/UI/AttrUI/mianju/xiangyangdaoren.png",
+              "desc": "WAT鹤骨松姿，颔下银须似垂云",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12577,10 +13325,12 @@
             {
               "id": "4131",
               "image": "Image/UI/AttrUI/mianju/xiangyangdaoren2.png",
+              "desc": "WAT鹤骨松姿，颔下银须似垂云。衣袂飘飘，颇有出尘之姿",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12591,10 +13341,12 @@
             {
               "id": "4132",
               "image": "Image/UI/AttrUI/mianju/xiangyangdaoren2.png",
+              "desc": "WAT鹤骨松姿，颔下银须似垂云。衣袂飘飘，颇有出尘之姿。深居山林，终日醉心于岐黄妙术，只为道与逍遥",
               "anim": "xiangyangdaoren",
               "animFolder": "xiangyangdaoren",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12631,10 +13383,12 @@
             {
               "id": "175",
               "image": "Image/UI/AttrUI/mianju/tangyuanyuan.png",
+              "desc": "XGR星眸明媚，唇如朱丹，长发利落地束起，带着几分娇蛮和锐气。性泼辣而爽直，爱憎分明，江湖侠女也",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12671,10 +13425,12 @@
             {
               "id": "4133",
               "image": "Image/UI/AttrUI/mianju/queling.png",
+              "desc": "LSB人若梨花，沾雪透荧光",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12685,10 +13441,12 @@
             {
               "id": "4134",
               "image": "Image/UI/AttrUI/mianju/queling2.png",
+              "desc": "LSB人若梨花，沾雪透荧光。貌若点彩，盛开绽笑颜",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12699,10 +13457,12 @@
             {
               "id": "4135",
               "image": "Image/UI/AttrUI/mianju/queling2.png",
+              "desc": "LSB人若梨花，沾雪透荧光。貌若点彩，盛开绽笑颜。眸似秋水盈星辉，俏如三月春风，目中情意绵绵，顾盼间动人心弦",
               "anim": "lingque",
               "animFolder": "lingque",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12739,10 +13499,12 @@
             {
               "id": "176",
               "image": "Image/UI/AttrUI/mianju/feijiang.png",
+              "desc": "YEL身长七尺，猿臂蜂腰，目若朗星，顾盼间自有威棱。性沉毅，寡言语，然爱兵如子，每战必先。虽屡经险厄，未尝稍挫其志，弓马随身，至死不休",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12779,10 +13541,12 @@
             {
               "id": "4136",
               "image": "Image/UI/AttrUI/mianju/yuanyuan.png",
+              "desc": "CYN青羽檀骨，瞳若琥珀",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12793,10 +13557,12 @@
             {
               "id": "4137",
               "image": "Image/UI/AttrUI/mianju/yuanyuan2.png",
+              "desc": "CYN青羽檀骨，瞳若琥珀。静时似春风拂柳，动时如纸鸢纷飞",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12807,10 +13573,12 @@
             {
               "id": "4138",
               "image": "Image/UI/AttrUI/mianju/yuanyuan2.png",
+              "desc": "CYN青羽檀骨，瞳若琥珀。静时似春风拂柳，动时如纸鸢纷飞。其姿婉兮，其神逸兮，月下翩翩，似嫦娥奔月，回首婉转，若仙舞人间",
               "anim": "yuanyuan",
               "animFolder": "yuanyuan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12847,10 +13615,12 @@
             {
               "id": "4139",
               "image": "Image/UI/AttrUI/mianju/hengshukai.png",
+              "desc": "ORA万象衡枢，窥天寻道",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12861,10 +13631,12 @@
             {
               "id": "4140",
               "image": "Image/UI/AttrUI/mianju/hengshukai2.png",
+              "desc": "ORA万象衡枢，窥天寻道。百折不挠，恒古不破",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12875,10 +13647,12 @@
             {
               "id": "4141",
               "image": "Image/UI/AttrUI/mianju/hengshukai2.png",
+              "desc": "ORA万象衡枢，窥天寻道。百折不挠，恒古不破。占天而卜地，寻古而知近，固今昔以抵千变，铸造化以衍璇权",
               "anim": "jiguanhujia",
               "animFolder": "jiguanhujia",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12927,10 +13701,12 @@
             {
               "id": "177",
               "image": "Image/UI/AttrUI/mianju/zhangshaoxia.png",
+              "desc": "BLU俊朗清癯，不拘一格，侠义满怀，临危敢为。性纯厚而有侠骨，路见不平必出手",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -12979,10 +13755,12 @@
             {
               "id": "178",
               "image": "Image/UI/AttrUI/mianju/feizei.png",
+              "desc": "BLU无面无名，无姓无踪，一双丹凤眼，玩世不恭心。轻囊斜笠，专劫富济贫，智戏权贵，惩不仁不义",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13031,10 +13809,12 @@
             {
               "id": "179",
               "image": "Image/UI/AttrUI/mianju/lishixian.png",
+              "desc": "BLU诗中仙来酒中客，白衣仗剑逍遥游。诗成泣鬼，剑出惊鸿，醉里任侠，放浪江湖，好一个人间谪仙人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13083,10 +13863,12 @@
             {
               "id": "4142",
               "image": "Image/UI/AttrUI/mianju/zhencan.png",
+              "desc": "YEL面如璞玉，眉目清俊",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13097,10 +13879,12 @@
             {
               "id": "4143",
               "image": "Image/UI/AttrUI/mianju/zhencan2.png",
+              "desc": "YEL面如璞玉，眉目清俊。临事果敢坚毅，静时自带肃然禅意",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13111,10 +13895,12 @@
             {
               "id": "4144",
               "image": "Image/UI/AttrUI/mianju/zhencan2.png",
+              "desc": "YEL面如璞玉，眉目清俊。临事果敢坚毅，静时自带肃然禅意。眸底藏锋而不外漏，心怀大义而守本心，一身僧袍，更衬得风骨凛然",
               "anim": "zhensan",
               "animFolder": "zhensan",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13151,10 +13937,12 @@
             {
               "id": "180",
               "image": "Image/UI/AttrUI/mianju/wenlan.png",
+              "desc": "CYN笔底风波叹长歌，素衣携砚走山河。词成动岳，笔落惊涛，醉里题壁，谈笑江湖，一蓑烟雨任平生，仗义执言醉墨公",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13191,10 +13979,12 @@
             {
               "id": "181",
               "image": "Image/UI/AttrUI/mianju/aman.png",
+              "desc": "GRN银饰轻扬，步履如雀，无拘无束，慧心通透江湖事，只随山野本心行",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13231,10 +14021,12 @@
             {
               "id": "4145",
               "image": "Image/UI/AttrUI/mianju/baishuo.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13245,10 +14037,12 @@
             {
               "id": "4146",
               "image": "Image/UI/AttrUI/mianju/baishuo2.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖。虎目锐利如寒锋淬霜，睥睨疆场，斩恶诛邪，悍敌莫当",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13259,10 +14053,12 @@
             {
               "id": "4147",
               "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖。虎目锐利如寒锋淬霜，睥睨疆场，斩恶诛邪，悍敌莫当。素甲铮鸣，披风卷雪，杀气滔天",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13273,10 +14069,12 @@
             {
               "id": "4148",
               "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖。虎目锐利如寒锋淬霜，睥睨疆场，斩恶诛邪，悍敌莫当。素甲铮鸣，披风卷雪，杀气滔天。侧畔白虎昂首，雪毛映天光，利爪藏锋芒",
               "anim": "baishuo1",
               "animFolder": "baishuo",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13287,10 +14085,12 @@
             {
               "id": "4149",
               "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖。虎目锐利如寒锋淬霜，睥睨疆场，斩恶诛邪，悍敌莫当。素甲铮鸣，披风卷雪，杀气滔天。侧畔白虎昂首，雪毛映天光，利爪藏锋芒。虎啸一声，山河皆寂，更彰其傲骨铮铮，烈不可摧",
               "anim": "baishuo2",
               "animFolder": "baishuo",
               "effect": "",
               "border": "10027",
+              "borderImage": "Image/UI/AttrUI/frame/white-west-tiger.png",
               "useImageBackdrop": false
             }
           ]
@@ -13301,10 +14101,12 @@
             {
               "id": "4150",
               "image": "Image/UI/AttrUI/mianju/baishuo3.png",
+              "desc": "LSB姿凛轩昂，若白虎踞崖。虎目锐利如寒锋淬霜，睥睨疆场，斩恶诛邪，悍敌莫当。素甲铮鸣，披风卷雪，杀气滔天。侧畔白虎昂首，雪毛映天光，利爪藏锋芒。虎啸一声，山河皆寂，更彰其傲骨铮铮，烈不可摧",
               "anim": "baishuo3",
               "animFolder": "baishuo",
               "effect": "",
               "border": "10027",
+              "borderImage": "Image/UI/AttrUI/frame/white-west-tiger.png",
               "useImageBackdrop": false
             }
           ]
@@ -13341,10 +14143,12 @@
             {
               "id": "4151",
               "image": "Image/UI/AttrUI/mianju/jihuaxian.png",
+              "desc": "RED温婉清雅，娴静端方，静俏佳人",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13355,10 +14159,12 @@
             {
               "id": "4152",
               "image": "Image/UI/AttrUI/mianju/jihuaxian2.png",
+              "desc": "RED温婉清雅，娴静端方，静俏佳人。眉目柔和含静气，温文得体玲珑心",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13369,10 +14175,12 @@
             {
               "id": "4153",
               "image": "Image/UI/AttrUI/mianju/jihuaxian2.png",
+              "desc": "RED温婉清雅，娴静端方，静俏佳人。眉目柔和含静气，温文得体玲珑心。虽有疏离之态，却无冷漠之感，一派大家闺秀风范",
               "anim": "jihuaxian",
               "animFolder": "jihuaxian",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13409,10 +14217,12 @@
             {
               "id": "182",
               "image": "Image/UI/AttrUI/mianju/jinli.png",
+              "desc": "HIY天真烂漫，玲珑通透，是瑶池锦鲤所化，受人间烟火气百年，历经世事仍心怀慈悲，大爱凡尘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13449,10 +14259,12 @@
             {
               "id": "4154",
               "image": "Image/UI/AttrUI/mianju/luoyun.png",
+              "desc": "ORA蛾眉婉转，眼波扫秋，夷光照月，暗云浮动",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13463,10 +14275,12 @@
             {
               "id": "4155",
               "image": "Image/UI/AttrUI/mianju/luoyun2.png",
+              "desc": "ORA蛾眉婉转，眼波扫秋。夷光照月，暗云浮动。一人孑立，神情莫辨，凭栏望，心中饶有不甘",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13477,10 +14291,12 @@
             {
               "id": "4156",
               "image": "Image/UI/AttrUI/mianju/luoyun2.png",
+              "desc": "ORA蛾眉婉转，眼波扫秋。夷光照月，暗云浮动。一人孑立，神情莫辨，凭栏望，心中饶有不甘。此身已置二十年，依旧楼中人，恨也登楼，爱也登楼",
               "anim": "luoyun",
               "animFolder": "luoyun",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13517,10 +14333,12 @@
             {
               "id": "4157",
               "image": "Image/UI/AttrUI/mianju/zhulanduoqing.png",
+              "desc": "HIG目若秋潭，眉似柳叶",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13531,10 +14349,12 @@
             {
               "id": "4158",
               "image": "Image/UI/AttrUI/mianju/zhulanduoqing2.png",
+              "desc": "HIG目若秋潭，眉似柳叶，孤傲寡言，衣风飒飒，独身相往，难识其踪迹",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13545,10 +14365,12 @@
             {
               "id": "4159",
               "image": "Image/UI/AttrUI/mianju/zhulanduoqing3.png",
+              "desc": "HIG目若秋潭，眉似柳叶，孤傲寡言，衣风飒飒，独身相往，难识其踪迹。心中似有留连在，眼底波澜暗起，不予人说",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13559,10 +14381,12 @@
             {
               "id": "4160",
               "image": "Image/UI/AttrUI/mianju/zhulanduoqing3.png",
+              "desc": "HIG目若秋潭，眉似柳叶，孤傲寡言，衣风飒飒，独身相往，难识其踪迹。心中似有留连在，眼底波澜暗起，不予人说。天若有情天亦老，但恨此心独向月，自飘零，东逝水",
               "anim": "yuenvjianfa",
               "animFolder": "yuenvjianfa",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13599,10 +14423,12 @@
             {
               "id": "183",
               "image": "Image/UI/AttrUI/mianju/suboran.png",
+              "desc": "RED眉深目邃，如西域刀刻，掌火藏痕，似旧烙成痂",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13639,10 +14465,12 @@
             {
               "id": "4161",
               "image": "Image/UI/AttrUI/mianju/wentianji.png",
+              "desc": "BLU阴眉耸立，窥透天机看不尽",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13653,10 +14481,12 @@
             {
               "id": "4162",
               "image": "Image/UI/AttrUI/mianju/wentianji2.png",
+              "desc": "BLU阴眉耸立，窥透天机看不尽。纵有神算，天意难违，奇谋妙策，欲出其右",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13667,10 +14497,12 @@
             {
               "id": "4163",
               "image": "Image/UI/AttrUI/mianju/wentianji2.png",
+              "desc": "BLU阴眉耸立，窥透天机看不尽。纵有神算，天意难违，奇谋妙策，欲出其右。此间暗略毒计，再探乾坤，不外胜天半子",
               "anim": "wentianji",
               "animFolder": "wentianji",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13707,10 +14539,12 @@
             {
               "id": "4164",
               "image": "Image/UI/AttrUI/mianju/linghou.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13721,10 +14555,12 @@
             {
               "id": "4165",
               "image": "Image/UI/AttrUI/mianju/linghou2.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深。江湖凶险，屡屡碰壁，幸遇少侠出手，一路结伴同行",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13735,10 +14571,12 @@
             {
               "id": "4166",
               "image": "Image/UI/AttrUI/mianju/linghou3.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深。江湖凶险，屡屡碰壁，幸遇少侠出手，一路结伴同行。十载踏遍山河，过往磨难皆成云烟",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13749,10 +14587,12 @@
             {
               "id": "4167",
               "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深。江湖凶险，屡屡碰壁，幸遇少侠出手，一路结伴同行。十载踏遍山河，过往磨难皆成云烟。半生跌宕漂泊，终有知己相随",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13763,10 +14603,12 @@
             {
               "id": "4168",
               "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深。江湖凶险，屡屡碰壁，幸遇少侠出手，一路结伴同行。十载踏遍山河，过往磨难皆成云烟。半生跌宕漂泊，终有知己相随。岁月流转，心愿未改",
               "anim": "linghou5",
               "animFolder": "linghou",
               "effect": "",
               "border": "10032",
+              "borderImage": "Image/UI/AttrUI/frame/monkey-tree.png",
               "useImageBackdrop": false
             }
           ]
@@ -13777,10 +14619,12 @@
             {
               "id": "4169",
               "image": "Image/UI/AttrUI/mianju/linghou4.png",
+              "desc": "CRO身形挺拔，初下山时涉世未深。江湖凶险，屡屡碰壁，幸遇少侠出手，一路结伴同行。十载踏遍山河，过往磨难皆成云烟。半生跌宕漂泊，终有知己相随。岁月流转，心愿未改。与少侠再御街纵马，看尽长安繁花",
               "anim": "linghou6",
               "animFolder": "linghou",
               "effect": "",
               "border": "10032",
+              "borderImage": "Image/UI/AttrUI/frame/monkey-tree.png",
               "useImageBackdrop": false
             }
           ]
@@ -13817,10 +14661,12 @@
             {
               "id": "4170",
               "image": "Image/UI/AttrUI/mianju/mengpo.png",
+              "desc": "HIC幽姿婉媚，眉眼含笑，引魂照影",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13831,10 +14677,12 @@
             {
               "id": "4171",
               "image": "Image/UI/AttrUI/mianju/mengpo2.png",
+              "desc": "HIC幽姿婉媚，眉眼含笑，引魂照影。发间彼岸如燃，掌中青焰摇曳",
               "anim": "",
               "animFolder": "",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
@@ -13845,10 +14693,12 @@
             {
               "id": "4172",
               "image": "Image/UI/AttrUI/mianju/mengpo2.png",
+              "desc": "HIC幽姿婉媚，眉眼含笑，引魂照影。发间彼岸如燃，掌中青焰摇曳。笑意温柔，却似一碗忘川旧梦",
               "anim": "mengpo",
               "animFolder": "mengpo",
               "effect": "",
               "border": "",
+              "borderImage": "",
               "useImageBackdrop": false
             }
           ]
