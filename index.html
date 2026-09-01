@@ -159,6 +159,45 @@
     }
     summary { cursor: pointer; }
     .empty { color: var(--muted); text-align: center; padding: 40px; }
+    .pagination-wrap {
+      grid-column: 1 / -1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      padding-top: 8px;
+    }
+    .pagination-button {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 10px;
+      padding: 7px 12px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: border-color .15s ease, color .15s ease;
+    }
+    .pagination-button:hover:not(:disabled) {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+    .pagination-button.active {
+      color: #10141c;
+      background: var(--accent);
+      border-color: var(--accent);
+      font-weight: 700;
+    }
+    .pagination-button:disabled {
+      opacity: .45;
+      cursor: not-allowed;
+    }
+    .pagination-info {
+      color: var(--muted);
+      font-size: 12px;
+      padding: 0 6px;
+    }
     @media (max-width: 700px) {
       .controls { grid-template-columns: 1fr; }
       .stats { grid-template-columns: repeat(2, 1fr); }
@@ -185,14 +224,20 @@
     </div>
     <div id="stats" class="stats"></div>
   </header>
-  <main id="grid" class="grid"></main>
+  <main id="grid" class="grid">
+    <div class="empty">输入关键词或选择筛选后显示面具</div>
+  </main>
   <script src="./vendor/spine-webgl.js"></script>
   <script>
     window.imageFallback = element => {
       element.closest(".image-wrap").classList.add("missing");
       element.outerHTML = '<div class="image-fallback">🎭</div>';
     };
-    const state = { masks: [], query: "", type: "", sort: "id", selections: {} };
+    const DEFAULT_PAGE_SIZE = 24;
+    const state = {
+      masks: [], query: "", type: "", sort: "id", selections: {},
+      page: 1
+    };
     const grid = document.getElementById("grid");
     const statsEl = document.getElementById("stats");
 
@@ -252,7 +297,7 @@
       ].filter(Boolean).join(" ");
       const wrapStyle = useImageBackdrop && image ? ` style="--mask-bg:url('./${image}')"` : "";
       const imageHtml = image
-        ? `<img src="./${image}" alt="${mask.name}" onerror="imageFallback(this)">`
+        ? `<img src="./${image}" alt="${mask.name}" loading="lazy" decoding="async" onerror="imageFallback(this)">`
         : `<div class="image-fallback">🎭</div>`;
       const levelChips = chipRow(
         mask.levels.map(item => ({ value: item.level, label: `Lv.${item.level}` })),
@@ -292,7 +337,7 @@
         </article>`;
     }
 
-    function render() {
+    function filteredMasks() {
       const query = state.query.toLowerCase();
       let masks = state.masks.filter(mask => {
         const text = [
@@ -306,7 +351,53 @@
       if (state.sort === "level") masks = masks.sort((a, b) => b.levelCount - a.levelCount);
       if (state.sort === "cailiao") masks = masks.sort((a, b) => Number(b.cailiao || 0) - Number(a.cailiao || 0) || Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
       if (state.sort === "id") masks = masks.sort((a, b) => Number(a.maskId.replace("mianju", "")) - Number(b.maskId.replace("mianju", "")));
-      grid.innerHTML = masks.map(maskCard).join("") || `<div class="empty">没有匹配的面具</div>`;
+      return masks;
+    }
+
+    function hasActiveCriteria() {
+      return Boolean(state.query.trim() || state.type || state.sort !== "id");
+    }
+
+    function pageNumbers(current, total) {
+      if (total <= 7) return Array.from({ length: total }, (_, index) => index + 1);
+      const pages = new Set([1, 2, current - 1, current, current + 1, total - 1, total]);
+      const ordered = [...pages].filter(page => page >= 1 && page <= total).sort((a, b) => a - b);
+      return ordered.flatMap((page, index) => {
+        const previous = ordered[index - 1];
+        return previous && page - previous > 1 ? ["...", page] : [page];
+      });
+    }
+
+    function paginationHtml(totalPages) {
+      if (totalPages <= 1) return "";
+      const buttons = pageNumbers(state.page, totalPages).map(page => page === "..."
+        ? `<span class="pagination-info">…</span>`
+        : `<button class="pagination-button${page === state.page ? " active" : ""}"
+                 data-page="${page}">${page}</button>`
+      ).join("");
+      return `
+        <div class="pagination-wrap">
+          <button class="pagination-button" data-page="${state.page - 1}"${state.page <= 1 ? " disabled" : ""}>上一页</button>
+          ${buttons}
+          <button class="pagination-button" data-page="${state.page + 1}"${state.page >= totalPages ? " disabled" : ""}>下一页</button>
+        </div>`;
+    }
+
+    function render() {
+      if (!hasActiveCriteria()) {
+        state.page = 1;
+        grid.innerHTML = `<div class="empty">输入关键词或选择筛选后显示面具</div>`;
+        observeSpineCanvases();
+        return;
+      }
+
+      const masks = filteredMasks();
+      const totalPages = Math.max(1, Math.ceil(masks.length / DEFAULT_PAGE_SIZE));
+      state.page = Math.min(Math.max(state.page, 1), totalPages);
+      const start = (state.page - 1) * DEFAULT_PAGE_SIZE;
+      const pageMasks = masks.slice(start, start + DEFAULT_PAGE_SIZE);
+      grid.innerHTML = pageMasks.map(maskCard).join("") || `<div class="empty">没有匹配的面具</div>`;
+      grid.insertAdjacentHTML("beforeend", paginationHtml(totalPages));
       observeSpineCanvases();
     }
 
@@ -325,14 +416,17 @@
 
     document.getElementById("search").addEventListener("input", event => {
       state.query = event.target.value;
+      state.page = 1;
       render();
     });
     document.getElementById("type-filter").addEventListener("change", event => {
       state.type = event.target.value;
+      state.page = 1;
       render();
     });
     document.getElementById("sort").addEventListener("change", event => {
       state.sort = event.target.value;
+      state.page = 1;
       render();
     });
 
@@ -348,6 +442,16 @@
         state.selections[maskId].art = chip.dataset.value;
       }
       render();
+    });
+
+    grid.addEventListener("click", event => {
+      const button = event.target.closest("[data-page]");
+      if (!button || button.disabled) return;
+      const page = Number(button.dataset.page);
+      if (!Number.isFinite(page) || page === state.page) return;
+      state.page = page;
+      render();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
     const spineCache = new Map();
