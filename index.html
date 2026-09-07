@@ -212,7 +212,29 @@
       .controls { grid-template-columns: 1fr; }
       .stats { grid-template-columns: repeat(2, 1fr); }
     }
-  </style>
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+    }
+
+    @media (max-width: 640px) {
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
+        gap: 10px;
+        padding: 0 12px 40px;
+      }
+      .card-body { padding: 10px; }
+      .mask-name { font-size: 14px; margin-bottom: 2px; }
+      .mask-id { font-size: 11px; }
+      .point { font-size: 12px; padding: 2px 8px; }
+      .tag { font-size: 11px; padding: 1px 6px; }
+      .chip { font-size: 11px; padding: 2px 7px; }
+      details { font-size: 12px; }
+      .pagination-button { padding: 6px 10px; }
+      .pagination-wrap { padding-top: 8px; }
+      header { padding: 24px 12px 16px; }
+    }
+
+</style>
 </head>
 <body>
   <header>
