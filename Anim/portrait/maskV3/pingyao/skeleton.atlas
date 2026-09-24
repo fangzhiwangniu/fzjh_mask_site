@@ -1,0 +1,194 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cmz-wq-zuo
+  rotate: false
+  xy: 0, 879
+  size: 324, 139
+  orig: 324, 139
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_1
+  rotate: true
+  xy: 575, 460
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_2
+  rotate: false
+  xy: 628, 787
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_3
+  rotate: true
+  xy: 575, 202
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_4
+  rotate: true
+  xy: 258, 194
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_5
+  rotate: true
+  xy: 0, 43
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+py-f1
+  rotate: false
+  xy: 291, 798
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+py-f2
+  rotate: true
+  xy: 716, 94
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+py-guang
+  rotate: false
+  xy: 326, 718
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+py-jz1
+  rotate: true
+  xy: 0, 301
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+py-jz2
+  rotate: false
+  xy: 291, 452
+  size: 282, 264
+  orig: 282, 264
+  offset: 0, 0
+  index: -1
+py-lz
+  rotate: true
+  xy: 385, 98
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+py-pd
+  rotate: true
+  xy: 702, 734
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+py-pd2
+  rotate: false
+  xy: 491, 232
+  size: 72, 218
+  orig: 72, 218
+  offset: 0, 0
+  index: -1
+py-qg
+  rotate: true
+  xy: 491, 0
+  size: 200, 223
+  orig: 200, 223
+  offset: 0, 0
+  index: -1
+py-tf1
+  rotate: false
+  xy: 0, 581
+  size: 289, 296
+  orig: 289, 296
+  offset: 0, 0
+  index: -1
+py-tou
+  rotate: true
+  xy: 233, 83
+  size: 109, 150
+  orig: 109, 150
+  offset: 0, 0
+  index: -1
+py-x
+  rotate: true
+  xy: 628, 724
+  size: 61, 72
+  orig: 70, 72
+  offset: 9, 0
+  index: -1
+py-yq
+  rotate: true
+  xy: 291, 737
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pinyaotexiao1_10
+  rotate: true
+  xy: 466, 233
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_11
+  rotate: false
+  xy: 516, 0
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_12
+  rotate: true
+  xy: 699, 233
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_6
+  rotate: true
+  xy: 0, 233
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_7
+  rotate: false
+  xy: 0, 0
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_8
+  rotate: true
+  xy: 233, 233
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1
+pinyaotexiao1_9
+  rotate: false
+  xy: 258, 0
+  size: 256, 231
+  orig: 256, 231
+  offset: 0, 0
+  index: -1

@@ -1,17 +1,17 @@
 {
   "stats": {
-    "maskResRecords": 500,
-    "maskUpgradeRecords": 405,
-    "masks": 283,
-    "achievements": 297,
-    "directAchievements": 265,
-    "combinedAchievements": 32,
-    "withImage": 283,
+    "maskResRecords": 503,
+    "maskUpgradeRecords": 408,
+    "masks": 284,
+    "achievements": 299,
+    "directAchievements": 266,
+    "combinedAchievements": 33,
+    "withImage": 284,
     "withoutImage": 0,
     "withoutDirectAchievement": 18,
-    "upgradable": 48,
-    "dynamic": 102,
-    "levelDescChanges": 42,
+    "upgradable": 49,
+    "dynamic": 103,
+    "levelDescChanges": 43,
     "levelBorderChanges": 9
   },
   "masks": [
@@ -14197,7 +14197,19 @@
           ]
         }
       ],
-      "combinedAchievements": []
+      "combinedAchievements": [
+        {
+          "name": "摘星旧约",
+          "id": "mianjuchengjiu311",
+          "point": 65,
+          "demand": "mianju1275;mianju1277;mianju1283",
+          "masks": [
+            "mianju1275",
+            "mianju1277",
+            "mianju1283"
+          ]
+        }
+      ]
     },
     {
       "maskId": "mianju1276",
@@ -14313,7 +14325,19 @@
           ]
         }
       ],
-      "combinedAchievements": []
+      "combinedAchievements": [
+        {
+          "name": "摘星旧约",
+          "id": "mianjuchengjiu311",
+          "point": 65,
+          "demand": "mianju1275;mianju1277;mianju1283",
+          "masks": [
+            "mianju1275",
+            "mianju1277",
+            "mianju1283"
+          ]
+        }
+      ]
     },
     {
       "maskId": "mianju1278",
@@ -14716,6 +14740,92 @@
         }
       ],
       "combinedAchievements": []
+    },
+    {
+      "maskId": "mianju1283",
+      "name": "摘星平遥",
+      "image": "Image/UI/AttrUI/mianju/pingyao.png",
+      "desc": "GRN云鬓凤眸，朱砂点额，眉宇间自有一股不容侵犯的贵气",
+      "maskType": "2",
+      "levelCount": 3,
+      "maxLevel": "3",
+      "canUpgrade": true,
+      "canDeal": true,
+      "cailiao": "64",
+      "levels": [
+        {
+          "level": 1,
+          "arts": [
+            {
+              "id": "4173",
+              "image": "Image/UI/AttrUI/mianju/pingyao.png",
+              "desc": "GRN云鬓凤眸，朱砂点额，眉宇间自有一股不容侵犯的贵气",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": "",
+              "borderImage": "",
+              "useImageBackdrop": false
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "arts": [
+            {
+              "id": "4174",
+              "image": "Image/UI/AttrUI/mianju/pingyao2.png",
+              "desc": "GRN云鬓凤眸，朱砂点额。身后隐约浮现摘星楼轮廓，檐角飞翘，眉宇间多了一分凝重",
+              "anim": "",
+              "animFolder": "",
+              "effect": "",
+              "border": "",
+              "borderImage": "",
+              "useImageBackdrop": false
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "arts": [
+            {
+              "id": "4175",
+              "image": "Image/UI/AttrUI/mianju/pingyao2.png",
+              "desc": "GRN云鬓凤眸，朱砂点额。身后摘星楼光影流转，眉宇间凝重化作一缕怅然，眸光深处似有挣扎翻涌",
+              "anim": "pingyao",
+              "animFolder": "pingyao",
+              "effect": "",
+              "border": "",
+              "borderImage": "",
+              "useImageBackdrop": false
+            }
+          ]
+        }
+      ],
+      "directAchievements": [
+        {
+          "name": "摘星入怀",
+          "id": "mianjuchengjiu310",
+          "point": 55,
+          "demand": "mianju1283",
+          "masks": [
+            "mianju1283"
+          ]
+        }
+      ],
+      "combinedAchievements": [
+        {
+          "name": "摘星旧约",
+          "id": "mianjuchengjiu311",
+          "point": 65,
+          "demand": "mianju1275;mianju1277;mianju1283",
+          "masks": [
+            "mianju1275",
+            "mianju1277",
+            "mianju1283"
+          ]
+        }
+      ]
     }
   ]
 }
